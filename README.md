@@ -73,7 +73,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Executive Vote: Raise the Stability Fee by 3% to a total of 19.5% per year](https://blog.makerdao.com/executive-vote-stability-fee-19-5/)
 - [Maker DAI Economics, Part I](https://medium.com/altcoin-magazine/maker-dai-economics-part-i-bb34ba258a6f)
 - [Critical Update to Governance Voting Contract](https://www.reddit.com/r/MakerDAO/comments/ble9j1/notice_critical_update_to_governance_voting/)
-- [DAI Stablecoin’s Stability Fee Nears 20% After Latest MakerDAO Vote](DAI Stablecoin’s Stability Fee Nears 20% After Latest MakerDAO Vote)
+- [DAI Stablecoin’s Stability Fee Nears 20% After Latest MakerDAO Vote](https://www.coindesk.com/dai-stablecoins-stability-fee-nears-20-after-latest-makerdao-vote)
 - [Maker DAI Has an “Insane Incentive Misalignment” Says ETH Researcher](https://www.trustnodes.com/2019/04/20/maker-dai-has-an-insane-incentive-misalignment-says-eth-researcher-fees-hiked-to-14-mkr-falls)
 - [Nitrogen partners with Maker: DAI is available on new Launchpad](https://medium.com/nitrogen/nitrogen-partners-with-maker-dai-is-available-on-new-launchpad-a59e4bfe6ee6)
 - [MakerDAO Reaches All Time High Against Bitcoin and ETH](https://www.trustnodes.com/2019/02/23/makerdao-reaches-all-time-high-against-bitcoin-and-eth)
@@ -87,5 +87,5 @@ A "potpourri" of resources about Decentralized Finance.
 - [TokenSets Crypto Management](https://www.tokensets.com)
 - [Nexus Mutual: A Decentralized Alternative to Insurance](https://www.nexusmutual.io)
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
-- [Ren’s Future in DeFi](Ren’s Future in DeFi)
+- [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
 
