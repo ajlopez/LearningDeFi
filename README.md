@@ -94,3 +94,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
 - [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
 
+## Stable Coins
+
+- [Former Bitcoin Core Developer Jeff Garzik: ‘The Stablecoin is Here to Stay’](https://www.forbes.com/sites/justinoconnell/2019/10/07/former-bitcoin-core-developer-jeff-garzik-on-defi-stablecoins--bitcoin/#73669a9a7f95)
+
