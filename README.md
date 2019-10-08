@@ -11,9 +11,12 @@ A "potpourri" of resources about Decentralized Finance.
 - [POV Crypto Podcast: Your Crypto Echo-Chamber Dies Here](https://podcasts.apple.com/us/podcast/pov-crypto-podcast-your-crypto-echo-chamber-dies-here/id1436674724)
 - [Bankless](https://bankless.substack.com)
 - [DeFi and Open Finance](https://defiprime.com)
+- [The Defiant](https://thedefiant.substack.com)
 
 ## Tutorials
 
+- [DeFi Tutorials](https://defitutorials.substack.com)
+- [DeFi Weekly](https://defiweekly.substack.com)
 - [Isolated and Cross Margin](https://www.bitmex.com/app/isolatedMargin)
 
 ## Bitcoin
