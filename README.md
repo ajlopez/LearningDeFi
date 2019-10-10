@@ -93,6 +93,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Nexus Mutual: A Decentralized Alternative to Insurance](https://www.nexusmutual.io)
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
 - [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
+- [Introducing pTokens — provable, portable, pegged](https://medium.com/oraclize/introducing-ptokens-provable-portable-pegged-70911e200933)
 
 ## Stable Coins
 
