@@ -12,6 +12,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Bankless](https://bankless.substack.com)
 - [DeFi and Open Finance](https://defiprime.com)
 - [The Defiant](https://thedefiant.substack.com)
+- [Opening #DeFi](https://medium.com/defi-network/opening-defi-42a5afdb71e0)
 
 ## Tutorials
 
