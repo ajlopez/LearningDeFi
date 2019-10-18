@@ -9,6 +9,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Crypto Lending the Missing Ingredient](https://medium.com/swlh/crypto-lending-the-missing-ingredient-4862d54cdf53)
 - [DeFi Won't Grow if it Keeps Relying on Value Locked](https://thedefiant.substack.com/p/defi-wont-grow-if-it-keeps-relying)
 - [POV Crypto Podcast: Your Crypto Echo-Chamber Dies Here](https://podcasts.apple.com/us/podcast/pov-crypto-podcast-your-crypto-echo-chamber-dies-here/id1436674724)
+- [The 100+ Projects Pioneering Decentralized Finance](https://media.consensys.net/the-100-projects-pioneering-decentralized-finance-717478ddcdf2)
 
 ## Tutorials
 
