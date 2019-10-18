@@ -10,9 +10,15 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Won't Grow if it Keeps Relying on Value Locked](https://thedefiant.substack.com/p/defi-wont-grow-if-it-keeps-relying)
 - [POV Crypto Podcast: Your Crypto Echo-Chamber Dies Here](https://podcasts.apple.com/us/podcast/pov-crypto-podcast-your-crypto-echo-chamber-dies-here/id1436674724)
 - [The 100+ Projects Pioneering Decentralized Finance](https://media.consensys.net/the-100-projects-pioneering-decentralized-finance-717478ddcdf2)
+- [Bankless](https://bankless.substack.com)
+- [DeFi and Open Finance](https://defiprime.com)
+- [The Defiant](https://thedefiant.substack.com)
+- [Opening #DeFi](https://medium.com/defi-network/opening-defi-42a5afdb71e0)
 
 ## Tutorials
 
+- [DeFi Tutorials](https://defitutorials.substack.com)
+- [DeFi Weekly](https://defiweekly.substack.com)
 - [Isolated and Cross Margin](https://www.bitmex.com/app/isolatedMargin)
 
 ## Bitcoin
@@ -89,4 +95,13 @@ A "potpourri" of resources about Decentralized Finance.
 - [Nexus Mutual: A Decentralized Alternative to Insurance](https://www.nexusmutual.io)
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
 - [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
+- [Introducing pTokens — provable, portable, pegged](https://medium.com/oraclize/introducing-ptokens-provable-portable-pegged-70911e200933)
+
+## News
+
+- [Juno raises $3M for a 'neo banking' platform built on Ethereum](https://www.theblockcrypto.com/linked/42857/juno-raises-3m-for-a-neo-banking-platform-built-on-ethereum)
+
+## Stable Coins
+
+- [Former Bitcoin Core Developer Jeff Garzik: ‘The Stablecoin is Here to Stay’](https://www.forbes.com/sites/justinoconnell/2019/10/07/former-bitcoin-core-developer-jeff-garzik-on-defi-stablecoins--bitcoin/#73669a9a7f95)
 
