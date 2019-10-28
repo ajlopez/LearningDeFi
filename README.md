@@ -27,6 +27,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Todo lo que Necesitas Saber sobre DeFi en Bitcoin](https://medium.com/moneyonchain-es/todo-lo-que-necesitas-saber-sobre-defi-en-bitcoin-6f66b92321ec)
 - [Bitcoin Dominates On Price - Can It Dominate On Other Factors, Too?](https://cryptodaily.co.uk/2019/09/bitcoin-dominates-on-price-can-it-dominate-on-other-factors-too)
 - [Opinion: DeFi is for Bitcoin Too](https://www.longhash.com/news/opinion-defi-is-for-bitcoin-too)
+- [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1)
 
 ## Ethereum
 
@@ -96,6 +97,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
 - [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
 - [Introducing pTokens — provable, portable, pegged](https://medium.com/oraclize/introducing-ptokens-provable-portable-pegged-70911e200933)
+- [How we used Ethereum and DAI to create, tokenise and settle a ‘self-executing’ smart invoice](https://medium.com/tradeshift-engineering/how-we-used-ethereum-and-dai-to-create-tokenise-and-settle-a-self-executing-smart-invoice-4ae94396f6f5)
 
 ## News
 
@@ -103,5 +105,7 @@ A "potpourri" of resources about Decentralized Finance.
 
 ## Stable Coins
 
+- [Stablecoins](https://medium.com/fluidity/stablecoins-ea7fc5a8740d)
 - [Former Bitcoin Core Developer Jeff Garzik: ‘The Stablecoin is Here to Stay’](https://www.forbes.com/sites/justinoconnell/2019/10/07/former-bitcoin-core-developer-jeff-garzik-on-defi-stablecoins--bitcoin/#73669a9a7f95)
 - [Op Ed: Stablecoins Report Illustrates That G7 Leaders Don’t Understand Bitcoin](https://bitcoinmagazine.com/articles/op-ed-stablecoins-report-illustrates-that-g7-leaders-dont-understand-bitcoin)
+    
