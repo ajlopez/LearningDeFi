@@ -108,4 +108,5 @@ A "potpourri" of resources about Decentralized Finance.
 - [Stablecoins](https://medium.com/fluidity/stablecoins-ea7fc5a8740d)
 - [Former Bitcoin Core Developer Jeff Garzik: ‘The Stablecoin is Here to Stay’](https://www.forbes.com/sites/justinoconnell/2019/10/07/former-bitcoin-core-developer-jeff-garzik-on-defi-stablecoins--bitcoin/#73669a9a7f95)
 - [Op Ed: Stablecoins Report Illustrates That G7 Leaders Don’t Understand Bitcoin](https://bitcoinmagazine.com/articles/op-ed-stablecoins-report-illustrates-that-g7-leaders-dont-understand-bitcoin)
-    
+- [Ethereum Is No Longer a Monopoly Platform for Stablecoins](https://medium.com/@georgeethan384/ethereum-is-no-longer-a-monopoly-platform-for-stablecoins-5219b5748456)
+
