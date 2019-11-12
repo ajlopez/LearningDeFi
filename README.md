@@ -15,10 +15,15 @@ A "potpourri" of resources about Decentralized Finance.
 - [The Defiant](https://thedefiant.substack.com)
 - [Opening #DeFi](https://medium.com/defi-network/opening-defi-42a5afdb71e0)
 
+## Information
+
+- [DeFi Weekly](https://defiweekly.substack.com)
+- [DefiPrime](https://defiprime.com/)
+- [DefiPulse](https://defipulse.com/)
+
 ## Tutorials
 
 - [DeFi Tutorials](https://defitutorials.substack.com)
-- [DeFi Weekly](https://defiweekly.substack.com)
 - [Isolated and Cross Margin](https://www.bitmex.com/app/isolatedMargin)
 
 ## Bitcoin
@@ -98,6 +103,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
 - [Introducing pTokens — provable, portable, pegged](https://medium.com/oraclize/introducing-ptokens-provable-portable-pegged-70911e200933)
 - [How we used Ethereum and DAI to create, tokenise and settle a ‘self-executing’ smart invoice](https://medium.com/tradeshift-engineering/how-we-used-ethereum-and-dai-to-create-tokenise-and-settle-a-self-executing-smart-invoice-4ae94396f6f5)
+- [PoolTogether](https://www.pooltogether.us/)
+
 
 ## News
 
