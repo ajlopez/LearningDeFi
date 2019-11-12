@@ -97,6 +97,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Tornado Lend](https://devpost.com/software/tornado-lend)
 - [Vega is a protocol for creating and trading derivatives on a fully decentralised network](https://vegaprotocol.io)
 - [Compound Protocol](https://compound.finance)
+- [Uniswap Exchange Protocol](https://uniswap.io/)
 - [TokenSets Crypto Management](https://www.tokensets.com)
 - [Nexus Mutual: A Decentralized Alternative to Insurance](https://www.nexusmutual.io)
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
