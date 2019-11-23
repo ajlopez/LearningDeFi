@@ -91,6 +91,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Nitrogen partners with Maker: DAI is available on new Launchpad](https://medium.com/nitrogen/nitrogen-partners-with-maker-dai-is-available-on-new-launchpad-a59e4bfe6ee6)
 - [MakerDAO Reaches All Time High Against Bitcoin and ETH](https://www.trustnodes.com/2019/02/23/makerdao-reaches-all-time-high-against-bitcoin-and-eth)
 - [MakerDAO y DAI en ESPAÑOL - Entrevista con Nadia Álvarez (2019)](https://www.youtube.com/watch?v=xb3ddFIuCg0)
+- [L41: Multi Collateral DAI con Mariano Conti](https://anchor.fm/lunaticoin/episodes/L41-Multi-Collateral-DAI-con-Mariano-Conti-e951im)
 
 ## Projects
 
