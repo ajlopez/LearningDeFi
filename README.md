@@ -106,7 +106,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introducing pTokens — provable, portable, pegged](https://medium.com/oraclize/introducing-ptokens-provable-portable-pegged-70911e200933)
 - [How we used Ethereum and DAI to create, tokenise and settle a ‘self-executing’ smart invoice](https://medium.com/tradeshift-engineering/how-we-used-ethereum-and-dai-to-create-tokenise-and-settle-a-self-executing-smart-invoice-4ae94396f6f5)
 - [PoolTogether](https://www.pooltogether.us/)
-
+- [Centrifuge Chain — the Gateway for Real-World Assets to the Blockchain Multiverse](https://medium.com/centrifuge/centrifuge-chain-the-gateway-for-real-world-assets-to-the-blockchain-multiverse-41dd5597ecf1)
 
 ## News
 
