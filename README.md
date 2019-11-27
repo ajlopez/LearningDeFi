@@ -16,10 +16,15 @@ A "potpourri" of resources about Decentralized Finance.
 - [Opening #DeFi](https://medium.com/defi-network/opening-defi-42a5afdb71e0)
 - [Business Models in Decentralized Finance](https://medium.com/coinmonks/business-models-in-decentralized-finance-d71604476825)
 
+## Information
+
+- [DeFi Weekly](https://defiweekly.substack.com)
+- [DefiPrime](https://defiprime.com/)
+- [DefiPulse](https://defipulse.com/)
+
 ## Tutorials
 
 - [DeFi Tutorials](https://defitutorials.substack.com)
-- [DeFi Weekly](https://defiweekly.substack.com)
 - [Isolated and Cross Margin](https://www.bitmex.com/app/isolatedMargin)
 
 ## Bitcoin
@@ -86,19 +91,23 @@ A "potpourri" of resources about Decentralized Finance.
 - [Maker DAI Has an “Insane Incentive Misalignment” Says ETH Researcher](https://www.trustnodes.com/2019/04/20/maker-dai-has-an-insane-incentive-misalignment-says-eth-researcher-fees-hiked-to-14-mkr-falls)
 - [Nitrogen partners with Maker: DAI is available on new Launchpad](https://medium.com/nitrogen/nitrogen-partners-with-maker-dai-is-available-on-new-launchpad-a59e4bfe6ee6)
 - [MakerDAO Reaches All Time High Against Bitcoin and ETH](https://www.trustnodes.com/2019/02/23/makerdao-reaches-all-time-high-against-bitcoin-and-eth)
-
+- [MakerDAO y DAI en ESPAÑOL - Entrevista con Nadia Álvarez (2019)](https://www.youtube.com/watch?v=xb3ddFIuCg0)
+- [L41: Multi Collateral DAI con Mariano Conti](https://anchor.fm/lunaticoin/episodes/L41-Multi-Collateral-DAI-con-Mariano-Conti-e951im)
 
 ## Projects
 
 - [Tornado Lend](https://devpost.com/software/tornado-lend)
 - [Vega is a protocol for creating and trading derivatives on a fully decentralised network](https://vegaprotocol.io)
 - [Compound Protocol](https://compound.finance)
+- [Uniswap Exchange Protocol](https://uniswap.io/)
 - [TokenSets Crypto Management](https://www.tokensets.com)
 - [Nexus Mutual: A Decentralized Alternative to Insurance](https://www.nexusmutual.io)
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
 - [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
 - [Introducing pTokens — provable, portable, pegged](https://medium.com/oraclize/introducing-ptokens-provable-portable-pegged-70911e200933)
 - [How we used Ethereum and DAI to create, tokenise and settle a ‘self-executing’ smart invoice](https://medium.com/tradeshift-engineering/how-we-used-ethereum-and-dai-to-create-tokenise-and-settle-a-self-executing-smart-invoice-4ae94396f6f5)
+- [PoolTogether](https://www.pooltogether.us/)
+- [Centrifuge Chain — the Gateway for Real-World Assets to the Blockchain Multiverse](https://medium.com/centrifuge/centrifuge-chain-the-gateway-for-real-world-assets-to-the-blockchain-multiverse-41dd5597ecf1)
 
 ## News
 
@@ -109,4 +118,5 @@ A "potpourri" of resources about Decentralized Finance.
 - [Stablecoins](https://medium.com/fluidity/stablecoins-ea7fc5a8740d)
 - [Former Bitcoin Core Developer Jeff Garzik: ‘The Stablecoin is Here to Stay’](https://www.forbes.com/sites/justinoconnell/2019/10/07/former-bitcoin-core-developer-jeff-garzik-on-defi-stablecoins--bitcoin/#73669a9a7f95)
 - [Op Ed: Stablecoins Report Illustrates That G7 Leaders Don’t Understand Bitcoin](https://bitcoinmagazine.com/articles/op-ed-stablecoins-report-illustrates-that-g7-leaders-dont-understand-bitcoin)
-    
+- [Ethereum Is No Longer a Monopoly Platform for Stablecoins](https://medium.com/@georgeethan384/ethereum-is-no-longer-a-monopoly-platform-for-stablecoins-5219b5748456)
+
