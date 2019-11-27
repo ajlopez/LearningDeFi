@@ -14,6 +14,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi and Open Finance](https://defiprime.com)
 - [The Defiant](https://thedefiant.substack.com)
 - [Opening #DeFi](https://medium.com/defi-network/opening-defi-42a5afdb71e0)
+- [Business Models in Decentralized Finance](https://medium.com/coinmonks/business-models-in-decentralized-finance-d71604476825)
 
 ## Tutorials
 
