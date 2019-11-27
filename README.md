@@ -120,3 +120,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Op Ed: Stablecoins Report Illustrates That G7 Leaders Don’t Understand Bitcoin](https://bitcoinmagazine.com/articles/op-ed-stablecoins-report-illustrates-that-g7-leaders-dont-understand-bitcoin)
 - [Ethereum Is No Longer a Monopoly Platform for Stablecoins](https://medium.com/@georgeethan384/ethereum-is-no-longer-a-monopoly-platform-for-stablecoins-5219b5748456)
 
+## Exchanges
+
+- [CryptoSwitch](https://coinswitch.co/)
+
