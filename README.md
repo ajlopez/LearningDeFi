@@ -41,6 +41,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Why Vitalik Buterin thinks Ethereum and DeFi will disrupt finance](https://cryptoslate.com/why-vitalik-buterin-thinks-ethereum-and-defi-will-disrupt-finance/)
 - [Is DeFi Ethereums Killer App?](https://medium.com/@davekaj/is-defi-ethereums-killer-app-60f18bf785af)
 - [DeFi Hackathon](https://hackathon.sfblockchainweek.io)
+- [How DeFi cannibalizes PoS security](https://medium.com/dragonfly-research/how-defi-cannibalizes-pos-security-84b146f00697)
 
 ## MakerDAO
 
@@ -95,6 +96,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [MakerDAO y DAI en ESPAÑOL - Entrevista con Nadia Álvarez (2019)](https://www.youtube.com/watch?v=xb3ddFIuCg0)
 - [L41: Multi Collateral DAI con Mariano Conti](https://anchor.fm/lunaticoin/episodes/L41-Multi-Collateral-DAI-con-Mariano-Conti-e951im)
 - [¿Qué es DAI?](https://www.queesdai.com/)
+
+## MoneyOnChain
+
+- [What tokens are available in MoneyOnChain and how do they work?](https://www.youtube.com/watch?v=XkEdPGxj7so)
 
 ## Projects
 
