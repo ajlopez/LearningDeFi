@@ -97,6 +97,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [MakerDAO y DAI en ESPAÑOL - Entrevista con Nadia Álvarez (2019)](https://www.youtube.com/watch?v=xb3ddFIuCg0)
 - [L41: Multi Collateral DAI con Mariano Conti](https://anchor.fm/lunaticoin/episodes/L41-Multi-Collateral-DAI-con-Mariano-Conti-e951im)
 - [¿Qué es DAI?](https://www.queesdai.com/)
+- [Much Clearer DAI](https://github.com/alexvansande/MuchClearerDAI/blob/master/README.md)
+
 
 ## MoneyOnChain
 
