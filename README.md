@@ -35,6 +35,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Bitcoin Dominates On Price - Can It Dominate On Other Factors, Too?](https://cryptodaily.co.uk/2019/09/bitcoin-dominates-on-price-can-it-dominate-on-other-factors-too)
 - [Opinion: DeFi is for Bitcoin Too](https://www.longhash.com/news/opinion-defi-is-for-bitcoin-too)
 - [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1)
+- [Defi for Bitcoin](https://developers.rsk.co/defi/)
 
 ## Ethereum
 
