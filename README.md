@@ -103,6 +103,7 @@ A "potpourri" of resources about Decentralized Finance.
 ## MoneyOnChain
 
 - [What tokens are available in MoneyOnChain and how do they work?](https://www.youtube.com/watch?v=XkEdPGxj7so)
+- [Mainnet](https://moneyonchain.com/mainnet/)
 
 ## Projects
 
