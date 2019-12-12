@@ -98,7 +98,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [L41: Multi Collateral DAI con Mariano Conti](https://anchor.fm/lunaticoin/episodes/L41-Multi-Collateral-DAI-con-Mariano-Conti-e951im)
 - [¿Qué es DAI?](https://www.queesdai.com/)
 - [Much Clearer DAI](https://github.com/alexvansande/MuchClearerDAI/blob/master/README.md)
-
+- [4 stablecoins ancladas a dinero fiat y a criptomonedas, ¿cuál elegir?](https://www.criptonoticias.com/analisis-investigacion/4-stablecoins-ancladas-dinero-fiat-criptomonedas-cual-elegir/)
 
 ## MoneyOnChain
 
