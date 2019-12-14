@@ -105,6 +105,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [What tokens are available in MoneyOnChain and how do they work?](https://www.youtube.com/watch?v=XkEdPGxj7so)
 - [Mainnet](https://moneyonchain.com/mainnet/)
 - [Bitcoiners Are Building a Sidechain Version of Ethereum’s MakerDAO](https://www.coindesk.com/bitcoiners-are-building-a-sidechain-version-of-ethereums-makerdao)
+- [First Bitcoin-backed Stablecoin Launches on RSK Network](https://ihodl.com/topnews/2019-12-13/first-bitcoin-backed-stablecoin-launches-rsk-network/)
 
 ## Projects
 
