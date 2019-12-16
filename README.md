@@ -16,6 +16,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Opening #DeFi](https://medium.com/defi-network/opening-defi-42a5afdb71e0)
 - [Business Models in Decentralized Finance](https://medium.com/coinmonks/business-models-in-decentralized-finance-d71604476825)
 - [Best Books for Crypto Traders](https://medium.com/shapeshift-stories/best-books-for-crypto-traders-a4127a6fbc45)
+- [DeFi Accounting: A compliant and tax-ready tracking DeFi Activity](https://medium.com/orwl-avocats/defi-accounting-a-compliant-and-tax-ready-tracking-defi-activity-31d93ef60d8e)
 
 ## Information
 
