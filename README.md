@@ -123,6 +123,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [PoolTogether](https://www.pooltogether.us/)
 - [Centrifuge Chain — the Gateway for Real-World Assets to the Blockchain Multiverse](https://medium.com/centrifuge/centrifuge-chain-the-gateway-for-real-world-assets-to-the-blockchain-multiverse-41dd5597ecf1)
 - [Sablier Real-Time Finance](https://pay.sablier.finance/)
+- [0x Protocol — Building Decentralized Exchanges (…and so much more?)](https://medium.com/trivial-co/0x-protocol-building-decentralized-exchanges-and-so-much-more-e9fbbc9f35ca)
 
 ## News
 
