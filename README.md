@@ -23,6 +23,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Weekly](https://defiweekly.substack.com)
 - [DefiPrime](https://defiprime.com/)
 - [DefiPulse](https://defipulse.com/)
+- [DefiScore: Compare DeFi Lending by Asset](https://app.defiscore.io/assets/zrx)
 
 ## Tutorials
 
@@ -121,9 +122,12 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introducing pTokens — provable, portable, pegged](https://medium.com/oraclize/introducing-ptokens-provable-portable-pegged-70911e200933)
 - [How we used Ethereum and DAI to create, tokenise and settle a ‘self-executing’ smart invoice](https://medium.com/tradeshift-engineering/how-we-used-ethereum-and-dai-to-create-tokenise-and-settle-a-self-executing-smart-invoice-4ae94396f6f5)
 - [PoolTogether](https://www.pooltogether.us/)
+- [Funding Token for PoolTogether, and Other Money-Lockup Apps](https://medium.com/@TrustlessState/funding-model-for-pooltogether-and-other-money-lockup-apps-86b928900efa)
 - [Centrifuge Chain — the Gateway for Real-World Assets to the Blockchain Multiverse](https://medium.com/centrifuge/centrifuge-chain-the-gateway-for-real-world-assets-to-the-blockchain-multiverse-41dd5597ecf1)
 - [Sablier Real-Time Finance](https://pay.sablier.finance/)
 - [0x Protocol — Building Decentralized Exchanges (…and so much more?)](https://medium.com/trivial-co/0x-protocol-building-decentralized-exchanges-and-so-much-more-e9fbbc9f35ca)
+- [0x Create and manage your staking pool](https://0x.org/docs/guides/create-staking-pool)
+
 
 ## News
 
