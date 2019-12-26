@@ -28,6 +28,7 @@ A "potpourri" of resources about Decentralized Finance.
 ## Tutorials
 
 - [Diving into DeFi: a Beginner’s Guide](https://blog.wings.ai/diving-into-defi-a-beginners-guide-1b0253855e52)
+- [What is DeFi?](https://medium.com/@safetythird/what-is-defi-2cee0dceeeab)
 - [DeFi Tutorials](https://defitutorials.substack.com)
 - [Isolated and Cross Margin](https://www.bitmex.com/app/isolatedMargin)
 
