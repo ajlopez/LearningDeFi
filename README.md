@@ -17,6 +17,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Business Models in Decentralized Finance](https://medium.com/coinmonks/business-models-in-decentralized-finance-d71604476825)
 - [Best Books for Crypto Traders](https://medium.com/shapeshift-stories/best-books-for-crypto-traders-a4127a6fbc45)
 - [DeFi Accounting: A compliant and tax-ready tracking DeFi Activity](https://medium.com/orwl-avocats/defi-accounting-a-compliant-and-tax-ready-tracking-defi-activity-31d93ef60d8e)
+- [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 
 ## Information
 
