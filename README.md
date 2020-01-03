@@ -18,6 +18,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Best Books for Crypto Traders](https://medium.com/shapeshift-stories/best-books-for-crypto-traders-a4127a6fbc45)
 - [DeFi Accounting: A compliant and tax-ready tracking DeFi Activity](https://medium.com/orwl-avocats/defi-accounting-a-compliant-and-tax-ready-tracking-defi-activity-31d93ef60d8e)
 - [#KyberDeFi Hackathon: Meet the Winners](https://blog.kyber.network/kyberdefi-hackathon-meet-the-winners-bea5bc9ec983)
+- [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 
 ## Information
 
@@ -28,6 +29,8 @@ A "potpourri" of resources about Decentralized Finance.
 
 ## Tutorials
 
+- [Diving into DeFi: a Beginner’s Guide](https://blog.wings.ai/diving-into-defi-a-beginners-guide-1b0253855e52)
+- [What is DeFi?](https://medium.com/@safetythird/what-is-defi-2cee0dceeeab)
 - [DeFi Tutorials](https://defitutorials.substack.com)
 - [Isolated and Cross Margin](https://www.bitmex.com/app/isolatedMargin)
 
@@ -102,6 +105,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [¿Qué es DAI?](https://www.queesdai.com/)
 - [Much Clearer DAI](https://github.com/alexvansande/MuchClearerDAI/blob/master/README.md)
 - [4 stablecoins ancladas a dinero fiat y a criptomonedas, ¿cuál elegir?](https://www.criptonoticias.com/analisis-investigacion/4-stablecoins-ancladas-dinero-fiat-criptomonedas-cual-elegir/)
+- [Ethereum’s DAI Now Pays 10x More in Interest Than a Bank Savings Account](https://www.trustnodes.com/2019/12/30/ethereums-dai-now-pays-10x-more-in-interest-than-a-bank-savings-account)
 
 ## MoneyOnChain
 
