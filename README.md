@@ -17,6 +17,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Business Models in Decentralized Finance](https://medium.com/coinmonks/business-models-in-decentralized-finance-d71604476825)
 - [Best Books for Crypto Traders](https://medium.com/shapeshift-stories/best-books-for-crypto-traders-a4127a6fbc45)
 - [DeFi Accounting: A compliant and tax-ready tracking DeFi Activity](https://medium.com/orwl-avocats/defi-accounting-a-compliant-and-tax-ready-tracking-defi-activity-31d93ef60d8e)
+- [#KyberDeFi Hackathon: Meet the Winners](https://blog.kyber.network/kyberdefi-hackathon-meet-the-winners-bea5bc9ec983)
 
 ## Information
 
@@ -104,10 +105,17 @@ A "potpourri" of resources about Decentralized Finance.
 
 ## MoneyOnChain
 
+- [What is Money On Chain and how does it work?](https://www.youtube.com/watch?v=3UrVZHh-L4w&feature=youtu.be)
+- [How Does Money On Chain Work?](https://www.youtube.com/watch?v=SM7EyR3kXz8&feature=youtu.be)
 - [What tokens are available in MoneyOnChain and how do they work?](https://www.youtube.com/watch?v=XkEdPGxj7so)
 - [Mainnet](https://moneyonchain.com/mainnet/)
 - [Bitcoiners Are Building a Sidechain Version of Ethereum’s MakerDAO](https://www.coindesk.com/bitcoiners-are-building-a-sidechain-version-of-ethereums-makerdao)
 - [First Bitcoin-backed Stablecoin Launches on RSK Network](https://ihodl.com/topnews/2019-12-13/first-bitcoin-backed-stablecoin-launches-rsk-network/)
+- [GitHub organization](https://github.com/money-on-chain)
+- [Smart Contracts Security Audits](https://github.com/money-on-chain/Audits/tree/master/RBTC_collateral)
+- [Introduction to Project](http://bit.ly/2lM3jzz)
+- [Stablecoin Protocol Collateralized with Bitcon, Whitepaper](http://bit.ly/2lZh0Lm)
+
 
 ## Projects
 
