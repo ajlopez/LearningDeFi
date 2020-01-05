@@ -19,6 +19,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Accounting: A compliant and tax-ready tracking DeFi Activity](https://medium.com/orwl-avocats/defi-accounting-a-compliant-and-tax-ready-tracking-defi-activity-31d93ef60d8e)
 - [#KyberDeFi Hackathon: Meet the Winners](https://blog.kyber.network/kyberdefi-hackathon-meet-the-winners-bea5bc9ec983)
 - [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
+- [DAI Leveraged Liquidity Pool DeFiZap Tutorial](https://defitutorials.substack.com/p/dai-leveraged-liquidity-pool-defizap)
+
 
 ## Information
 
@@ -29,6 +31,7 @@ A "potpourri" of resources about Decentralized Finance.
 
 ## Tutorials
 
+- [DeFi Tutorials](https://defitutorials.substack.com/)
 - [Diving into DeFi: a Beginner’s Guide](https://blog.wings.ai/diving-into-defi-a-beginners-guide-1b0253855e52)
 - [What is DeFi?](https://medium.com/@safetythird/what-is-defi-2cee0dceeeab)
 - [DeFi Tutorials](https://defitutorials.substack.com)
