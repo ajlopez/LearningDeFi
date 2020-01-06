@@ -109,6 +109,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Much Clearer DAI](https://github.com/alexvansande/MuchClearerDAI/blob/master/README.md)
 - [4 stablecoins ancladas a dinero fiat y a criptomonedas, ¿cuál elegir?](https://www.criptonoticias.com/analisis-investigacion/4-stablecoins-ancladas-dinero-fiat-criptomonedas-cual-elegir/)
 - [Ethereum’s DAI Now Pays 10x More in Interest Than a Bank Savings Account](https://www.trustnodes.com/2019/12/30/ethereums-dai-now-pays-10x-more-in-interest-than-a-bank-savings-account)
+- [What are BPro tokens?](https://www.youtube.com/watch?v=Q844_AQ36Us&t=4s)
+
 
 ## MoneyOnChain
 
