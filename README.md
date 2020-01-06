@@ -36,6 +36,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [What is DeFi?](https://medium.com/@safetythird/what-is-defi-2cee0dceeeab)
 - [DeFi Tutorials](https://defitutorials.substack.com)
 - [Isolated and Cross Margin](https://www.bitmex.com/app/isolatedMargin)
+- [A beginner's guide to DeFi](https://nakamoto.com/beginners-guide-to-defi/)
 
 ## Bitcoin
 
