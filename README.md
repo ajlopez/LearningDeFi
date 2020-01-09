@@ -134,6 +134,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Compound Protocol](https://compound.finance)
 - [Uniswap Exchange Protocol](https://uniswap.io/)
 - [TokenSets Crypto Management](https://www.tokensets.com)
+- [What is Set Protocol / TokenSets?](https://www.youtube.com/watch?v=wgzBFEChZ1c&feature=emb_logo)
 - [Nexus Mutual: A Decentralized Alternative to Insurance](https://www.nexusmutual.io)
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
 - [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
@@ -145,7 +146,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Sablier Real-Time Finance](https://pay.sablier.finance/)
 - [0x Protocol — Building Decentralized Exchanges (…and so much more?)](https://medium.com/trivial-co/0x-protocol-building-decentralized-exchanges-and-so-much-more-e9fbbc9f35ca)
 - [0x Create and manage your staking pool](https://0x.org/docs/guides/create-staking-pool)
-
 
 ## News
 
