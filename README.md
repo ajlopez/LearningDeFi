@@ -111,6 +111,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [4 stablecoins ancladas a dinero fiat y a criptomonedas, ¿cuál elegir?](https://www.criptonoticias.com/analisis-investigacion/4-stablecoins-ancladas-dinero-fiat-criptomonedas-cual-elegir/)
 - [Ethereum’s DAI Now Pays 10x More in Interest Than a Bank Savings Account](https://www.trustnodes.com/2019/12/30/ethereums-dai-now-pays-10x-more-in-interest-than-a-bank-savings-account)
 - [What are BPro tokens?](https://www.youtube.com/watch?v=Q844_AQ36Us&t=4s)
+- [The Transfer of MKR Token Control: A Giant Leap Toward System Decentralization](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/)
 
 
 ## MoneyOnChain
