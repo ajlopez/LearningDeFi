@@ -19,8 +19,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Accounting: A compliant and tax-ready tracking DeFi Activity](https://medium.com/orwl-avocats/defi-accounting-a-compliant-and-tax-ready-tracking-defi-activity-31d93ef60d8e)
 - [#KyberDeFi Hackathon: Meet the Winners](https://blog.kyber.network/kyberdefi-hackathon-meet-the-winners-bea5bc9ec983)
 - [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
-- [DAI Leveraged Liquidity Pool DeFiZap Tutorial](https://defitutorials.substack.com/p/dai-leveraged-liquidity-pool-defizap)
-
+- [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/defi-3-2020-borderless-state-of-defi)
 
 ## Information
 
@@ -111,6 +110,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [4 stablecoins ancladas a dinero fiat y a criptomonedas, ¿cuál elegir?](https://www.criptonoticias.com/analisis-investigacion/4-stablecoins-ancladas-dinero-fiat-criptomonedas-cual-elegir/)
 - [Ethereum’s DAI Now Pays 10x More in Interest Than a Bank Savings Account](https://www.trustnodes.com/2019/12/30/ethereums-dai-now-pays-10x-more-in-interest-than-a-bank-savings-account)
 - [What are BPro tokens?](https://www.youtube.com/watch?v=Q844_AQ36Us&t=4s)
+- [DAI Leveraged Liquidity Pool DeFiZap Tutorial](https://defitutorials.substack.com/p/dai-leveraged-liquidity-pool-defizap)
 
 
 ## MoneyOnChain
@@ -157,6 +157,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Former Bitcoin Core Developer Jeff Garzik: ‘The Stablecoin is Here to Stay’](https://www.forbes.com/sites/justinoconnell/2019/10/07/former-bitcoin-core-developer-jeff-garzik-on-defi-stablecoins--bitcoin/#73669a9a7f95)
 - [Op Ed: Stablecoins Report Illustrates That G7 Leaders Don’t Understand Bitcoin](https://bitcoinmagazine.com/articles/op-ed-stablecoins-report-illustrates-that-g7-leaders-dont-understand-bitcoin)
 - [Ethereum Is No Longer a Monopoly Platform for Stablecoins](https://medium.com/@georgeethan384/ethereum-is-no-longer-a-monopoly-platform-for-stablecoins-5219b5748456)
+- [The Business of Stablecoins](https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798)
 
 ## Exchanges
 
