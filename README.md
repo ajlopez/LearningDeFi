@@ -148,6 +148,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Sablier Real-Time Finance](https://pay.sablier.finance/)
 - [0x Protocol — Building Decentralized Exchanges (…and so much more?)](https://medium.com/trivial-co/0x-protocol-building-decentralized-exchanges-and-so-much-more-e9fbbc9f35ca)
 - [0x Create and manage your staking pool](https://0x.org/docs/guides/create-staking-pool)
+- [Optino Crypto Options](https://github.com/bokkypoobah/Optino)
 
 ## News
 
