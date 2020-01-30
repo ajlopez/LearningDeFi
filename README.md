@@ -113,6 +113,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [What are BPro tokens?](https://www.youtube.com/watch?v=Q844_AQ36Us&t=4s)
 - [DAI Leveraged Liquidity Pool DeFiZap Tutorial](https://defitutorials.substack.com/p/dai-leveraged-liquidity-pool-defizap)
 - [The Transfer of MKR Token Control: A Giant Leap Toward System Decentralization](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/)
+- [DAI Auctions](https://daiauctions.com/)
 
 
 ## MoneyOnChain
