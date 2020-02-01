@@ -21,6 +21,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 - [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/defi-3-2020-borderless-state-of-defi)
 - [On Tokens and Liquidity](https://medium.com/@ajit.tripathi/on-tokens-and-liquidity-f74cc5f05d52)
+- [Batched Bonding Curves](https://medium.com/@billyrennekamp/batched-bonding-curves-ce69a57d8ae4)
 
 ## Information
 
