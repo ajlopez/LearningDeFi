@@ -147,11 +147,13 @@ A "potpourri" of resources about Decentralized Finance.
 - [How we used Ethereum and DAI to create, tokenise and settle a ‘self-executing’ smart invoice](https://medium.com/tradeshift-engineering/how-we-used-ethereum-and-dai-to-create-tokenise-and-settle-a-self-executing-smart-invoice-4ae94396f6f5)
 - [PoolTogether](https://www.pooltogether.us/)
 - [Funding Token for PoolTogether, and Other Money-Lockup Apps](https://medium.com/@TrustlessState/funding-model-for-pooltogether-and-other-money-lockup-apps-86b928900efa)
+- [PoolTogether DeFi App Announces $1M Investment After No-Loss Lottery Payout Tops $1K](https://www.coindesk.com/pooltogether-defi-app-announces-1m-investment-after-no-loss-lottery-payout-tops-1k)
 - [Centrifuge Chain — the Gateway for Real-World Assets to the Blockchain Multiverse](https://medium.com/centrifuge/centrifuge-chain-the-gateway-for-real-world-assets-to-the-blockchain-multiverse-41dd5597ecf1)
 - [Sablier Real-Time Finance](https://pay.sablier.finance/)
 - [0x Protocol — Building Decentralized Exchanges (…and so much more?)](https://medium.com/trivial-co/0x-protocol-building-decentralized-exchanges-and-so-much-more-e9fbbc9f35ca)
 - [0x Create and manage your staking pool](https://0x.org/docs/guides/create-staking-pool)
 - [Optino Crypto Options](https://github.com/bokkypoobah/Optino)
+- [InstDApp Trustless Smart Wallet for DeFi](https://instadapp.io/)
 
 ## News
 
