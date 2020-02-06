@@ -155,6 +155,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [0x Create and manage your staking pool](https://0x.org/docs/guides/create-staking-pool)
 - [Optino Crypto Options](https://github.com/bokkypoobah/Optino)
 - [InstDApp Trustless Smart Wallet for DeFi](https://instadapp.io/)
+- [Expanding liquidity available in DeFi Saver with 0x](https://medium.com/defi-saver/expanding-liquidity-available-in-defi-saver-with-0x-7c410c8f944b)
 
 ## News
 
