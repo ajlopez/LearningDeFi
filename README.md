@@ -22,6 +22,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/defi-3-2020-borderless-state-of-defi)
 - [On Tokens and Liquidity](https://medium.com/@ajit.tripathi/on-tokens-and-liquidity-f74cc5f05d52)
 - [Batched Bonding Curves](https://medium.com/@billyrennekamp/batched-bonding-curves-ce69a57d8ae4)
+- [How Decentralized is DeFi? A Framework for Classifying Lending Protocols](https://hackernoon.com/how-decentralized-is-defi-a-framework-for-classifying-lending-protocols-90981f2c007f)
 
 ## Information
 
