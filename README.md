@@ -171,6 +171,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Ethereum Is No Longer a Monopoly Platform for Stablecoins](https://medium.com/@georgeethan384/ethereum-is-no-longer-a-monopoly-platform-for-stablecoins-5219b5748456)
 - [The Business of Stablecoins](https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798)
 - [Creating a Non-Collateralized Stablecoin](https://levelup.gitconnected.com/creating-a-non-collateralized-stablecoin-82fb1258647e)
+- [Atix Explains: What Are Stablecoins?](https://medium.com/atix-labs/atix-explains-what-are-stablecoins-b3c59692067f)
 
 ## Exchanges
 
