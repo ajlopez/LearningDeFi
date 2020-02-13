@@ -23,6 +23,9 @@ A "potpourri" of resources about Decentralized Finance.
 - [On Tokens and Liquidity](https://medium.com/@ajit.tripathi/on-tokens-and-liquidity-f74cc5f05d52)
 - [Batched Bonding Curves](https://medium.com/@billyrennekamp/batched-bonding-curves-ce69a57d8ae4)
 - [How Decentralized is DeFi? A Framework for Classifying Lending Protocols](https://hackernoon.com/how-decentralized-is-defi-a-framework-for-classifying-lending-protocols-90981f2c007f)
+- [Thiel-Backed Venture Fund Leads Latest BlockFi Finance Round](https://www.bloomberg.com/news/articles/2020-02-13/thiel-backed-venture-fund-leads-latest-blockfi-finance-round)
+- [Up 82% YoY: Ethereum continues to dominate the dapp ecosystem in 2020](https://dappradar.com/blog/up-82-percent-yoy-ethereum-continues-to-dominate-the-dapp-ecosystem)
+
 
 ## Information
 
@@ -120,7 +123,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [The Transfer of MKR Token Control: A Giant Leap Toward System Decentralization](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/)
 - [DAI Auctions](https://daiauctions.com/)
 
-
 ## MoneyOnChain
 
 - [What is Money On Chain and how does it work?](https://www.youtube.com/watch?v=3UrVZHh-L4w&feature=youtu.be)
@@ -133,7 +135,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Smart Contracts Security Audits](https://github.com/money-on-chain/Audits/tree/master/RBTC_collateral)
 - [Introduction to Project](http://bit.ly/2lM3jzz)
 - [Stablecoin Protocol Collateralized with Bitcon, Whitepaper](http://bit.ly/2lZh0Lm)
-
 
 ## Projects
 
@@ -158,6 +159,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Optino Crypto Options](https://github.com/bokkypoobah/Optino)
 - [InstDApp Trustless Smart Wallet for DeFi](https://instadapp.io/)
 - [Expanding liquidity available in DeFi Saver with 0x](https://medium.com/defi-saver/expanding-liquidity-available-in-defi-saver-with-0x-7c410c8f944b)
+- [Aave Open Source DeFi Protocol](https://aave.com/)
 
 ## News
 
@@ -171,6 +173,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Ethereum Is No Longer a Monopoly Platform for Stablecoins](https://medium.com/@georgeethan384/ethereum-is-no-longer-a-monopoly-platform-for-stablecoins-5219b5748456)
 - [The Business of Stablecoins](https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798)
 - [Creating a Non-Collateralized Stablecoin](https://levelup.gitconnected.com/creating-a-non-collateralized-stablecoin-82fb1258647e)
+- [Announcing MetaCoin—The Governance-Minimized Decentralized Stablecoin](https://ethresear.ch/t/announcing-metacoin-the-governance-minimized-decentralized-stablecoin/6897)
 
 ## Exchanges
 
