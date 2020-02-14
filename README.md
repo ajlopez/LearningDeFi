@@ -25,7 +25,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How Decentralized is DeFi? A Framework for Classifying Lending Protocols](https://hackernoon.com/how-decentralized-is-defi-a-framework-for-classifying-lending-protocols-90981f2c007f)
 - [Thiel-Backed Venture Fund Leads Latest BlockFi Finance Round](https://www.bloomberg.com/news/articles/2020-02-13/thiel-backed-venture-fund-leads-latest-blockfi-finance-round)
 - [Up 82% YoY: Ethereum continues to dominate the dapp ecosystem in 2020](https://dappradar.com/blog/up-82-percent-yoy-ethereum-continues-to-dominate-the-dapp-ecosystem)
-
+- [The impact DeFi will have on the world is unimaginable](https://www.valuewalk.com/2020/02/defi-decentralized-finance/)
 
 ## Information
 
@@ -174,6 +174,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [The Business of Stablecoins](https://medium.com/blockchain-capital-blog/business-models-behind-stablecoins-cae801533798)
 - [Creating a Non-Collateralized Stablecoin](https://levelup.gitconnected.com/creating-a-non-collateralized-stablecoin-82fb1258647e)
 - [Announcing MetaCoin—The Governance-Minimized Decentralized Stablecoin](https://ethresear.ch/t/announcing-metacoin-the-governance-minimized-decentralized-stablecoin/6897)
+- [Atix Explains: What Are Stablecoins?](https://medium.com/atix-labs/atix-explains-what-are-stablecoins-b3c59692067f)
 
 ## Exchanges
 
