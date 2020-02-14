@@ -23,6 +23,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [On Tokens and Liquidity](https://medium.com/@ajit.tripathi/on-tokens-and-liquidity-f74cc5f05d52)
 - [Batched Bonding Curves](https://medium.com/@billyrennekamp/batched-bonding-curves-ce69a57d8ae4)
 - [How Decentralized is DeFi? A Framework for Classifying Lending Protocols](https://hackernoon.com/how-decentralized-is-defi-a-framework-for-classifying-lending-protocols-90981f2c007f)
+- [dexFreight Omnichannel Data Marketplace Powered by Ocean Protocol: Details & Use Cases](https://dexfreight.io/project/dexfreight-omnichannel-data-marketplace-powered-by-ocean-protocol/)
 
 ## Information
 
@@ -158,6 +159,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Optino Crypto Options](https://github.com/bokkypoobah/Optino)
 - [InstDApp Trustless Smart Wallet for DeFi](https://instadapp.io/)
 - [Expanding liquidity available in DeFi Saver with 0x](https://medium.com/defi-saver/expanding-liquidity-available-in-defi-saver-with-0x-7c410c8f944b)
+- [rDai Redeeable DAI](https://rdai.money/)
 
 ## News
 
