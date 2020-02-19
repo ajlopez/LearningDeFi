@@ -23,13 +23,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [On Tokens and Liquidity](https://medium.com/@ajit.tripathi/on-tokens-and-liquidity-f74cc5f05d52)
 - [Batched Bonding Curves](https://medium.com/@billyrennekamp/batched-bonding-curves-ce69a57d8ae4)
 - [How Decentralized is DeFi? A Framework for Classifying Lending Protocols](https://hackernoon.com/how-decentralized-is-defi-a-framework-for-classifying-lending-protocols-90981f2c007f)
-<<<<<<< HEAD
 - [dexFreight Omnichannel Data Marketplace Powered by Ocean Protocol: Details & Use Cases](https://dexfreight.io/project/dexfreight-omnichannel-data-marketplace-powered-by-ocean-protocol/)
-=======
 - [Thiel-Backed Venture Fund Leads Latest BlockFi Finance Round](https://www.bloomberg.com/news/articles/2020-02-13/thiel-backed-venture-fund-leads-latest-blockfi-finance-round)
 - [Up 82% YoY: Ethereum continues to dominate the dapp ecosystem in 2020](https://dappradar.com/blog/up-82-percent-yoy-ethereum-continues-to-dominate-the-dapp-ecosystem)
 - [The impact DeFi will have on the world is unimaginable](https://www.valuewalk.com/2020/02/defi-decentralized-finance/)
->>>>>>> c775f0cae9cedf5fc8ad93bed66653585ada1b9d
 
 ## Information
 
@@ -165,6 +162,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Expanding liquidity available in DeFi Saver with 0x](https://medium.com/defi-saver/expanding-liquidity-available-in-defi-saver-with-0x-7c410c8f944b)
 - [rDai Redeeable DAI](https://rdai.money/)
 - [Aave Open Source DeFi Protocol](https://aave.com/)
+- [Intro to the OasisDEX Protocol](https://github.com/makerdao/developerguides/blob/master/Oasis/intro-to-oasis/intro-to-oasis-maker-otc.md)
 
 ## News
 
