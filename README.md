@@ -123,6 +123,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DAI Leveraged Liquidity Pool DeFiZap Tutorial](https://defitutorials.substack.com/p/dai-leveraged-liquidity-pool-defizap)
 - [The Transfer of MKR Token Control: A Giant Leap Toward System Decentralization](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/)
 - [DAI Auctions](https://daiauctions.com/)
+- [About DAI sustainability (Spanish)](https://twitter.com/Mariandipietra/status/1230487031119335426)
 
 ## MoneyOnChain
 
