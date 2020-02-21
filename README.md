@@ -126,6 +126,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DAI Leveraged Liquidity Pool DeFiZap Tutorial](https://defitutorials.substack.com/p/dai-leveraged-liquidity-pool-defizap)
 - [The Transfer of MKR Token Control: A Giant Leap Toward System Decentralization](https://blog.makerdao.com/transfer-of-mkr-token-control-a-giant-leap-toward-system-decentralization/)
 - [DAI Auctions](https://daiauctions.com/)
+- [Emergency Shutdown](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
 
 ## MoneyOnChain
 
@@ -165,6 +166,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Expanding liquidity available in DeFi Saver with 0x](https://medium.com/defi-saver/expanding-liquidity-available-in-defi-saver-with-0x-7c410c8f944b)
 - [rDai Redeeable DAI](https://rdai.money/)
 - [Aave Open Source DeFi Protocol](https://aave.com/)
+- [Sneak peek at Flash Loans](https://medium.com/aave/sneak-peek-at-flash-loans-f2b28a394d62)
+
 
 ## News
 
