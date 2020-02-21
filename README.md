@@ -46,6 +46,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [A beginner's guide to DeFi](https://nakamoto.com/beginners-guide-to-defi/)
 - [DeFi: What it Is and Isn’t (Part 1)](https://medium.com/coinmonks/defi-what-it-is-and-isnt-part-1-f7d7e7afee16)
 - [DeFi: The Future of Finance?](https://medium.com/swlh/defi-the-future-of-finance-757c35a2bcfd)
+- [Flash Loans](https://blog.coincodecap.com/what-are-flash-loans-on-ethereum/)
 
 ## Bitcoin
 
