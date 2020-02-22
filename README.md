@@ -166,12 +166,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [Expanding liquidity available in DeFi Saver with 0x](https://medium.com/defi-saver/expanding-liquidity-available-in-defi-saver-with-0x-7c410c8f944b)
 - [rDai Redeeable DAI](https://rdai.money/)
 - [Aave Open Source DeFi Protocol](https://aave.com/)
-<<<<<<< HEAD
 - [Sneak peek at Flash Loans](https://medium.com/aave/sneak-peek-at-flash-loans-f2b28a394d62)
-
-=======
 - [Intro to the OasisDEX Protocol](https://github.com/makerdao/developerguides/blob/master/Oasis/intro-to-oasis/intro-to-oasis-maker-otc.md)
->>>>>>> e917b7a64984cc0454a20468fef24a8fd6ad2505
+- [Dharma](https://www.dharma.io/)
+- [Dharma Developers Documentation](https://github.com/dharmaprotocol/developer-docs)
 
 ## News
 
