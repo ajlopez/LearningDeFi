@@ -170,6 +170,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Intro to the OasisDEX Protocol](https://github.com/makerdao/developerguides/blob/master/Oasis/intro-to-oasis/intro-to-oasis-maker-otc.md)
 - [Dharma](https://www.dharma.io/)
 - [Dharma Developers Documentation](https://github.com/dharmaprotocol/developer-docs)
+- [Interlay: Decentralized Finance Made Interoperable](https://medium.com/interlay/interlay-interoperability-for-decentralized-finance-2f3dc135243f)
 
 ## News
 
