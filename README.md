@@ -173,6 +173,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Interlay: Decentralized Finance Made Interoperable](https://medium.com/interlay/interlay-interoperability-for-decentralized-finance-2f3dc135243f)
 - [Polkadot to Use Chainlink Oracles for Interoperability Network](https://www.coindesk.com/polkadot-to-use-chainlink-oracles-for-interoperability-network)
 - [4 DeFi protocols on Ethereum](https://medium.com/defi-world/4-defi-protocols-on-ethereum-cc139001667a)
+- [Compound Governance](https://medium.com/compound-finance/compound-governance-5531f524cf68)
+
 
 ## News
 
