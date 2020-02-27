@@ -141,6 +141,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Smart Contracts Security Audits](https://github.com/money-on-chain/Audits/tree/master/RBTC_collateral)
 - [Introduction to Project](http://bit.ly/2lM3jzz)
 - [Stablecoin Protocol Collateralized with Bitcon, Whitepaper](http://bit.ly/2lZh0Lm)
+- [Money On Chain — a Stable Asset Platform](https://medium.com/moneyonchain/money-on-chain-a-stable-asset-platform-1e503e81a19)
 
 ## Projects
 
