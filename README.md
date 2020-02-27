@@ -129,6 +129,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Emergency Shutdown](https://community-development.makerdao.com/makerdao-mcd-faqs/faqs/emergency-shutdown)
 - [About DAI sustainability (Spanish)](https://twitter.com/Mariandipietra/status/1230487031119335426)
 - [Dai Savings Rate Explained](https://ethereumprice.org/guides/article/dai-savings-rate-explained/)
+- [Maker Foundation Multi-Collateral DAI Public Releases Page](https://changelog.makerdao.com/)
 
 ## MoneyOnChain
 
