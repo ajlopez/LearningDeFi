@@ -48,6 +48,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi: The Future of Finance?](https://medium.com/swlh/defi-the-future-of-finance-757c35a2bcfd)
 - [Flash Loans](https://blog.coincodecap.com/what-are-flash-loans-on-ethereum/)
 - [What is DeFi?](https://medium.com/defi-world/what-is-defi-58aa2e724928)
+- [Computing and Accumulating Interest On-Chain](https://zoom.us/rec/play/7pF4Ir2pp2k3GYWVsQSDAv8oW9S5eKqs0SEd-PIOzBvkViEHNVCnMLUaMeZ--NHMrovnkZakbvWWu3e-?continueMode=true)
 
 ## Bitcoin
 
