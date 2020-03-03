@@ -130,6 +130,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [About DAI sustainability (Spanish)](https://twitter.com/Mariandipietra/status/1230487031119335426)
 - [Dai Savings Rate Explained](https://ethereumprice.org/guides/article/dai-savings-rate-explained/)
 - [Maker Foundation Multi-Collateral DAI Public Releases Page](https://changelog.makerdao.com/)
+- [Risky Business: #DeFi and Ethereum’s Coming of Age Story](https://medium.com/mycrypto/risky-business-defi-and-ethereums-coming-of-age-story-4d99465ad102)
 
 ## MoneyOnChain
 
