@@ -172,6 +172,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [rDai Redeeable DAI](https://rdai.money/)
 - [Aave Open Source DeFi Protocol](https://aave.com/)
 - [Sneak peek at Flash Loans](https://medium.com/aave/sneak-peek-at-flash-loans-f2b28a394d62)
+- [Flash Loans: Why Flash Attacks will be the New Normal](https://medium.com/dragonfly-research/flash-loans-why-flash-attacks-will-be-the-new-normal-5144e23ac75a)
 - [Intro to the OasisDEX Protocol](https://github.com/makerdao/developerguides/blob/master/Oasis/intro-to-oasis/intro-to-oasis-maker-otc.md)
 - [Dharma](https://www.dharma.io/)
 - [Dharma Developers Documentation](https://github.com/dharmaprotocol/developer-docs)
