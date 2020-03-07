@@ -151,6 +151,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Tornado Lend](https://devpost.com/software/tornado-lend)
 - [Vega is a protocol for creating and trading derivatives on a fully decentralised network](https://vegaprotocol.io)
 - [Compound Protocol](https://compound.finance)
+- [Compound Finance — Simplified](https://medium.com/coinmonks/compound-protocol-simplified-bf3da198f8ba)
+- [Compound Governance](https://medium.com/compound-finance/compound-governance-5531f524cf68)
 - [Uniswap Exchange Protocol](https://uniswap.io/)
 - [TokenSets Crypto Management](https://www.tokensets.com)
 - [What is Set Protocol / TokenSets?](https://www.youtube.com/watch?v=wgzBFEChZ1c&feature=emb_logo)
@@ -179,7 +181,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Interlay: Decentralized Finance Made Interoperable](https://medium.com/interlay/interlay-interoperability-for-decentralized-finance-2f3dc135243f)
 - [Polkadot to Use Chainlink Oracles for Interoperability Network](https://www.coindesk.com/polkadot-to-use-chainlink-oracles-for-interoperability-network)
 - [4 DeFi protocols on Ethereum](https://medium.com/defi-world/4-defi-protocols-on-ethereum-cc139001667a)
-- [Compound Governance](https://medium.com/compound-finance/compound-governance-5531f524cf68)
 
 
 ## News
