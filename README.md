@@ -131,6 +131,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Dai Savings Rate Explained](https://ethereumprice.org/guides/article/dai-savings-rate-explained/)
 - [Maker Foundation Multi-Collateral DAI Public Releases Page](https://changelog.makerdao.com/)
 - [Risky Business: #DeFi and Ethereum’s Coming of Age Story](https://medium.com/mycrypto/risky-business-defi-and-ethereums-coming-of-age-story-4d99465ad102)
+- [DeFi Leader MakerDAO Weighs Emergency Shutdown Following ETH Price Drop](https://www.coindesk.com/defi-leader-makerdao-weighs-emergency-shutdown-following-eth-price-drop)
 
 ## MoneyOnChain
 
