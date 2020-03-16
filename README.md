@@ -133,6 +133,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Risky Business: #DeFi and Ethereum’s Coming of Age Story](https://medium.com/mycrypto/risky-business-defi-and-ethereums-coming-of-age-story-4d99465ad102)
 - [DeFi Leader MakerDAO Weighs Emergency Shutdown Following ETH Price Drop](https://www.coindesk.com/defi-leader-makerdao-weighs-emergency-shutdown-following-eth-price-drop)
 - [Maker Committed Participants](https://twitter.com/brendan_dharma/status/1238545629476835329)
+- [Onboarding USDC as collateral to mitigate liquidity risk](https://forum.makerdao.com/t/onboarding-usdc-as-collateral-to-mitigate-liquidity-risk/1570)
 
 ## MoneyOnChain
 
