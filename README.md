@@ -27,6 +27,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Thiel-Backed Venture Fund Leads Latest BlockFi Finance Round](https://www.bloomberg.com/news/articles/2020-02-13/thiel-backed-venture-fund-leads-latest-blockfi-finance-round)
 - [Up 82% YoY: Ethereum continues to dominate the dapp ecosystem in 2020](https://dappradar.com/blog/up-82-percent-yoy-ethereum-continues-to-dominate-the-dapp-ecosystem)
 - [The impact DeFi will have on the world is unimaginable](https://www.valuewalk.com/2020/02/defi-decentralized-finance/)
+- [Ethereum is an Emergent Structure](https://medium.com/quiknode/ethereum-events-monitoring-using-eventeum-f81695d92e05)
 
 ## Information
 
