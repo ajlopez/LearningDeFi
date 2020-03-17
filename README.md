@@ -71,6 +71,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [MakerDAO Transparent and Sustainable Finance](https://makerdao.com/en/)
 - [The Dai Stablecoin System](https://makerdao.com/en/whitepaper/)
 - [How MakerDAO Works](https://www.youtube.com/watch?v=J9q8hkyy8oM)
+- [DAI Stats](https://daistats.com/)
 - [Intro to MakerDAO: Stablecoin (Blockgeeks Part 2)](https://blockgeeks.com/guides/makerdao-stablecoin-blockgeeks-part-2/)
 - [Maker for Dummies: A Plain English Explanation of the Dai Stablecoin](https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90)
 - [Stablecoins: Strengths & Weaknesses](https://blog.makerdao.com/stablecoins-strengths-weaknesses/)
