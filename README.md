@@ -28,6 +28,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Up 82% YoY: Ethereum continues to dominate the dapp ecosystem in 2020](https://dappradar.com/blog/up-82-percent-yoy-ethereum-continues-to-dominate-the-dapp-ecosystem)
 - [The impact DeFi will have on the world is unimaginable](https://www.valuewalk.com/2020/02/defi-decentralized-finance/)
 - [Ethereum is an Emergent Structure](https://medium.com/quiknode/ethereum-events-monitoring-using-eventeum-f81695d92e05)
+- [March 12: The Day Crypto Market Structure Broke (Part 1)](https://multicoin.capital/2020/03/17/march-12-the-day-crypto-market-structure-broke/)
 
 ## Information
 
