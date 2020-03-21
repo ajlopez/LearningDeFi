@@ -138,6 +138,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Maker Committed Participants](https://twitter.com/brendan_dharma/status/1238545629476835329)
 - [Onboarding USDC as collateral to mitigate liquidity risk](https://forum.makerdao.com/t/onboarding-usdc-as-collateral-to-mitigate-liquidity-risk/1570)
 - [Maker Backstop Syndicate](https://docs.google.com/document/d/1miS-snhSYBKwjQHM1MOPnLZZl9i2gj3zTcvuQWecV2M/edit#heading=h.7depgrfwdepq)
+- [Dai para Principiantes](https://www.youtube.com/watch?v=JAqIMV-XSeA&feature=youtu.be)
 
 ## MoneyOnChain
 
@@ -152,6 +153,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introduction to Project](http://bit.ly/2lM3jzz)
 - [Stablecoin Protocol Collateralized with Bitcon, Whitepaper](http://bit.ly/2lZh0Lm)
 - [Money On Chain — a Stable Asset Platform](https://medium.com/moneyonchain/money-on-chain-a-stable-asset-platform-1e503e81a19)
+- [DeFi on Bitcoin: The Time Has Come for Decentralized Finance to Run on top of Bitcoin´s Network](https://blog.coinmarketcap.com/2020/03/18/defi-on-bitcoin-the-time-has-come-for-decentralized-finance-to-run-on-top-of-bitcoins-network/)
 
 ## Projects
 
@@ -189,7 +191,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Interlay: Decentralized Finance Made Interoperable](https://medium.com/interlay/interlay-interoperability-for-decentralized-finance-2f3dc135243f)
 - [Polkadot to Use Chainlink Oracles for Interoperability Network](https://www.coindesk.com/polkadot-to-use-chainlink-oracles-for-interoperability-network)
 - [4 DeFi protocols on Ethereum](https://medium.com/defi-world/4-defi-protocols-on-ethereum-cc139001667a)
-
+- [Subspace - Observing DeFi](https://our.status.im/subspace-observing-defi/)
 
 ## News
 
