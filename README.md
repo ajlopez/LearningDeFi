@@ -51,6 +51,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Flash Loans](https://blog.coincodecap.com/what-are-flash-loans-on-ethereum/)
 - [What is DeFi?](https://medium.com/defi-world/what-is-defi-58aa2e724928)
 - [Computing and Accumulating Interest On-Chain](https://zoom.us/rec/play/7pF4Ir2pp2k3GYWVsQSDAv8oW9S5eKqs0SEd-PIOzBvkViEHNVCnMLUaMeZ--NHMrovnkZakbvWWu3e-?continueMode=true)
+- [6 Basics of Decentralized Finance You Should Know](https://blog.blockonomics.co/6-basics-of-decentralized-finance-you-should-know-fb169dcf4673)
 
 ## Bitcoin
 
@@ -139,6 +140,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Onboarding USDC as collateral to mitigate liquidity risk](https://forum.makerdao.com/t/onboarding-usdc-as-collateral-to-mitigate-liquidity-risk/1570)
 - [Maker Backstop Syndicate](https://docs.google.com/document/d/1miS-snhSYBKwjQHM1MOPnLZZl9i2gj3zTcvuQWecV2M/edit#heading=h.7depgrfwdepq)
 - [Dai para Principiantes](https://www.youtube.com/watch?v=JAqIMV-XSeA&feature=youtu.be)
+- [Todo sobre Stable Coin y DAI](https://twitter.com/juanbiter/status/1242538446419353601)
 
 ## MoneyOnChain
 
