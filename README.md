@@ -165,6 +165,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Compound Finance — A Liquidating Opportunity](https://medium.com/coinmonks/compound-finance-a-liquidating-opportunity-d4e8b7ed7982)
 - [Uniswap Exchange Protocol](https://uniswap.io/)
 - [TokenSets Crypto Management](https://www.tokensets.com)
+- [Explore the top performing Sets and Traders on TokenSets](https://www.tokensets.com/explore)
 - [What is Set Protocol / TokenSets?](https://www.youtube.com/watch?v=wgzBFEChZ1c&feature=emb_logo)
 - [Nexus Mutual: A Decentralized Alternative to Insurance](https://www.nexusmutual.io)
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
