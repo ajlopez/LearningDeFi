@@ -52,6 +52,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [What is DeFi?](https://medium.com/defi-world/what-is-defi-58aa2e724928)
 - [Computing and Accumulating Interest On-Chain](https://zoom.us/rec/play/7pF4Ir2pp2k3GYWVsQSDAv8oW9S5eKqs0SEd-PIOzBvkViEHNVCnMLUaMeZ--NHMrovnkZakbvWWu3e-?continueMode=true)
 - [6 Basics of Decentralized Finance You Should Know](https://blog.blockonomics.co/6-basics-of-decentralized-finance-you-should-know-fb169dcf4673)
+- [How To DeFi](https://landing.coingecko.com/how-to-defi/)
+- [DeFi Use cases: The Best Examples of Decentralized Finance](https://blockgeeks.com/guides/defi-use-cases-the-best-examples-of-decentralised-finance/)
 
 ## Bitcoin
 
