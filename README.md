@@ -143,6 +143,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Maker Backstop Syndicate](https://docs.google.com/document/d/1miS-snhSYBKwjQHM1MOPnLZZl9i2gj3zTcvuQWecV2M/edit#heading=h.7depgrfwdepq)
 - [Dai para Principiantes](https://www.youtube.com/watch?v=JAqIMV-XSeA&feature=youtu.be)
 - [Todo sobre Stable Coin y DAI](https://twitter.com/juanbiter/status/1242538446419353601)
+- [Executive Vote: Unblock the remaining Debt Auctions](https://blog.makerdao.com/executive-vote-march-26-2020/)
 
 ## MoneyOnChain
 
