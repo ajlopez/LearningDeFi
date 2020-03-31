@@ -23,11 +23,16 @@ A "potpourri" of resources about Decentralized Finance.
 - [On Tokens and Liquidity](https://medium.com/@ajit.tripathi/on-tokens-and-liquidity-f74cc5f05d52)
 - [Batched Bonding Curves](https://medium.com/@billyrennekamp/batched-bonding-curves-ce69a57d8ae4)
 - [How Decentralized is DeFi? A Framework for Classifying Lending Protocols](https://hackernoon.com/how-decentralized-is-defi-a-framework-for-classifying-lending-protocols-90981f2c007f)
+- [How Decentralized is “Decentralized Finance”?](https://medium.com/coinmonks/how-decentralized-is-decentralized-finance-89aea3070e8f)
 - [dexFreight Omnichannel Data Marketplace Powered by Ocean Protocol: Details & Use Cases](https://dexfreight.io/project/dexfreight-omnichannel-data-marketplace-powered-by-ocean-protocol/)
 - [Thiel-Backed Venture Fund Leads Latest BlockFi Finance Round](https://www.bloomberg.com/news/articles/2020-02-13/thiel-backed-venture-fund-leads-latest-blockfi-finance-round)
 - [Up 82% YoY: Ethereum continues to dominate the dapp ecosystem in 2020](https://dappradar.com/blog/up-82-percent-yoy-ethereum-continues-to-dominate-the-dapp-ecosystem)
 - [The impact DeFi will have on the world is unimaginable](https://www.valuewalk.com/2020/02/defi-decentralized-finance/)
 - [Ethereum is an Emergent Structure](https://medium.com/quiknode/ethereum-events-monitoring-using-eventeum-f81695d92e05)
+- [Market Report: 2019 DeFi Year in Review](https://defirate.com/market-report-2019/)
+- [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/2020-borderless-state-of-defi)
+- [2019 Was The Year of DeFi (and Why 2020 Will be Too)](https://consensys.net/blog/news/2019-was-the-year-of-defi-and-why-2020-will-be-too/)
+- [Mapping Decentralized Finance (DeFi)](https://outlierventures.io/wp-content/uploads/2019/06/Mapping-Decentralised-Finance-DeFi-report.pdf)
 - [March 12: The Day Crypto Market Structure Broke (Part 1)](https://multicoin.capital/2020/03/17/march-12-the-day-crypto-market-structure-broke/)
 
 ## Information
@@ -42,6 +47,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Tutorials](https://defitutorials.substack.com/)
 - [Diving into DeFi: a Beginner’s Guide](https://blog.wings.ai/diving-into-defi-a-beginners-guide-1b0253855e52)
 - [A Beginner’s Guide to Decentralized Finance (DeFi)](https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4)
+- [The Complete Beginner's Guide to Decentralized Finance (DeFi)](https://www.binance.vision/blockchain/the-complete-beginners-guide-to-decentralized-finance-defi)
+- [Decentralized Finance Explained](https://yos.io/2019/12/08/decentralized-finance-explained/)
 - [What is DeFi?](https://medium.com/@safetythird/what-is-defi-2cee0dceeeab)
 - [DeFi Tutorials](https://defitutorials.substack.com)
 - [Isolated and Cross Margin](https://www.bitmex.com/app/isolatedMargin)
@@ -54,6 +61,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [6 Basics of Decentralized Finance You Should Know](https://blog.blockonomics.co/6-basics-of-decentralized-finance-you-should-know-fb169dcf4673)
 - [How To DeFi](https://landing.coingecko.com/how-to-defi/)
 - [DeFi Use cases: The Best Examples of Decentralized Finance](https://blockgeeks.com/guides/defi-use-cases-the-best-examples-of-decentralised-finance/)
+- [Decentralized Finance with Tom Schmidt](https://softwareengineeringdaily.com/2020/02/25/decentralized-finance-with-tom-schmidt/)
 
 ## Bitcoin
 
@@ -144,6 +152,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Dai para Principiantes](https://www.youtube.com/watch?v=JAqIMV-XSeA&feature=youtu.be)
 - [Todo sobre Stable Coin y DAI](https://twitter.com/juanbiter/status/1242538446419353601)
 - [Executive Vote: Unblock the remaining Debt Auctions](https://blog.makerdao.com/executive-vote-march-26-2020/)
+- [USDC: Peg Arbitrage vs. Auction Liquidity](https://forum.makerdao.com/t/usdc-peg-arbitrage-vs-auction-liquidity/1695)
 
 ## MoneyOnChain
 
