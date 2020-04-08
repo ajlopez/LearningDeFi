@@ -18,7 +18,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Best Books for Crypto Traders](https://medium.com/shapeshift-stories/best-books-for-crypto-traders-a4127a6fbc45)
 - [DeFi Accounting: A compliant and tax-ready tracking DeFi Activity](https://medium.com/orwl-avocats/defi-accounting-a-compliant-and-tax-ready-tracking-defi-activity-31d93ef60d8e)
 - [#KyberDeFi Hackathon: Meet the Winners](https://blog.kyber.network/kyberdefi-hackathon-meet-the-winners-bea5bc9ec983)
-- [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 - [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/defi-3-2020-borderless-state-of-defi)
 - [On Tokens and Liquidity](https://medium.com/@ajit.tripathi/on-tokens-and-liquidity-f74cc5f05d52)
 - [Batched Bonding Curves](https://medium.com/@billyrennekamp/batched-bonding-curves-ce69a57d8ae4)
@@ -169,6 +168,13 @@ A "potpourri" of resources about Decentralized Finance.
 - [Money On Chain — a Stable Asset Platform](https://medium.com/moneyonchain/money-on-chain-a-stable-asset-platform-1e503e81a19)
 - [DeFi on Bitcoin: The Time Has Come for Decentralized Finance to Run on top of Bitcoin´s Network](https://blog.coinmarketcap.com/2020/03/18/defi-on-bitcoin-the-time-has-come-for-decentralized-finance-to-run-on-top-of-bitcoins-network/)
 
+## Bancor
+
+- [Introduction to Bancor](https://docs.bancor.network/)
+- [How to Add Liquidity on Bancor](https://blog.bancor.network/how-to-stake-liquidity-earn-fees-on-bancor-bff8369274a1)
+- [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
+- [Bancor Zaps](https://blog.bancor.network/bancor-zaps-%EF%B8%8F-b038eb425e02)
+
 ## Projects
 
 - [Tornado Lend](https://devpost.com/software/tornado-lend)
@@ -207,6 +213,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Polkadot to Use Chainlink Oracles for Interoperability Network](https://www.coindesk.com/polkadot-to-use-chainlink-oracles-for-interoperability-network)
 - [4 DeFi protocols on Ethereum](https://medium.com/defi-world/4-defi-protocols-on-ethereum-cc139001667a)
 - [Subspace - Observing DeFi](https://our.status.im/subspace-observing-defi/)
+- [DeFiZap](https://defizap.com/)
 
 ## News
 
