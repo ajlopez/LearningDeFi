@@ -183,6 +183,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [On-Chain Analysis of the Synthetic Protocol](https://medium.com/intotheblock/on-chain-analysis-of-the-synthetix-protocol-be1324436105)
 - [Synthetic repository](https://github.com/Synthetixio/synthetix)
 - [Synthetic Mintr repository](https://github.com/Synthetixio/synthetix-mintr)
+- [How Synthetix Became the Second-Largest DeFi Platform](https://unchainedpodcast.com/how-synthetix-became-the-second-largest-defi-platform/)
 
 ## Projects
 
