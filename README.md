@@ -175,6 +175,15 @@ A "potpourri" of resources about Decentralized Finance.
 - [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 - [Bancor Zaps](https://blog.bancor.network/bancor-zaps-%EF%B8%8F-b038eb425e02)
 
+## Synthetic
+
+- [Synthetix protocol](https://www.synthetix.io/)
+- [Synthetix blog](https://blog.synthetix.io/)
+- [The Vega release]https://blog.synthetix.io/the-vega-release/)
+- [On-Chain Analysis of the Synthetic Protocol](https://medium.com/intotheblock/on-chain-analysis-of-the-synthetix-protocol-be1324436105)
+- [Synthetic repository](https://github.com/Synthetixio/synthetix)
+- [Synthetic Mintr repository](https://github.com/Synthetixio/synthetix-mintr)
+
 ## Projects
 
 - [Tornado Lend](https://devpost.com/software/tornado-lend)
