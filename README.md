@@ -179,6 +179,7 @@ A "potpourri" of resources about Decentralized Finance.
 
 - [Synthetix protocol](https://www.synthetix.io/)
 - [Synthetix blog](https://blog.synthetix.io/)
+- [Synthetix Litepaper](https://www.synthetix.io/uploads/synthetix_litepaper.pdf)
 - [The Vega release]https://blog.synthetix.io/the-vega-release/)
 - [On-Chain Analysis of the Synthetic Protocol](https://medium.com/intotheblock/on-chain-analysis-of-the-synthetix-protocol-be1324436105)
 - [Synthetic repository](https://github.com/Synthetixio/synthetix)
