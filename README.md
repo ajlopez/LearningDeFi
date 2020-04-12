@@ -33,6 +33,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [2019 Was The Year of DeFi (and Why 2020 Will be Too)](https://consensys.net/blog/news/2019-was-the-year-of-defi-and-why-2020-will-be-too/)
 - [Mapping Decentralized Finance (DeFi)](https://outlierventures.io/wp-content/uploads/2019/06/Mapping-Decentralised-Finance-DeFi-report.pdf)
 - [March 12: The Day Crypto Market Structure Broke (Part 1)](https://multicoin.capital/2020/03/17/march-12-the-day-crypto-market-structure-broke/)
+- [Ethereum Decentralized Finance Report Q1 2020](https://pages.consensys.net/ethereum-decentralized-finance-report-alethio)
 
 ## Information
 
