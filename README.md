@@ -34,6 +34,9 @@ A "potpourri" of resources about Decentralized Finance.
 - [Mapping Decentralized Finance (DeFi)](https://outlierventures.io/wp-content/uploads/2019/06/Mapping-Decentralised-Finance-DeFi-report.pdf)
 - [March 12: The Day Crypto Market Structure Broke (Part 1)](https://multicoin.capital/2020/03/17/march-12-the-day-crypto-market-structure-broke/)
 - [Ethereum Decentralized Finance Report Q1 2020](https://pages.consensys.net/ethereum-decentralized-finance-report-alethio)
+- [How the Ethereum Blockchain Network Performed During the Global Market Shocks of the Coronavirus Pandemic](https://consensys.net/blog/news/how-the-ethereum-blockchain-network-performed-during-the-global-market-shocks-of-the-coronavirus-pandemic/)
+- [For Mainstreaming Blockchain, DeFi Leads the Way](https://codefi.consensys.net/blog/for-mainstreaming-blockchain-defi-leads-the-way)
+- [Evolving Trends in Token-Powered Networks](https://codefi.consensys.net/blog/evolving-trends-in-token-powered-networks)
 
 ## Information
 
@@ -41,6 +44,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DefiPrime](https://defiprime.com/)
 - [DefiPulse](https://defipulse.com/)
 - [DefiScore: Compare DeFi Lending by Asset](https://app.defiscore.io/assets/zrx)
+- [Codefi Inspect](https://inspect.codefi.network/)
 
 ## Tutorials
 
