@@ -250,6 +250,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Creating a Non-Collateralized Stablecoin](https://levelup.gitconnected.com/creating-a-non-collateralized-stablecoin-82fb1258647e)
 - [Announcing MetaCoin—The Governance-Minimized Decentralized Stablecoin](https://ethresear.ch/t/announcing-metacoin-the-governance-minimized-decentralized-stablecoin/6897)
 - [Atix Explains: What Are Stablecoins?](https://medium.com/atix-labs/atix-explains-what-are-stablecoins-b3c59692067f)
+- [Stablecoins: Types and Applications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3553296)
 
 ## Exchanges
 
