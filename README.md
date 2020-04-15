@@ -45,6 +45,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DefiPulse](https://defipulse.com/)
 - [DefiScore: Compare DeFi Lending by Asset](https://app.defiscore.io/assets/zrx)
 - [Codefi Inspect](https://inspect.codefi.network/)
+- [DeFi Market Cap](https://defimarketcap.io/)
 
 ## Tutorials
 
@@ -232,6 +233,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [4 DeFi protocols on Ethereum](https://medium.com/defi-world/4-defi-protocols-on-ethereum-cc139001667a)
 - [Subspace - Observing DeFi](https://our.status.im/subspace-observing-defi/)
 - [DeFiZap](https://defizap.com/)
+- [DeFi SDK](https://github.com/zeriontech/defi-sdk#supported-protocols)
 
 ## News
 
