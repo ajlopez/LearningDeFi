@@ -164,7 +164,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Executive Vote: Unblock the remaining Debt Auctions](https://blog.makerdao.com/executive-vote-march-26-2020/)
 - [USDC: Peg Arbitrage vs. Auction Liquidity](https://forum.makerdao.com/t/usdc-peg-arbitrage-vs-auction-liquidity/1695)
 
-## MoneyOnChain
+## Money On Chain
 
 - [What is Money On Chain and how does it work?](https://www.youtube.com/watch?v=3UrVZHh-L4w&feature=youtu.be)
 - [How Does Money On Chain Work?](https://www.youtube.com/watch?v=SM7EyR3kXz8&feature=youtu.be)
@@ -179,6 +179,12 @@ A "potpourri" of resources about Decentralized Finance.
 - [Money On Chain — a Stable Asset Platform](https://medium.com/moneyonchain/money-on-chain-a-stable-asset-platform-1e503e81a19)
 - [DeFi on Bitcoin: The Time Has Come for Decentralized Finance to Run on top of Bitcoin´s Network](https://blog.coinmarketcap.com/2020/03/18/defi-on-bitcoin-the-time-has-come-for-decentralized-finance-to-run-on-top-of-bitcoins-network/)
 - [Money On Chain — March 13th crypto downfall analysis](https://medium.com/moneyonchain/money-on-chain-march-13th-crypto-downfall-analysis-253e6b93a7df)
+
+## RIF on Chain
+
+- [RIF on Chain Launch](https://www.rifos.org/blog/rif-on-chain-launch)
+- [Bitcoin Smart Contract Solution RSK Sees New Stablecoin and Leveraged Token](https://cointelegraph.com/news/bitcoin-smart-contract-solution-rsk-sees-new-stablecoin-and-leveraged-token)
+- [Bitcoin DeFi Ecosystem Expands as RIF Stablecoin and Leveraged Token are Launched](https://finance.yahoo.com/news/bitcoin-defi-ecosystem-expands-rif-144500286.html)
 
 ## Bancor
 
