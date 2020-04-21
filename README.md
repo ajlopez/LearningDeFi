@@ -46,6 +46,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [DefiScore: Compare DeFi Lending by Asset](https://app.defiscore.io/assets/zrx)
 - [Codefi Inspect](https://inspect.codefi.network/)
 - [DeFi Market Cap](https://defimarketcap.io/)
+- [Loan Scan](https://loanscan.io/)
+
 
 ## Tutorials
 
@@ -67,6 +69,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How To DeFi](https://landing.coingecko.com/how-to-defi/)
 - [DeFi Use cases: The Best Examples of Decentralized Finance](https://blockgeeks.com/guides/defi-use-cases-the-best-examples-of-decentralised-finance/)
 - [Decentralized Finance with Tom Schmidt](https://softwareengineeringdaily.com/2020/02/25/decentralized-finance-with-tom-schmidt/)
+- [How Lending Pool Interest Rates actually work](https://medium.com/hydro-protocol/how-lending-pool-interest-rates-actually-work-375794e71716)
 
 ## Bitcoin
 
@@ -235,6 +238,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Subspace - Observing DeFi](https://our.status.im/subspace-observing-defi/)
 - [DeFiZap](https://defizap.com/)
 - [DeFi SDK](https://github.com/zeriontech/defi-sdk#supported-protocols)
+- [Building with Money Legos](https://medium.com/totle/building-with-money-legos-ab63a58ae764)
 
 ## News
 
