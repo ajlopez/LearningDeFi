@@ -187,6 +187,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [RIF on Chain Launch](https://www.rifos.org/blog/rif-on-chain-launch)
 - [Bitcoin Smart Contract Solution RSK Sees New Stablecoin and Leveraged Token](https://cointelegraph.com/news/bitcoin-smart-contract-solution-rsk-sees-new-stablecoin-and-leveraged-token)
 - [Bitcoin DeFi Ecosystem Expands as RIF Stablecoin and Leveraged Token are Launched](https://finance.yahoo.com/news/bitcoin-defi-ecosystem-expands-rif-144500286.html)
+- [RIF on Chain Taps RSK Blockchain to Launch DeFi Platform](https://btcmanager.com/rif-chain-rsk-blockchain-launch-defi-platform/)
 
 ## Bancor
 
