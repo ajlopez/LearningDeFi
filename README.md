@@ -38,6 +38,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [For Mainstreaming Blockchain, DeFi Leads the Way](https://codefi.consensys.net/blog/for-mainstreaming-blockchain-defi-leads-the-way)
 - [Evolving Trends in Token-Powered Networks](https://codefi.consensys.net/blog/evolving-trends-in-token-powered-networks)
 - [Defi 101 - concepts you need to understand before using a Defi protocol](https://forum.openzeppelin.com/t/defi-101-concepts-you-need-to-understand-before-using-a-defi-protocol/2577)
+- [DeFi Reflections on Hackers and Viruses](https://blog.openzeppelin.com/defi-reflections-on-hackers-and-viruses/)
 
 ## Information
 
