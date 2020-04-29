@@ -251,6 +251,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Building with Money Legos](https://medium.com/totle/building-with-money-legos-ab63a58ae764)
 - [Designing for composability in crypto](https://medium.com/nfty-news/designing-for-composability-in-crypto-6e138790a7d6)
 - [Ethereum: The Digital Finance Stack](https://medium.com/pov-crypto/ethereum-the-digital-finance-stack-4ba988c6c14b)
+- [Launching DeFi Smart Account](https://blog.instadapp.io/dsa-launch/)
 
 ## News
 
