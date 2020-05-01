@@ -39,6 +39,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Evolving Trends in Token-Powered Networks](https://codefi.consensys.net/blog/evolving-trends-in-token-powered-networks)
 - [Defi 101 - concepts you need to understand before using a Defi protocol](https://forum.openzeppelin.com/t/defi-101-concepts-you-need-to-understand-before-using-a-defi-protocol/2577)
 - [DeFi Reflections on Hackers and Viruses](https://blog.openzeppelin.com/defi-reflections-on-hackers-and-viruses/)
+- [Coinbase Custody to support Celo Gold (cGLD), Filecoin (FIL), Keep Network (KEEP), NEAR Protocol (NEAR) & Polkadot (DOT)](https://blog.coinbase.com/coinbase-custody-to-support-celo-gold-cgld-filecoin-fil-keep-network-keep-near-protocol-6b54fc4c183a)
 
 ## Information
 
@@ -50,6 +51,9 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Market Cap](https://defimarketcap.io/)
 - [Loan Scan](https://loanscan.io/)
 
+## Conference
+
+- [DeFi Discussions](https://defi-discussions.dystopialabs.com/)
 
 ## Tutorials
 
@@ -72,7 +76,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Use cases: The Best Examples of Decentralized Finance](https://blockgeeks.com/guides/defi-use-cases-the-best-examples-of-decentralised-finance/)
 - [Decentralized Finance with Tom Schmidt](https://softwareengineeringdaily.com/2020/02/25/decentralized-finance-with-tom-schmidt/)
 - [How Lending Pool Interest Rates actually work](https://medium.com/hydro-protocol/how-lending-pool-interest-rates-actually-work-375794e71716)
-- [
 
 ## Bitcoin
 
