@@ -40,6 +40,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Defi 101 - concepts you need to understand before using a Defi protocol](https://forum.openzeppelin.com/t/defi-101-concepts-you-need-to-understand-before-using-a-defi-protocol/2577)
 - [DeFi Reflections on Hackers and Viruses](https://blog.openzeppelin.com/defi-reflections-on-hackers-and-viruses/)
 - [Coinbase Custody to support Celo Gold (cGLD), Filecoin (FIL), Keep Network (KEEP), NEAR Protocol (NEAR) & Polkadot (DOT)](https://blog.coinbase.com/coinbase-custody-to-support-celo-gold-cgld-filecoin-fil-keep-network-keep-near-protocol-6b54fc4c183a)
+- [Safe Composability](https://www.crowdcast.io/e/defi-discussions/13)
+
 
 ## Information
 
@@ -76,6 +78,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Use cases: The Best Examples of Decentralized Finance](https://blockgeeks.com/guides/defi-use-cases-the-best-examples-of-decentralised-finance/)
 - [Decentralized Finance with Tom Schmidt](https://softwareengineeringdaily.com/2020/02/25/decentralized-finance-with-tom-schmidt/)
 - [How Lending Pool Interest Rates actually work](https://medium.com/hydro-protocol/how-lending-pool-interest-rates-actually-work-375794e71716)
+- [What the Fi is DeFi?](https://www.crowdcast.io/e/defi-discussions/10)
 
 ## Bitcoin
 
@@ -169,6 +172,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Todo sobre Stable Coin y DAI](https://twitter.com/juanbiter/status/1242538446419353601)
 - [Executive Vote: Unblock the remaining Debt Auctions](https://blog.makerdao.com/executive-vote-march-26-2020/)
 - [USDC: Peg Arbitrage vs. Auction Liquidity](https://forum.makerdao.com/t/usdc-peg-arbitrage-vs-auction-liquidity/1695)
+- [WBTC Approved as Collateral by Maker Governance; Generate Dai Now with Bitcoin](https://blog.makerdao.com/wtbc-approved-as-collateral-by-maker-governance-generate-dai-now-with-bitcoin/)
 
 ## Money On Chain
 
@@ -210,6 +214,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Synthetic repository](https://github.com/Synthetixio/synthetix)
 - [Synthetic Mintr repository](https://github.com/Synthetixio/synthetix-mintr)
 - [How Synthetix Became the Second-Largest DeFi Platform](https://unchainedpodcast.com/how-synthetix-became-the-second-largest-defi-platform/)
+- [How To Build Synthetic Tokens Without An On-Chain Price Feed](https://www.crowdcast.io/e/defi-discussions/18)
 
 ## Projects
 
@@ -255,6 +260,13 @@ A "potpourri" of resources about Decentralized Finance.
 - [Designing for composability in crypto](https://medium.com/nfty-news/designing-for-composability-in-crypto-6e138790a7d6)
 - [Ethereum: The Digital Finance Stack](https://medium.com/pov-crypto/ethereum-the-digital-finance-stack-4ba988c6c14b)
 - [Launching DeFi Smart Account](https://blog.instadapp.io/dsa-launch/)
+- [Constructing Zapper.fi, Learning on Design for Extreme Composability](https://www.crowdcast.io/e/defi-discussions/14)
+- [How to Build a Front-End from DeFi Legos](https://www.crowdcast.io/e/defi-discussions/15)
+
+## Oracles
+
+- [A Trusted Price Feed For DeFi: Workshop On Using The Coinbase Oracle](https://www.crowdcast.io/e/defi-discussions/19)
+- [Attack Matrix & Security: Thinking Through Oracle Construction](https://www.crowdcast.io/e/defi-discussions/20)
 
 ## News
 
