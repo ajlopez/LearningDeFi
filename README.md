@@ -197,6 +197,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Bitcoin DeFi Ecosystem Expands as RIF Stablecoin and Leveraged Token are Launched](https://finance.yahoo.com/news/bitcoin-defi-ecosystem-expands-rif-144500286.html)
 - [RIF on Chain Taps RSK Blockchain to Launch DeFi Platform](https://btcmanager.com/rif-chain-rsk-blockchain-launch-defi-platform/)
 - [RIF on Chain Launch](https://medium.com/moneyonchain/rif-on-chain-launch-35c1c14219ef)
+- [RIF on Chain](https://rif.moneyonchain.com/)
 
 ## Bancor
 
