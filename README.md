@@ -42,6 +42,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Coinbase Custody to support Celo Gold (cGLD), Filecoin (FIL), Keep Network (KEEP), NEAR Protocol (NEAR) & Polkadot (DOT)](https://blog.coinbase.com/coinbase-custody-to-support-celo-gold-cgld-filecoin-fil-keep-network-keep-near-protocol-6b54fc4c183a)
 - [Safe Composability](https://www.crowdcast.io/e/defi-discussions/13)
 - [Constant Function Market Makers: DeFi’s “Zero to One” Innovation](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)
+- [A First Look into DeFi Oracles](https://arxiv.org/pdf/2005.04377.pdf)
 
 ## Information
 
