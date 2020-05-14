@@ -43,6 +43,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Safe Composability](https://www.crowdcast.io/e/defi-discussions/13)
 - [Constant Function Market Makers: DeFi’s “Zero to One” Innovation](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)
 - [A First Look into DeFi Oracles](https://arxiv.org/pdf/2005.04377.pdf)
+- [How to explain tokenization to Six Year Olds (well... sort of)](https://codefi.consensys.net/blog/how-to-explain-tokenization-to-six-year-olds-well-sort-of)
+
 
 ## Information
 
@@ -96,6 +98,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Is DeFi Ethereums Killer App?](https://medium.com/@davekaj/is-defi-ethereums-killer-app-60f18bf785af)
 - [DeFi Hackathon](https://hackathon.sfblockchainweek.io)
 - [How DeFi cannibalizes PoS security](https://medium.com/dragonfly-research/how-defi-cannibalizes-pos-security-84b146f00697)
+- [Ethereum 2.0 and DeFi ecosystem](https://medium.com/@cesar.schneider/ethereum-2-0-and-defi-ecosystem-5132aaa88089)
+
 
 ## MakerDAO
 
