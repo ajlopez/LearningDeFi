@@ -194,6 +194,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Money On Chain — a Stable Asset Platform](https://medium.com/moneyonchain/money-on-chain-a-stable-asset-platform-1e503e81a19)
 - [DeFi on Bitcoin: The Time Has Come for Decentralized Finance to Run on top of Bitcoin´s Network](https://blog.coinmarketcap.com/2020/03/18/defi-on-bitcoin-the-time-has-come-for-decentralized-finance-to-run-on-top-of-bitcoins-network/)
 - [Money On Chain — March 13th crypto downfall analysis](https://medium.com/moneyonchain/money-on-chain-march-13th-crypto-downfall-analysis-253e6b93a7df)
+- [Introduction to OMoc, Money On Chain Oracles](https://medium.com/moneyonchain/introduction-to-omoc-money-on-chain-oracles-a0fb754f6d7e)
 
 ## RIF on Chain
 
