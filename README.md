@@ -91,6 +91,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Opinion: DeFi is for Bitcoin Too](https://www.longhash.com/news/opinion-defi-is-for-bitcoin-too)
 - [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1)
 - [Defi for Bitcoin](https://developers.rsk.co/defi/)
+- [Is tokenized BTC bullish for ETH?](https://bankless.substack.com/p/is-tokenized-btc-bullish-for-eth)
+
 
 ## Ethereum
 
@@ -271,6 +273,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Launching DeFi Smart Account](https://blog.instadapp.io/dsa-launch/)
 - [Constructing Zapper.fi, Learning on Design for Extreme Composability](https://www.crowdcast.io/e/defi-discussions/14)
 - [How to Build a Front-End from DeFi Legos](https://www.crowdcast.io/e/defi-discussions/15)
+- [Ren Project](https://renproject.io/)
 
 ## Oracles
 
