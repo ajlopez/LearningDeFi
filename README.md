@@ -44,7 +44,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Constant Function Market Makers: DeFi’s “Zero to One” Innovation](https://medium.com/bollinger-investment-group/constant-function-market-makers-defis-zero-to-one-innovation-968f77022159)
 - [A First Look into DeFi Oracles](https://arxiv.org/pdf/2005.04377.pdf)
 - [How to explain tokenization to Six Year Olds (well... sort of)](https://codefi.consensys.net/blog/how-to-explain-tokenization-to-six-year-olds-well-sort-of)
-
+- [El estado actual de las Wrapped Tokens](https://defilatam.substack.com/p/el-estado-actual-de-las-wrapped-tokens)
 
 ## Information
 
