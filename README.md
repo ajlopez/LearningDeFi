@@ -306,6 +306,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Announcing MetaCoin—The Governance-Minimized Decentralized Stablecoin](https://ethresear.ch/t/announcing-metacoin-the-governance-minimized-decentralized-stablecoin/6897)
 - [Atix Explains: What Are Stablecoins?](https://medium.com/atix-labs/atix-explains-what-are-stablecoins-b3c59692067f)
 - [Stablecoins: Types and Applications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3553296)
+- [mStable Now Live on Mainnet](https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7)
+
 
 ## Exchanges
 
