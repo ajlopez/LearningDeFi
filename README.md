@@ -214,6 +214,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How to Add Liquidity on Bancor](https://blog.bancor.network/how-to-stake-liquidity-earn-fees-on-bancor-bff8369274a1)
 - [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 - [Bancor Zaps](https://blog.bancor.network/bancor-zaps-%EF%B8%8F-b038eb425e02)
+- [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388)
 
 ## Synthetic
 
@@ -284,6 +285,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Constructing Zapper.fi, Learning on Design for Extreme Composability](https://www.crowdcast.io/e/defi-discussions/14)
 - [How to Build a Front-End from DeFi Legos](https://www.crowdcast.io/e/defi-discussions/15)
 - [Ren Project](https://renproject.io/)
+- [Compose.fi connect DeFi pieces](https://compose.fi/)
 
 ## Oracles
 
