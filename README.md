@@ -286,6 +286,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How to Build a Front-End from DeFi Legos](https://www.crowdcast.io/e/defi-discussions/15)
 - [Ren Project](https://renproject.io/)
 - [Compose.fi connect DeFi pieces](https://compose.fi/)
+- [Introducing Covalent's DeFi SDK](https://www.covalenthq.com/blog/covalent-defi-sdk/)
 
 ## Oracles
 
