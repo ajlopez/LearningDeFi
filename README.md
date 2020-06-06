@@ -45,6 +45,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [A First Look into DeFi Oracles](https://arxiv.org/pdf/2005.04377.pdf)
 - [How to explain tokenization to Six Year Olds (well... sort of)](https://codefi.consensys.net/blog/how-to-explain-tokenization-to-six-year-olds-well-sort-of)
 - [El estado actual de las Wrapped Tokens](https://defilatam.substack.com/p/el-estado-actual-de-las-wrapped-tokens)
+- [Staking and DeFi: Can They Coexist? Part 1](https://medium.com/everett-protocol/why-a-staking-reward-in-proof-of-stake-is-economically-flawed-bcd71bb493bd)
+
 
 ## Information
 
@@ -310,7 +312,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Atix Explains: What Are Stablecoins?](https://medium.com/atix-labs/atix-explains-what-are-stablecoins-b3c59692067f)
 - [Stablecoins: Types and Applications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3553296)
 - [mStable Now Live on Mainnet](https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7)
-
+- [Coinbase cuts rewards on USDC stablecoin holdings by nearly 90%](https://www.theblockcrypto.com/linked/67284/coinbase-cuts-rewards-on-usdc-stablecoin-holdings-by-nearly-90)
 
 ## Exchanges
 
