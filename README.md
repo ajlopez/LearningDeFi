@@ -200,6 +200,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Money On Chain — March 13th crypto downfall analysis](https://medium.com/moneyonchain/money-on-chain-march-13th-crypto-downfall-analysis-253e6b93a7df)
 - [Introduction to OMoc, Money On Chain Oracles](https://medium.com/moneyonchain/introduction-to-omoc-money-on-chain-oracles-a0fb754f6d7e)
 - [Moneyonchain a Stablecion descentralizada baseada no Bitcoin. Tudo sobre o MoC, DoC, Bpro e BTCx](https://www.youtube.com/watch?v=iXaKY7Nn4L4)
+- [MakerDAO Weighs Accepting Real-World Assets as Crypto Loan Collateral](https://www.coindesk.com/makerdao-weighs-accepting-real-world-assets-as-crypto-loan-collateral)
 
 ## RIF on Chain
 
@@ -289,6 +290,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Ren Project](https://renproject.io/)
 - [Compose.fi connect DeFi pieces](https://compose.fi/)
 - [Introducing Covalent's DeFi SDK](https://www.covalenthq.com/blog/covalent-defi-sdk/)
+- [BTC to AAVE get intrest and borrow using your BTC](https://github.com/pmprete/renvm-hackaton)
+- [BtcToAAVE - RenVm Hackaton NYC BlockChain Week](https://www.youtube.com/watch?v=AMlZTXLr6Vw)
 
 ## Oracles
 
