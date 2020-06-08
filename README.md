@@ -321,3 +321,8 @@ A "potpourri" of resources about Decentralized Finance.
 
 - [CryptoSwitch](https://coinswitch.co/)
 
+## Insurance
+
+- [Nexus Mutual](https://nexusmutual.io/)
+- [Etherix](https://etherisc.com/)
+
