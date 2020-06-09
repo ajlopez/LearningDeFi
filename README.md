@@ -46,7 +46,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How to explain tokenization to Six Year Olds (well... sort of)](https://codefi.consensys.net/blog/how-to-explain-tokenization-to-six-year-olds-well-sort-of)
 - [El estado actual de las Wrapped Tokens](https://defilatam.substack.com/p/el-estado-actual-de-las-wrapped-tokens)
 - [Staking and DeFi: Can They Coexist? Part 1](https://medium.com/everett-protocol/why-a-staking-reward-in-proof-of-stake-is-economically-flawed-bcd71bb493bd)
-
+- [Exploring DeFi trading strategies: Arbitrage in DeFi](https://www.theblockcrypto.com/post/45750/exploring-defi-trading-strategies-arbitrage-in-defi)
 
 ## Information
 
@@ -244,6 +244,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Fixing security vulnerabilities in npm dependencies in less than 3 mins](https://itnext.io/fixing-security-vulnerabilities-in-npm-dependencies-in-less-than-3-mins-a53af735261d)
 - [Compound FAQ](https://medium.com/compound-finance/faq-1a2636713b69)
 - [Compound Finance for Dummies](https://ethereumprice.org/guides/article/compound-finance-explained/)
+- [Compound COMP Distribution System Audit](https://blog.openzeppelin.com/compound-comp-distribution-system-audit/)
 
 ## Projects
 
