@@ -318,6 +318,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Stablecoins: Types and Applications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3553296)
 - [mStable Now Live on Mainnet](https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7)
 - [Coinbase cuts rewards on USDC stablecoin holdings by nearly 90%](https://www.theblockcrypto.com/linked/67284/coinbase-cuts-rewards-on-usdc-stablecoin-holdings-by-nearly-90)
+- [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5)
 
 ## Exchanges
 
