@@ -294,6 +294,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [BTC to AAVE get intrest and borrow using your BTC](https://github.com/pmprete/renvm-hackaton)
 - [BtcToAAVE - RenVm Hackaton NYC BlockChain Week](https://www.youtube.com/watch?v=AMlZTXLr6Vw)
 - [Genesis Block](https://genesisblock.com/)
+- [Money Legos with Options](https://medium.com/podsfinance/money-legos-with-options-f7cb917facb5)
+
 
 ## Oracles
 
