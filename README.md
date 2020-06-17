@@ -245,6 +245,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Compound FAQ](https://medium.com/compound-finance/faq-1a2636713b69)
 - [Compound Finance for Dummies](https://ethereumprice.org/guides/article/compound-finance-explained/)
 - [Compound COMP Distribution System Audit](https://blog.openzeppelin.com/compound-comp-distribution-system-audit/)
+- [First Mover: Compound Has Been a DeFi Darling. Its New Token Is Priced Accordingly](https://www.coindesk.com/first-mover-compound-has-been-a-defi-darling-its-new-token-is-priced-accordingly)
+- [Compound begins first day of trading as the most valuable token in DeFi](https://messari.io/article/compound-begins-first-day-of-trading-as-the-most-valuable-token-in-defi)
 
 ## Projects
 
