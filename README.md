@@ -220,6 +220,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Converting Between Bancor and Bonding Curve Price Formulas](https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5)
 - [Bancor Zaps](https://blog.bancor.network/bancor-zaps-%EF%B8%8F-b038eb425e02)
 - [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388)
+- [Bancor smart contracts vulnerability: It’s not over](https://medium.com/zengo/bancor-smart-contracts-vulnerability-and-its-lessons-ce762d09bb9a)
 
 ## Synthetic
 
