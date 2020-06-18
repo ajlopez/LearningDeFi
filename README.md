@@ -47,6 +47,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [El estado actual de las Wrapped Tokens](https://defilatam.substack.com/p/el-estado-actual-de-las-wrapped-tokens)
 - [Staking and DeFi: Can They Coexist? Part 1](https://medium.com/everett-protocol/why-a-staking-reward-in-proof-of-stake-is-economically-flawed-bcd71bb493bd)
 - [Exploring DeFi trading strategies: Arbitrage in DeFi](https://www.theblockcrypto.com/post/45750/exploring-defi-trading-strategies-arbitrage-in-defi)
+- [Exchange Token Valuation: The PA Ratio](https://www.decentralpark.io/research/2020/5/20/exchange-token-valuation-price-to-assets-ratio)
 
 ## Information
 
@@ -182,6 +183,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Executive Vote: Unblock the remaining Debt Auctions](https://blog.makerdao.com/executive-vote-march-26-2020/)
 - [USDC: Peg Arbitrage vs. Auction Liquidity](https://forum.makerdao.com/t/usdc-peg-arbitrage-vs-auction-liquidity/1695)
 - [WBTC Approved as Collateral by Maker Governance; Generate Dai Now with Bitcoin](https://blog.makerdao.com/wtbc-approved-as-collateral-by-maker-governance-generate-dai-now-with-bitcoin/)
+- [MakerDAO Weighs Accepting Real-World Assets as Crypto Loan Collateral](https://www.coindesk.com/makerdao-weighs-accepting-real-world-assets-as-crypto-loan-collateral)
 
 ## Money On Chain
 
@@ -200,7 +202,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Money On Chain — March 13th crypto downfall analysis](https://medium.com/moneyonchain/money-on-chain-march-13th-crypto-downfall-analysis-253e6b93a7df)
 - [Introduction to OMoc, Money On Chain Oracles](https://medium.com/moneyonchain/introduction-to-omoc-money-on-chain-oracles-a0fb754f6d7e)
 - [Moneyonchain a Stablecion descentralizada baseada no Bitcoin. Tudo sobre o MoC, DoC, Bpro e BTCx](https://www.youtube.com/watch?v=iXaKY7Nn4L4)
-- [MakerDAO Weighs Accepting Real-World Assets as Crypto Loan Collateral](https://www.coindesk.com/makerdao-weighs-accepting-real-world-assets-as-crypto-loan-collateral)
+- [Introduction to Money On Chain’s Decentralized Token Exchange on RSK Platform](https://medium.com/moneyonchain/introduction-to-money-on-chains-decentralized-token-exchange-on-rsk-platform-e609d07698a1)
 
 ## RIF on Chain
 
@@ -297,7 +299,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [BtcToAAVE - RenVm Hackaton NYC BlockChain Week](https://www.youtube.com/watch?v=AMlZTXLr6Vw)
 - [Genesis Block](https://genesisblock.com/)
 - [Money Legos with Options](https://medium.com/podsfinance/money-legos-with-options-f7cb917facb5)
-
+- [DeFi SDK: Making Money Lego Work](https://blog.zerion.io/defi-sdk-making-money-lego-work-1dc08b8982cf)
 
 ## Oracles
 
@@ -323,6 +325,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [mStable Now Live on Mainnet](https://medium.com/mstable/mstable-now-live-on-mainnet-c9f55f748ac7)
 - [Coinbase cuts rewards on USDC stablecoin holdings by nearly 90%](https://www.theblockcrypto.com/linked/67284/coinbase-cuts-rewards-on-usdc-stablecoin-holdings-by-nearly-90)
 - [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5)
+- [State of Stablecoins - Q2 2020](https://cipher.substack.com/p/state-of-stablecoins-q2-2020)
 
 ## Exchanges
 
