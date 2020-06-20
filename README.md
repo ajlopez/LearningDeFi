@@ -104,6 +104,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Hackathon](https://hackathon.sfblockchainweek.io)
 - [How DeFi cannibalizes PoS security](https://medium.com/dragonfly-research/how-defi-cannibalizes-pos-security-84b146f00697)
 - [Ethereum 2.0 and DeFi ecosystem](https://medium.com/@cesar.schneider/ethereum-2-0-and-defi-ecosystem-5132aaa88089)
+- [Ethereum 2.0 Likely to Affect DeFi and DApps With PoS Introduction](https://cointelegraph.com/news/ethereum-20-likely-to-affect-defi-and-dapps-with-pos-introduction)
 
 
 ## MakerDAO
