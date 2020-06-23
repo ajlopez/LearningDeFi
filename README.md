@@ -222,6 +222,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Bancor Zaps](https://blog.bancor.network/bancor-zaps-%EF%B8%8F-b038eb425e02)
 - [Bancor’s Smart Tokens vs Token Bonding Curves](https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388)
 - [Bancor smart contracts vulnerability: It’s not over](https://medium.com/zengo/bancor-smart-contracts-vulnerability-and-its-lessons-ce762d09bb9a)
+- [Bancor’s Bug Exposes Dangerously Common Practice in Ethereum DeFi](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi)
+
 
 ## Synthetic
 
