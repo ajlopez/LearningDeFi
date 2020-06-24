@@ -331,6 +331,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5)
 - [State of Stablecoins - Q2 2020](https://cipher.substack.com/p/state-of-stablecoins-q2-2020)
 - [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388)
+- [CBDCs & StableCoins: Eliminating Volatiliy in a Centralized or Decentralized Crypto World](https://themerkle.com/cbdcs-stablecoins-eliminating-volatiliy-in-a-centralized-or-decentralized-crypto-world/)
 
 ## Exchanges
 
