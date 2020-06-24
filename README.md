@@ -330,6 +330,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Coinbase cuts rewards on USDC stablecoin holdings by nearly 90%](https://www.theblockcrypto.com/linked/67284/coinbase-cuts-rewards-on-usdc-stablecoin-holdings-by-nearly-90)
 - [Stablecoins: designing a price-stable cryptocurrency](https://hackernoon.com/stablecoins-designing-a-price-stable-cryptocurrency-6bf24e2689e5)
 - [State of Stablecoins - Q2 2020](https://cipher.substack.com/p/state-of-stablecoins-q2-2020)
+- [Stablecoins 2.0: Economic Foundations and Risk-based Models](https://arxiv.org/abs/2006.12388)
 
 ## Exchanges
 
