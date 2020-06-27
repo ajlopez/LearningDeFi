@@ -48,6 +48,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Staking and DeFi: Can They Coexist? Part 1](https://medium.com/everett-protocol/why-a-staking-reward-in-proof-of-stake-is-economically-flawed-bcd71bb493bd)
 - [Exploring DeFi trading strategies: Arbitrage in DeFi](https://www.theblockcrypto.com/post/45750/exploring-defi-trading-strategies-arbitrage-in-defi)
 - [Exchange Token Valuation: The PA Ratio](https://www.decentralpark.io/research/2020/5/20/exchange-token-valuation-price-to-assets-ratio)
+- [An Introduction To Automated Market Makers](https://cipher.substack.com/p/an-introduction-to-automated-market)
 
 ## Information
 
