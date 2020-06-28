@@ -237,6 +237,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Synthetic Mintr repository](https://github.com/Synthetixio/synthetix-mintr)
 - [How Synthetix Became the Second-Largest DeFi Platform](https://unchainedpodcast.com/how-synthetix-became-the-second-largest-defi-platform/)
 - [How To Build Synthetic Tokens Without An On-Chain Price Feed](https://www.crowdcast.io/e/defi-discussions/18)
+- [Trio of Bitcoin Tokens Lures DeFi Yield Farmers to New Pastures](https://www.coindesk.com/synthetix-defi-yield-farmers-sbtc-renbtc-wbtc)
 
 ## Compound
 
