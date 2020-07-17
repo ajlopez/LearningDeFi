@@ -313,7 +313,7 @@ A "potpourri" of resources about Decentralized Finance.
 
 - [A Trusted Price Feed For DeFi: Workshop On Using The Coinbase Oracle](https://www.crowdcast.io/e/defi-discussions/19)
 - [Attack Matrix & Security: Thinking Through Oracle Construction](https://www.crowdcast.io/e/defi-discussions/20)
-- [The Chainlink Fraud Exposed](https://chainlink.docsend.com/view/nfrvnyuuzrf2d5va)
+- [The Chainlink Fraud Exposed](https://chainlink.docsend.com/view/nfrvnyuuzrf2d5va)    
 
 ## News
 
