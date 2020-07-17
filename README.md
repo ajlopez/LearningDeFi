@@ -50,6 +50,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Exchange Token Valuation: The PA Ratio](https://www.decentralpark.io/research/2020/5/20/exchange-token-valuation-price-to-assets-ratio)
 - [An Introduction To Automated Market Makers](https://cipher.substack.com/p/an-introduction-to-automated-market)
 - [A tale of two DeFis](https://twitter.com/bradmillscan/status/1281241687319293953)
+- [Nearly $60M in Bitcoin Moved to Ethereum in June](https://www.coindesk.com/nearly-60m-in-bitcoin-moved-to-ethereum-in-june?amp=1)
 
 ## Information
 
@@ -312,6 +313,7 @@ A "potpourri" of resources about Decentralized Finance.
 
 - [A Trusted Price Feed For DeFi: Workshop On Using The Coinbase Oracle](https://www.crowdcast.io/e/defi-discussions/19)
 - [Attack Matrix & Security: Thinking Through Oracle Construction](https://www.crowdcast.io/e/defi-discussions/20)
+- [The Chainlink Fraud Exposed](https://chainlink.docsend.com/view/nfrvnyuuzrf2d5va)
 
 ## News
 
