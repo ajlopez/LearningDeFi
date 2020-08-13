@@ -310,6 +310,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Money Legos with Options](https://medium.com/podsfinance/money-legos-with-options-f7cb917facb5)
 - [DeFi SDK: Making Money Lego Work](https://blog.zerion.io/defi-sdk-making-money-lego-work-1dc08b8982cf)
 - [DeFi Meme Coin YAM Succumbs to Fatal ‘Rebase’ Bug, Makes Plans for ‘YAM 2.0’](https://www.coindesk.com/defi-meme-coin-yam-succumbs-to-fatal-rebase-bug)
+- [Decentralized Finance, the YAM fiasco and the road to DeFi sustainability](https://blog.rotki.com/2020/08/13/sustainable-defi/)
 
 ## Oracles
 
