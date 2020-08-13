@@ -258,6 +258,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [First Mover: Compound Has Been a DeFi Darling. Its New Token Is Priced Accordingly](https://www.coindesk.com/first-mover-compound-has-been-a-defi-darling-its-new-token-is-priced-accordingly)
 - [Compound begins first day of trading as the most valuable token in DeFi](https://messari.io/article/compound-begins-first-day-of-trading-as-the-most-valuable-token-in-defi)
 - [Compound is up more than 50% since the YAMs launch](https://messari.io/chart/compound-1A265249)
+- [Compound Open Price Feed](https://compound.finance/governance/proposals/19)
 
 ## Projects
 
