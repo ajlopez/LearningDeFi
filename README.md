@@ -260,6 +260,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Compound is up more than 50% since the YAMs launch](https://messari.io/chart/compound-1A265249)
 - [Compound Open Price Feed](https://compound.finance/governance/proposals/19)
 
+
 ## Projects
 
 - [Tornado Lend](https://devpost.com/software/tornado-lend)
@@ -312,6 +313,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi SDK: Making Money Lego Work](https://blog.zerion.io/defi-sdk-making-money-lego-work-1dc08b8982cf)
 - [DeFi Meme Coin YAM Succumbs to Fatal ‘Rebase’ Bug, Makes Plans for ‘YAM 2.0’](https://www.coindesk.com/defi-meme-coin-yam-succumbs-to-fatal-rebase-bug)
 - [Decentralized Finance, the YAM fiasco and the road to DeFi sustainability](https://blog.rotki.com/2020/08/13/sustainable-defi/)
+- [Single-line software bug causes fledgling YAM cryptocurrency to implode just two days after launch](https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/)
+- [Aave V2, The Seamless Finance](https://medium.com/aave/aave-v2-the-seamless-finance-d52075d97a70)
 
 ## Oracles
 
