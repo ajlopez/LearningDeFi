@@ -98,7 +98,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [The Next Wave of DeFi Users: A UX Research Study](https://medium.com/usegossamer/the-next-wave-of-defi-users-a-ux-research-study-f20f180c23a1)
 - [Defi for Bitcoin](https://developers.rsk.co/defi/)
 - [Is tokenized BTC bullish for ETH?](https://bankless.substack.com/p/is-tokenized-btc-bullish-for-eth)
-
+- [Bitcoin DeFi May Be Unstoppable, What Does It Look Like?](https://www.coindesk.com/bitcoin-defi-japan-smart-contracts)
 
 ## Ethereum
 
@@ -315,6 +315,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Decentralized Finance, the YAM fiasco and the road to DeFi sustainability](https://blog.rotki.com/2020/08/13/sustainable-defi/)
 - [Single-line software bug causes fledgling YAM cryptocurrency to implode just two days after launch](https://www.theregister.com/2020/08/13/yam_cryptocurrency_bug_governance/)
 - [Aave V2, The Seamless Finance](https://medium.com/aave/aave-v2-the-seamless-finance-d52075d97a70)
+- [DODO: A Revolution in On-Chain Liquidity](https://medium.com/dodoex/dodo-a-revolution-in-on-chain-liquidity-7bc339b9d391)
+- [Introducing The Degenerator](https://twitter.com/DeFiDude/status/1294542736725544960)
 
 ## Oracles
 
