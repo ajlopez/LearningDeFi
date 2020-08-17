@@ -51,6 +51,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [An Introduction To Automated Market Makers](https://cipher.substack.com/p/an-introduction-to-automated-market)
 - [A tale of two DeFis](https://twitter.com/bradmillscan/status/1281241687319293953)
 - [Nearly $60M in Bitcoin Moved to Ethereum in June](https://www.coindesk.com/nearly-60m-in-bitcoin-moved-to-ethereum-in-june?amp=1)
+- [The Architecture of Decentralised Finance Platforms: A New Open Finance Paradigm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3666029)
 
 ## Information
 
@@ -318,6 +319,9 @@ A "potpourri" of resources about Decentralized Finance.
 - [DODO: A Revolution in On-Chain Liquidity](https://medium.com/dodoex/dodo-a-revolution-in-on-chain-liquidity-7bc339b9d391)
 - [Introducing The Degenerator](https://twitter.com/DeFiDude/status/1294542736725544960)
 - [A Community-Governed DeFi Platform Makes Crowdfunding Decentralized](https://cointelegraph.com/news/a-community-governed-defi-platform-makes-crowdfunding-decentralized)
+- [La (verdadera?) historia detrás del lanzamiento de CRV](https://defilatam.substack.com/p/la-verdadera-historia-detrs-del-lanzamiento)
+- [1inch revolutionizes automated market maker (AMM) segment with Mooniswap](https://medium.com/@1inch.exchange/1inch-revolutionizes-automated-market-maker-amm-segment-with-mooniswap-e068c20d94c)
+- [PowerPool: a solution for accumulating governance power in Ethereum based protocol](https://medium.com/@powerpoolcvp/power-pool-a-solution-for-accumulating-governance-power-in-ethereum-based-protocols-92e8c88f655e)
 
 ## Oracles
 
