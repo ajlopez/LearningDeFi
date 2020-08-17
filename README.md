@@ -317,6 +317,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Aave V2, The Seamless Finance](https://medium.com/aave/aave-v2-the-seamless-finance-d52075d97a70)
 - [DODO: A Revolution in On-Chain Liquidity](https://medium.com/dodoex/dodo-a-revolution-in-on-chain-liquidity-7bc339b9d391)
 - [Introducing The Degenerator](https://twitter.com/DeFiDude/status/1294542736725544960)
+- [A Community-Governed DeFi Platform Makes Crowdfunding Decentralized](https://cointelegraph.com/news/a-community-governed-defi-platform-makes-crowdfunding-decentralized)
 
 ## Oracles
 
