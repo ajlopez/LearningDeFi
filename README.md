@@ -100,6 +100,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Defi for Bitcoin](https://developers.rsk.co/defi/)
 - [Is tokenized BTC bullish for ETH?](https://bankless.substack.com/p/is-tokenized-btc-bullish-for-eth)
 - [Bitcoin DeFi May Be Unstoppable, What Does It Look Like?](https://www.coindesk.com/bitcoin-defi-japan-smart-contracts)
+- [Bitcoin Investors Swap for Ethereum ‘Wrapped BTC’ to Yield Farm and Chill](https://cointelegraph.com/news/bitcoin-investors-swap-for-ethereum-wrapped-btc-to-yield-farm-and-chill)
 
 ## Ethereum
 
