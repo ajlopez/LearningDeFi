@@ -323,6 +323,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [La (verdadera?) historia detrás del lanzamiento de CRV](https://defilatam.substack.com/p/la-verdadera-historia-detrs-del-lanzamiento)
 - [1inch revolutionizes automated market maker (AMM) segment with Mooniswap](https://medium.com/@1inch.exchange/1inch-revolutionizes-automated-market-maker-amm-segment-with-mooniswap-e068c20d94c)
 - [PowerPool: a solution for accumulating governance power in Ethereum based protocol](https://medium.com/@powerpoolcvp/power-pool-a-solution-for-accumulating-governance-power-in-ethereum-based-protocols-92e8c88f655e)
+- [Algorand’s Newest Upgrade Turns the Project’s Eyes Towards DeFi](https://cointelegraph.com/news/algorands-newest-upgrade-turns-the-projects-eyes-towards-defi)
 
 ## Oracles
 
