@@ -62,6 +62,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Codefi Inspect](https://inspect.codefi.network/)
 - [DeFi Market Cap](https://defimarketcap.io/)
 - [Loan Scan](https://loanscan.io/)
+- [Why DeFi Pulse’s Key Metric Is So Simple It’s Confusing](https://www.coindesk.com/defi-pulse-decentralized-finance-data-site-tvl)
 
 ## Conference
 
@@ -275,6 +276,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introducing Defiscan.io](https://medium.com/mycrypto/introducing-defiscan-io-40b8d2c3d445)
 - [Ren’s Future in DeFi](https://medium.com/renproject/rens-future-in-defi-d34ffd903192)
 - [Introducing pTokens — provable, portable, pegged](https://medium.com/oraclize/introducing-ptokens-provable-portable-pegged-70911e200933)
+- {pTokens How It Works](https://ptokens.io/how-it-works)
 - [How we used Ethereum and DAI to create, tokenise and settle a ‘self-executing’ smart invoice](https://medium.com/tradeshift-engineering/how-we-used-ethereum-and-dai-to-create-tokenise-and-settle-a-self-executing-smart-invoice-4ae94396f6f5)
 - [PoolTogether](https://www.pooltogether.us/)
 - [Funding Token for PoolTogether, and Other Money-Lockup Apps](https://medium.com/@TrustlessState/funding-model-for-pooltogether-and-other-money-lockup-apps-86b928900efa)
