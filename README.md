@@ -53,6 +53,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Nearly $60M in Bitcoin Moved to Ethereum in June](https://www.coindesk.com/nearly-60m-in-bitcoin-moved-to-ethereum-in-june?amp=1)
 - [The Architecture of Decentralised Finance Platforms: A New Open Finance Paradigm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3666029)
 - [Binance launches Ethereum-compatible blockchain to pursue DeFi](https://cointelegraph.com/news/binance-launches-ethereum-compatible-blockchain-to-pursue-defi)
+- [SushiSwap Serves Uniswap LPs Through Vampire Mining](https://defirate.com/sushiswap-vampire-mining/)
+- [Uniswap Rises to Top of DeFi Charts Thanks to Rival Looking to Unseat It](https://www.coindesk.com/uniswap-defi-pulse-tvl-leader-sushiswap)
 
 ## Information
 
