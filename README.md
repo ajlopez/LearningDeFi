@@ -52,6 +52,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [A tale of two DeFis](https://twitter.com/bradmillscan/status/1281241687319293953)
 - [Nearly $60M in Bitcoin Moved to Ethereum in June](https://www.coindesk.com/nearly-60m-in-bitcoin-moved-to-ethereum-in-june?amp=1)
 - [The Architecture of Decentralised Finance Platforms: A New Open Finance Paradigm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3666029)
+- [Binance launches Ethereum-compatible blockchain to pursue DeFi](https://cointelegraph.com/news/binance-launches-ethereum-compatible-blockchain-to-pursue-defi)
 
 ## Information
 
