@@ -56,7 +56,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [SushiSwap Serves Uniswap LPs Through Vampire Mining](https://defirate.com/sushiswap-vampire-mining/)
 - [Uniswap Rises to Top of DeFi Charts Thanks to Rival Looking to Unseat It](https://www.coindesk.com/uniswap-defi-pulse-tvl-leader-sushiswap)
 - [Automated Liquidity Protocol on RSK](https://rskswap.com/)
-
+- [New Crypto Derivatives Let You Bet on (or Against) Tether’s Solvency](https://www.coindesk.com/credit-default-swaps-tether-opium)
+- [pTokens: pNetwork DAO Deep Dives #1](https://medium.com/provable/pnetwork-dao-deep-dives-1-5792f4eb59f4)
 
 ## Information
 
