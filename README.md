@@ -58,6 +58,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Automated Liquidity Protocol on RSK](https://rskswap.com/)
 - [New Crypto Derivatives Let You Bet on (or Against) Tether’s Solvency](https://www.coindesk.com/credit-default-swaps-tether-opium)
 - [pTokens: pNetwork DAO Deep Dives #1](https://medium.com/provable/pnetwork-dao-deep-dives-1-5792f4eb59f4)
+- [SushiSwap head chef dumps tokens; plans to focus on migration](https://cointelegraph.com/news/sushiswap-head-chef-dumps-tokens-plans-to-focus-on-migration)
 
 ## Information
 
