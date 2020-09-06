@@ -52,13 +52,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [A tale of two DeFis](https://twitter.com/bradmillscan/status/1281241687319293953)
 - [Nearly $60M in Bitcoin Moved to Ethereum in June](https://www.coindesk.com/nearly-60m-in-bitcoin-moved-to-ethereum-in-june?amp=1)
 - [The Architecture of Decentralised Finance Platforms: A New Open Finance Paradigm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3666029)
-- [Binance launches Ethereum-compatible blockchain to pursue DeFi](https://cointelegraph.com/news/binance-launches-ethereum-compatible-blockchain-to-pursue-defi)
-- [SushiSwap Serves Uniswap LPs Through Vampire Mining](https://defirate.com/sushiswap-vampire-mining/)
-- [Uniswap Rises to Top of DeFi Charts Thanks to Rival Looking to Unseat It](https://www.coindesk.com/uniswap-defi-pulse-tvl-leader-sushiswap)
-- [Automated Liquidity Protocol on RSK](https://rskswap.com/)
-- [New Crypto Derivatives Let You Bet on (or Against) Tether’s Solvency](https://www.coindesk.com/credit-default-swaps-tether-opium)
-- [pTokens: pNetwork DAO Deep Dives #1](https://medium.com/provable/pnetwork-dao-deep-dives-1-5792f4eb59f4)
-- [SushiSwap head chef dumps tokens; plans to focus on migration](https://cointelegraph.com/news/sushiswap-head-chef-dumps-tokens-plans-to-focus-on-migration)
+- [DeFi ain’t just about tokens, quality use-cases to overcome challenges](https://cointelegraph.com/news/defi-ain-t-just-about-tokens-quality-use-cases-to-overcome-challenges)
 
 ## Information
 
@@ -338,6 +332,13 @@ A "potpourri" of resources about Decentralized Finance.
 - [Growing DeFi with the help of professional market makers: 0x’s new Request for Quote system](https://blog.0xproject.com/growing-defi-with-the-help-of-professional-market-makers-0xs-new-request-for-quote-system-8d5fb08594bf)
 - [BarnBridge Fluctuation Derivatives Protocol](https://github.com/BarnBridge/BarnBridge-Whitepaper)
 - [Volumen de trading en la DEX Uniswap supera a Coinbase Pro](https://decrypt.co/es/40215/volumen-de-trading-en-la-dex-uniswap-supera-a-coinbase-pro)
+- [Binance launches Ethereum-compatible blockchain to pursue DeFi](https://cointelegraph.com/news/binance-launches-ethereum-compatible-blockchain-to-pursue-defi)
+- [SushiSwap Serves Uniswap LPs Through Vampire Mining](https://defirate.com/sushiswap-vampire-mining/)
+- [Uniswap Rises to Top of DeFi Charts Thanks to Rival Looking to Unseat It](https://www.coindesk.com/uniswap-defi-pulse-tvl-leader-sushiswap)
+- [Automated Liquidity Protocol on RSK](https://rskswap.com/)
+- [New Crypto Derivatives Let You Bet on (or Against) Tether’s Solvency](https://www.coindesk.com/credit-default-swaps-tether-opium)
+- [pTokens: pNetwork DAO Deep Dives #1](https://medium.com/provable/pnetwork-dao-deep-dives-1-5792f4eb59f4)
+- [SushiSwap head chef dumps tokens; plans to focus on migration](https://cointelegraph.com/news/sushiswap-head-chef-dumps-tokens-plans-to-focus-on-migration)
 
 ## Oracles
 
