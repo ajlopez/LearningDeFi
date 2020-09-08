@@ -341,6 +341,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [SushiSwap head chef dumps tokens; plans to focus on migration](https://cointelegraph.com/news/sushiswap-head-chef-dumps-tokens-plans-to-focus-on-migration)
 - [Aave to Billions | Stani Kulechov](https://bankless.substack.com/p/-aave-to-billions-stani-kulechov)
 - [DeFi experts say that Ethereum 2.0 is not the answer to high gas fees](https://cointelegraph.com/news/defi-experts-say-that-ethereum-20-is-not-the-answer-to-high-gas-fees)
+- [Creator leaves SushiSwap in hot water as multisig revival is on the menu](https://cointelegraph.com/news/creator-leaves-sushiswap-in-hot-water-as-multisig-revival-is-on-the-menu)
 
 ## Oracles
 
