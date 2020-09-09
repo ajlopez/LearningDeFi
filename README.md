@@ -342,12 +342,13 @@ A "potpourri" of resources about Decentralized Finance.
 - [Aave to Billions | Stani Kulechov](https://bankless.substack.com/p/-aave-to-billions-stani-kulechov)
 - [DeFi experts say that Ethereum 2.0 is not the answer to high gas fees](https://cointelegraph.com/news/defi-experts-say-that-ethereum-20-is-not-the-answer-to-high-gas-fees)
 - [Creator leaves SushiSwap in hot water as multisig revival is on the menu](https://cointelegraph.com/news/creator-leaves-sushiswap-in-hot-water-as-multisig-revival-is-on-the-menu)
+- [SushiSwap has officially migrated away from Uniswap after a week of ups and downs](https://cointelegraph.com/news/sushiswap-has-officially-migrated-away-from-uniswap-after-a-week-of-ups-and-downs)
 
 ## Oracles
 
 - [A Trusted Price Feed For DeFi: Workshop On Using The Coinbase Oracle](https://www.crowdcast.io/e/defi-discussions/19)
 - [Attack Matrix & Security: Thinking Through Oracle Construction](https://www.crowdcast.io/e/defi-discussions/20)
-- [The Chainlink Fraud Exposed](https://chainlink.docsend.com/view/nfrvnyuuzrf2d5va)    
+- [The Chainlink Fraud Exposed](https://chainlink.docsend.com/view/nfrvnyuuzrf2d5va)
 
 ## News
 
