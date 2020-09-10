@@ -64,6 +64,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Market Cap](https://defimarketcap.io/)
 - [Loan Scan](https://loanscan.io/)
 - [Why DeFi Pulse’s Key Metric Is So Simple It’s Confusing](https://www.coindesk.com/defi-pulse-decentralized-finance-data-site-tvl)
+- [DeFi Yield](https://defiyield.info/)
 
 ## Conference
 
