@@ -193,6 +193,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [USDC: Peg Arbitrage vs. Auction Liquidity](https://forum.makerdao.com/t/usdc-peg-arbitrage-vs-auction-liquidity/1695)
 - [WBTC Approved as Collateral by Maker Governance; Generate Dai Now with Bitcoin](https://blog.makerdao.com/wtbc-approved-as-collateral-by-maker-governance-generate-dai-now-with-bitcoin/)
 - [MakerDAO Weighs Accepting Real-World Assets as Crypto Loan Collateral](https://www.coindesk.com/makerdao-weighs-accepting-real-world-assets-as-crypto-loan-collateral)
+- [‘No Other Option but More Collateral’: The Short- (and Long-) Term Fixes for Dai’s Broken Peg](https://www.coindesk.com/makerdao-defi-dai-broken-peg)
 
 ## Money On Chain
 
