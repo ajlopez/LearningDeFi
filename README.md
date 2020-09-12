@@ -53,6 +53,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Nearly $60M in Bitcoin Moved to Ethereum in June](https://www.coindesk.com/nearly-60m-in-bitcoin-moved-to-ethereum-in-june?amp=1)
 - [The Architecture of Decentralised Finance Platforms: A New Open Finance Paradigm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3666029)
 - [DeFi ain’t just about tokens, quality use-cases to overcome challenges](https://cointelegraph.com/news/defi-ain-t-just-about-tokens-quality-use-cases-to-overcome-challenges)
+- [How to earn passive income by lending Bitcoin, Ethereum and stablecoins](https://medium.com/coinmonks/how-to-earn-passive-income-by-lending-bitcoin-ethereum-and-stablecoins-bc69072417a8)
 
 ## Information
 
