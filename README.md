@@ -347,6 +347,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Creator leaves SushiSwap in hot water as multisig revival is on the menu](https://cointelegraph.com/news/creator-leaves-sushiswap-in-hot-water-as-multisig-revival-is-on-the-menu)
 - [SushiSwap has officially migrated away from Uniswap after a week of ups and downs](https://cointelegraph.com/news/sushiswap-has-officially-migrated-away-from-uniswap-after-a-week-of-ups-and-downs)
 - [MoonSwap - An Evolution over Uniswap with Yield Farming](https://moonswap.fi/)
+- [Yearn Finance Resources](https://twitter.com/iearnfinance/status/1296722575222022144)
 
 ## Oracles
 
