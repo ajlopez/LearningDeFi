@@ -273,6 +273,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Tornado Lend](https://devpost.com/software/tornado-lend)
 - [Vega is a protocol for creating and trading derivatives on a fully decentralised network](https://vegaprotocol.io)
 - [Uniswap Exchange Protocol](https://uniswap.io/)
+- [What is the Uniswap Protocol Token (UNI)?](https://research.binance.com/en/projects/uniswap)
 - [TokenSets Crypto Management](https://www.tokensets.com)
 - [Explore the top performing Sets and Traders on TokenSets](https://www.tokensets.com/explore)
 - [What is Set Protocol / TokenSets?](https://www.youtube.com/watch?v=wgzBFEChZ1c&feature=emb_logo)
