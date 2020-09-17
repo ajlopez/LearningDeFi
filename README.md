@@ -349,6 +349,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [SushiSwap has officially migrated away from Uniswap after a week of ups and downs](https://cointelegraph.com/news/sushiswap-has-officially-migrated-away-from-uniswap-after-a-week-of-ups-and-downs)
 - [MoonSwap - An Evolution over Uniswap with Yield Farming](https://moonswap.fi/)
 - [Yearn Finance Resources](https://twitter.com/iearnfinance/status/1296722575222022144)
+- [COVER Protocol](https://medium.com/@yieldfarminginsure/cover-protocol-e202808aa4ef)
 
 ## Oracles
 
