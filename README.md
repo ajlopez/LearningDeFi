@@ -94,6 +94,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How Lending Pool Interest Rates actually work](https://medium.com/hydro-protocol/how-lending-pool-interest-rates-actually-work-375794e71716)
 - [What the Fi is DeFi?](https://www.crowdcast.io/e/defi-discussions/10)
 - [What Is DeFi?](https://www.coindesk.com/what-is-defi)
+- [New Binance-Backed DeFi Site Lets You Earn Yield on Bitcoin, Other Non-Ethereum Assets](https://www.coindesk.com/kava-labs-harvest-defi-yield-farming-usdx-hard)
 
 ## Bitcoin
 
