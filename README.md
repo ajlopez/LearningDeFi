@@ -93,6 +93,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Decentralized Finance with Tom Schmidt](https://softwareengineeringdaily.com/2020/02/25/decentralized-finance-with-tom-schmidt/)
 - [How Lending Pool Interest Rates actually work](https://medium.com/hydro-protocol/how-lending-pool-interest-rates-actually-work-375794e71716)
 - [What the Fi is DeFi?](https://www.crowdcast.io/e/defi-discussions/10)
+- [What Is DeFi?](https://www.coindesk.com/what-is-defi)
 
 ## Bitcoin
 
