@@ -367,6 +367,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Atomic Loans Raises $2.45 Million to build native DeFi solution for Bitcoin](https://atomic.loans/blog/atomic-loans-raises-2-4-5-million-to-build-native-defi-solution-for-bitcoin/)
 - [Incident with non-standard ERC20 deflationary tokens](https://medium.com/balancer-protocol/incident-with-non-standard-erc20-deflationary-tokens-95a0f6d46dea)
 - [Hacker Drains $500K From DeFi Liquidity Provider Balancer](https://www.coindesk.com/hacker-drains-defi-liquidity-balancer)
+- [tBTC, the Safe Way To Use Bitcoin in DeFi, Is Live on tbtc.network](https://blog.keep.network/tbtc-the-safe-way-to-use-bitcoin-in-defi-is-live-on-tbtc-network-de2bb8b6eaf7)
 
 ## Stable Coins
 
