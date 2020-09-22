@@ -354,6 +354,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [MoonSwap - An Evolution over Uniswap with Yield Farming](https://moonswap.fi/)
 - [Yearn Finance Resources](https://twitter.com/iearnfinance/status/1296722575222022144)
 - [COVER Protocol](https://medium.com/@yieldfarminginsure/cover-protocol-e202808aa4ef)
+- [The NFT Game That Makes Cents for Filipinos During COVID](https://www.coindesk.com/nft-game-filipinos-covid)
 
 ## Oracles
 
