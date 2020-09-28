@@ -356,7 +356,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [COVER Protocol](https://medium.com/@yieldfarminginsure/cover-protocol-e202808aa4ef)
 - [The NFT Game That Makes Cents for Filipinos During COVID](https://www.coindesk.com/nft-game-filipinos-covid)
 - [Introducing Pool Savings: Miners Can Receive Up To 30% in Interest](https://www.binance.com/en/support/announcement/3d97d8c444e64909a6d6991fa27de1c8)
-
+- [StakeHound Bringing Staking and DeFi together](https://stakehound.com/)
 
 ## Oracles
 
