@@ -357,6 +357,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [The NFT Game That Makes Cents for Filipinos During COVID](https://www.coindesk.com/nft-game-filipinos-covid)
 - [Introducing Pool Savings: Miners Can Receive Up To 30% in Interest](https://www.binance.com/en/support/announcement/3d97d8c444e64909a6d6991fa27de1c8)
 - [StakeHound Bringing Staking and DeFi together](https://stakehound.com/)
+- [The Dawn of Programmable Cashflows](https://medium.com/superfluid-blog/the-dawn-of-programmable-cashflows-2d50edae05cb)
+
 
 ## Oracles
 
