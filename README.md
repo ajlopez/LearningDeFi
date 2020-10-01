@@ -117,7 +117,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Ethereum 2.0 and DeFi ecosystem](https://medium.com/@cesar.schneider/ethereum-2-0-and-defi-ecosystem-5132aaa88089)
 - [Ethereum 2.0 Likely to Affect DeFi and DApps With PoS Introduction](https://cointelegraph.com/news/ethereum-20-likely-to-affect-defi-and-dapps-with-pos-introduction)
 
-
 ## MakerDAO
 
 - [MakerDAO Transparent and Sustainable Finance](https://makerdao.com/en/)
@@ -237,7 +236,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Bancor smart contracts vulnerability: It’s not over](https://medium.com/zengo/bancor-smart-contracts-vulnerability-and-its-lessons-ce762d09bb9a)
 - [Bancor’s Bug Exposes Dangerously Common Practice in Ethereum DeFi](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi)
 
-
 ## Synthetic
 
 - [Synthetix protocol](https://www.synthetix.io/)
@@ -269,7 +267,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Compound begins first day of trading as the most valuable token in DeFi](https://messari.io/article/compound-begins-first-day-of-trading-as-the-most-valuable-token-in-defi)
 - [Compound is up more than 50% since the YAMs launch](https://messari.io/chart/compound-1A265249)
 - [Compound Open Price Feed](https://compound.finance/governance/proposals/19)
-
 
 ## Projects
 
@@ -359,7 +356,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introducing Pool Savings: Miners Can Receive Up To 30% in Interest](https://www.binance.com/en/support/announcement/3d97d8c444e64909a6d6991fa27de1c8)
 - [StakeHound Bringing Staking and DeFi together](https://stakehound.com/)
 - [The Dawn of Programmable Cashflows](https://medium.com/superfluid-blog/the-dawn-of-programmable-cashflows-2d50edae05cb)
-
+- [DeFi Degens Hit Hard by Eminence Exploit Will Be Partially Compensated](https://www.coindesk.com/eminence-exploit-defi-compensated)
 
 ## Oracles
 
