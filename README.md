@@ -268,15 +268,19 @@ A "potpourri" of resources about Decentralized Finance.
 - [Compound is up more than 50% since the YAMs launch](https://messari.io/chart/compound-1A265249)
 - [Compound Open Price Feed](https://compound.finance/governance/proposals/19)
 
-## Projects
+## Uniswap
 
-- [Tornado Lend](https://devpost.com/software/tornado-lend)
-- [Vega is a protocol for creating and trading derivatives on a fully decentralised network](https://vegaprotocol.io)
 - [Uniswap Exchange Protocol](https://uniswap.io/)
 - [What is the Uniswap Protocol Token (UNI)?](https://research.binance.com/en/projects/uniswap)
 - [Uniswap’s Distribution Is Built on Something That Can’t Be Forked: Actual Users](https://www.coindesk.com/uniswap-uni-distribution-growth-token-defi-strategy)
 - [UNI defies price dump predictions, emerges as top 20 DeFi token](https://cointelegraph.com/news/uni-defies-price-dump-predictions-emerges-as-top-20-defi-token)
 - [Understanding Uniswap: how to become a successful Liquidity provider and earn trading feed](https://cryptotesters.com/tutorial/understanding-uniswap)
+- [Uniswap Rises to Top of DeFi Charts Thanks to Rival Looking to Unseat It](https://www.coindesk.com/uniswap-defi-pulse-tvl-leader-sushiswap)
+
+## Projects
+
+- [Tornado Lend](https://devpost.com/software/tornado-lend)
+- [Vega is a protocol for creating and trading derivatives on a fully decentralised network](https://vegaprotocol.io)
 - [TokenSets Crypto Management](https://www.tokensets.com)
 - [Explore the top performing Sets and Traders on TokenSets](https://www.tokensets.com/explore)
 - [What is Set Protocol / TokenSets?](https://www.youtube.com/watch?v=wgzBFEChZ1c&feature=emb_logo)
@@ -341,7 +345,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Volumen de trading en la DEX Uniswap supera a Coinbase Pro](https://decrypt.co/es/40215/volumen-de-trading-en-la-dex-uniswap-supera-a-coinbase-pro)
 - [Binance launches Ethereum-compatible blockchain to pursue DeFi](https://cointelegraph.com/news/binance-launches-ethereum-compatible-blockchain-to-pursue-defi)
 - [SushiSwap Serves Uniswap LPs Through Vampire Mining](https://defirate.com/sushiswap-vampire-mining/)
-- [Uniswap Rises to Top of DeFi Charts Thanks to Rival Looking to Unseat It](https://www.coindesk.com/uniswap-defi-pulse-tvl-leader-sushiswap)
 - [Automated Liquidity Protocol on RSK](https://rskswap.com/)
 - [New Crypto Derivatives Let You Bet on (or Against) Tether’s Solvency](https://www.coindesk.com/credit-default-swaps-tether-opium)
 - [pTokens: pNetwork DAO Deep Dives #1](https://medium.com/provable/pnetwork-dao-deep-dives-1-5792f4eb59f4)
