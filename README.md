@@ -276,6 +276,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [What is the Uniswap Protocol Token (UNI)?](https://research.binance.com/en/projects/uniswap)
 - [Uniswap’s Distribution Is Built on Something That Can’t Be Forked: Actual Users](https://www.coindesk.com/uniswap-uni-distribution-growth-token-defi-strategy)
 - [UNI defies price dump predictions, emerges as top 20 DeFi token](https://cointelegraph.com/news/uni-defies-price-dump-predictions-emerges-as-top-20-defi-token)
+- [Understanding Uniswap: how to become a successful Liquidity provider and earn trading feed](https://cryptotesters.com/tutorial/understanding-uniswap)
 - [TokenSets Crypto Management](https://www.tokensets.com)
 - [Explore the top performing Sets and Traders on TokenSets](https://www.tokensets.com/explore)
 - [What is Set Protocol / TokenSets?](https://www.youtube.com/watch?v=wgzBFEChZ1c&feature=emb_logo)
