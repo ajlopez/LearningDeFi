@@ -196,6 +196,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [WBTC Approved as Collateral by Maker Governance; Generate Dai Now with Bitcoin](https://blog.makerdao.com/wtbc-approved-as-collateral-by-maker-governance-generate-dai-now-with-bitcoin/)
 - [MakerDAO Weighs Accepting Real-World Assets as Crypto Loan Collateral](https://www.coindesk.com/makerdao-weighs-accepting-real-world-assets-as-crypto-loan-collateral)
 - [‘No Other Option but More Collateral’: The Short- (and Long-) Term Fixes for Dai’s Broken Peg](https://www.coindesk.com/makerdao-defi-dai-broken-peg)
+- [DeFi on Bitcoin Expands After RSK & RIF Integrate DAI](https://btcmanager.com/defi-bitcoin-rsk-rif-dai/)
 
 ## Money On Chain
 
