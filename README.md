@@ -218,6 +218,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introduction to Money On Chain’s Decentralized Token Exchange on RSK Platform](https://medium.com/moneyonchain/introduction-to-money-on-chains-decentralized-token-exchange-on-rsk-platform-e609d07698a1)
 - [DeFi for Bitcoin: Pagos, envíos, compras, transferencias e inversiones con BTC](https://www.youtube.com/watch?v=9tEn-6xQWgk&feature=youtu.be)
 
+## Sovryn
+
+- [Project Interview /Review of Sovryn. DeFi for Bitcoin](https://www.youtube.com/watch?v=J4TFoRqrmgs&feature=youtu.be
+
 ## RIF on Chain
 
 - [RIF on Chain Launch](https://www.rifos.org/blog/rif-on-chain-launch)
