@@ -217,6 +217,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Moneyonchain a Stablecion descentralizada baseada no Bitcoin. Tudo sobre o MoC, DoC, Bpro e BTCx](https://www.youtube.com/watch?v=iXaKY7Nn4L4)
 - [Introduction to Money On Chain’s Decentralized Token Exchange on RSK Platform](https://medium.com/moneyonchain/introduction-to-money-on-chains-decentralized-token-exchange-on-rsk-platform-e609d07698a1)
 - [DeFi for Bitcoin: Pagos, envíos, compras, transferencias e inversiones con BTC](https://www.youtube.com/watch?v=9tEn-6xQWgk&feature=youtu.be)
+- [Money on Chain in DeFiPrime](https://defiprime.com/product/money-on-chain)
 
 ## Sovryn
 
