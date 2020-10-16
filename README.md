@@ -404,6 +404,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Lender bZx Loses $8M in Third Attack This Year](https://www.coindesk.com/defi-lender-bzx-third-attack)
 - [syUSD – A stablecoin wrapper over yUSD](https://syusd.cash/about.html)
 
+## Automated Market Makers
+
+- [Can you fix AMMs?](https://twitter.com/SBF_Alameda/status/1316509291017203712)
+
 ## Exchanges
 
 - [CryptoSwitch](https://coinswitch.co/)
