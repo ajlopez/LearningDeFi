@@ -198,6 +198,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [‘No Other Option but More Collateral’: The Short- (and Long-) Term Fixes for Dai’s Broken Peg](https://www.coindesk.com/makerdao-defi-dai-broken-peg)
 - [DeFi on Bitcoin Expands After RSK & RIF Integrate DAI](https://btcmanager.com/defi-bitcoin-rsk-rif-dai/)
 - [Explicación de DAI](https://twitter.com/SantiDiPaolo/status/1316796641660342273)
+- [New Voting Portal](https://forum.makerdao.com/t/new-voting-portal/4806)
 
 ## Money On Chain
 
@@ -417,3 +418,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Nexus Mutual](https://nexusmutual.io/)
 - [Etherix](https://etherisc.com/)
 
+## Ethereum 2
+
+- [What is The Potential Impact of Ethereum 2.0 on The Derivatives Market?](https://www.binance.com/en/blog/421499824684901107/What-is-The-Potential-Impact-of-Ethereum-20-on-The-Derivatives-Market)
