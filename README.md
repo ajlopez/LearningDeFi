@@ -95,6 +95,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [What the Fi is DeFi?](https://www.crowdcast.io/e/defi-discussions/10)
 - [What Is DeFi?](https://www.coindesk.com/what-is-defi)
 - [New Binance-Backed DeFi Site Lets You Earn Yield on Bitcoin, Other Non-Ethereum Assets](https://www.coindesk.com/kava-labs-harvest-defi-yield-farming-usdx-hard)
+- [Ultimate DeFi Protocols Guide](https://medium.com/@sheinix/ultimate-defi-protocols-guide-a90ccb483b29)
 
 ## Bitcoin
 
@@ -257,6 +258,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How Synthetix Became the Second-Largest DeFi Platform](https://unchainedpodcast.com/how-synthetix-became-the-second-largest-defi-platform/)
 - [How To Build Synthetic Tokens Without An On-Chain Price Feed](https://www.crowdcast.io/e/defi-discussions/18)
 - [Trio of Bitcoin Tokens Lures DeFi Yield Farmers to New Pastures](https://www.coindesk.com/synthetix-defi-yield-farmers-sbtc-renbtc-wbtc)
+- [Why Optimism?](https://blog.synthetix.io/why-optimism/)
 
 ## Compound
 
