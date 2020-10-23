@@ -109,6 +109,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Bitcoin DeFi May Be Unstoppable, What Does It Look Like?](https://www.coindesk.com/bitcoin-defi-japan-smart-contracts)
 - [Bitcoin Investors Swap for Ethereum ‘Wrapped BTC’ to Yield Farm and Chill](https://cointelegraph.com/news/bitcoin-investors-swap-for-ethereum-wrapped-btc-to-yield-farm-and-chill)
 - [Five DeFi Projects To Harness The Value Of Your Bitcoin](https://cryptodaily.co.uk/2020/10/five-defi-projects-to-harness-the-value-of-your-bitcoin)
+- [Forget Ethereum, DeFi Is Being Built on Bitcoin](https://www.coindesk.com/bitcoin-defi-a-response)
 
 ## Ethereum
 
