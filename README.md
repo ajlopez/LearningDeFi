@@ -228,6 +228,7 @@ A "potpourri" of resources about Decentralized Finance.
 
 - [Project Interview /Review of Sovryn. DeFi for Bitcoin](https://www.youtube.com/watch?v=J4TFoRqrmgs&feature=youtu.be
 - [How Sovryn’s Bitcoin Trading Platform Stacks Against CeFi](https://medium.com/@ingamar/how-sovryns-bitcoin-trading-platform-stacks-against-cefi-8fd8e6ccc7d8)
+- [Webinar Series: Sovryn - A decentralized protocol for Bitcoin lending and margin trading](https://www.youtube.com/watch?v=26tpMslkro0&feature=youtu.be)
 
 ## RIF on Chain
 
