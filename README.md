@@ -293,6 +293,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [UNI defies price dump predictions, emerges as top 20 DeFi token](https://cointelegraph.com/news/uni-defies-price-dump-predictions-emerges-as-top-20-defi-token)
 - [Understanding Uniswap: how to become a successful Liquidity provider and earn trading feed](https://cryptotesters.com/tutorial/understanding-uniswap)
 - [Uniswap Rises to Top of DeFi Charts Thanks to Rival Looking to Unseat It](https://www.coindesk.com/uniswap-defi-pulse-tvl-leader-sushiswap)
+- [A Deep Dive into Liquidity Pools](https://blog.zerion.io/liquidity-pools-8ac8cf8cf230)
 
 ## Projects
 
