@@ -203,6 +203,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi on Bitcoin Expands After RSK & RIF Integrate DAI](https://btcmanager.com/defi-bitcoin-rsk-rif-dai/)
 - [Explicación de DAI](https://twitter.com/SantiDiPaolo/status/1316796641660342273)
 - [New Voting Portal](https://forum.makerdao.com/t/new-voting-portal/4806)
+- [Betting without ETH: DAI’s new permit feature](https://degens.medium.com/betting-without-eth-dais-new-permit-feature-5517293f3246)
 
 ## Money On Chain
 
@@ -379,6 +380,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [StakeHound Bringing Staking and DeFi together](https://stakehound.com/)
 - [The Dawn of Programmable Cashflows](https://medium.com/superfluid-blog/the-dawn-of-programmable-cashflows-2d50edae05cb)
 - [DeFi Degens Hit Hard by Eminence Exploit Will Be Partially Compensated](https://www.coindesk.com/eminence-exploit-defi-compensated)
+- [Degens: peer to peer sports betting exchange that uses the popular cryptocurrencies ETH and DAI](https://degens.com/)
+
 
 ## Oracles
 
