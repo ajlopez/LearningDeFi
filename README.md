@@ -226,6 +226,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi for Bitcoin: Pagos, envíos, compras, transferencias e inversiones con BTC](https://www.youtube.com/watch?v=9tEn-6xQWgk&feature=youtu.be)
 - [Money on Chain in DeFiPrime](https://defiprime.com/product/money-on-chain)
 - [Money on Chain DeFi para BTC sobre RSK](https://www.youtube.com/watch?v=KIVBonfFuDk)
+- [Mi experiencia con BPRO](https://forum.moneyonchain.com/t/mi-experiencia-con-bpro/115)
 
 ## Sovryn
 
