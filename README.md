@@ -67,6 +67,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [Why DeFi Pulse’s Key Metric Is So Simple It’s Confusing](https://www.coindesk.com/defi-pulse-decentralized-finance-data-site-tvl)
 - [DeFi Yield](https://defiyield.info/)
 
+## Funding
+
+- [DeFi Fund for Programmers](https://twitter.com/0mllwntrmt3/status/1325830809559986177)
+
 ## Conference
 
 - [DeFi Discussions](https://defi-discussions.dystopialabs.com/)
