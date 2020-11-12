@@ -54,6 +54,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [The Architecture of Decentralised Finance Platforms: A New Open Finance Paradigm](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3666029)
 - [DeFi ain’t just about tokens, quality use-cases to overcome challenges](https://cointelegraph.com/news/defi-ain-t-just-about-tokens-quality-use-cases-to-overcome-challenges)
 - [How to earn passive income by lending Bitcoin, Ethereum and stablecoins](https://medium.com/coinmonks/how-to-earn-passive-income-by-lending-bitcoin-ethereum-and-stablecoins-bc69072417a8)
+- [RIF Expert Panel: Open Finance vs. DeFi](https://www.youtube.com/watch?v=CnuXfQAxdQc&feature=youtu.be)
 
 ## Information
 
@@ -247,6 +248,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [RIF on Chain Launch](https://medium.com/moneyonchain/rif-on-chain-launch-35c1c14219ef)
 - [RIF on Chain](https://rif.moneyonchain.com/)
 
+## Open Finance
+
+- [RIF Expert Panel: Open Finance vs. DeFi](https://www.youtube.com/watch?v=CnuXfQAxdQc&feature=youtu.be)
+
 ## Bancor
 
 - [Introduction to Bancor](https://docs.bancor.network/)
@@ -300,6 +305,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Understanding Uniswap: how to become a successful Liquidity provider and earn trading feed](https://cryptotesters.com/tutorial/understanding-uniswap)
 - [Uniswap Rises to Top of DeFi Charts Thanks to Rival Looking to Unseat It](https://www.coindesk.com/uniswap-defi-pulse-tvl-leader-sushiswap)
 - [A Deep Dive into Liquidity Pools](https://blog.zerion.io/liquidity-pools-8ac8cf8cf230)
+- [Uniswap: A Good Deal for Liquidity Providers?](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2) with sample of adding liquidity
+- [Understanding Uniswap Returns](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
 
 ## Projects
 
@@ -440,3 +447,4 @@ A "potpourri" of resources about Decentralized Finance.
 ## Ethereum 2
 
 - [What is The Potential Impact of Ethereum 2.0 on The Derivatives Market?](https://www.binance.com/en/blog/421499824684901107/What-is-The-Potential-Impact-of-Ethereum-20-on-The-Derivatives-Market)
+
