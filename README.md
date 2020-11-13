@@ -232,6 +232,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Money on Chain in DeFiPrime](https://defiprime.com/product/money-on-chain)
 - [Money on Chain DeFi para BTC sobre RSK](https://www.youtube.com/watch?v=KIVBonfFuDk)
 - [Mi experiencia con BPRO](https://forum.moneyonchain.com/t/mi-experiencia-con-bpro/115)
+- [Entrevista Manuel Ferrari, Cofundador y COO de Money On Chain por Óscar Domínguez](https://www.youtube.com/watch?v=mhCRUDk7VB0&feature=youtu.be)
 
 ## Sovryn
 
