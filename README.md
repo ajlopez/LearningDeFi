@@ -55,6 +55,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi ain’t just about tokens, quality use-cases to overcome challenges](https://cointelegraph.com/news/defi-ain-t-just-about-tokens-quality-use-cases-to-overcome-challenges)
 - [How to earn passive income by lending Bitcoin, Ethereum and stablecoins](https://medium.com/coinmonks/how-to-earn-passive-income-by-lending-bitcoin-ethereum-and-stablecoins-bc69072417a8)
 - [RIF Expert Panel: Open Finance vs. DeFi](https://www.youtube.com/watch?v=CnuXfQAxdQc&feature=youtu.be)
+- [How Interoperability is Becoming the Hottest Topic in DeFi](https://u.today/how-interoperability-is-becoming-the-hottest-topic-in-defi)
 
 ## Information
 
