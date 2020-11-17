@@ -405,6 +405,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [The Chainlink Fraud Exposed](https://chainlink.docsend.com/view/nfrvnyuuzrf2d5va)
 - [Flash Loans Aren’t the Problem, Centralized Price Oracles Are](https://www.coindesk.com/flash-loans-centralized-price-oracles)
 - [Bondly and Chainlink Work Together to Build a New Digital Economy](https://bondlyfinance.medium.com/bondly-and-chainlink-work-together-to-build-a-new-digital-economy-ecd41c682b02)
+- [Oracle Money on Chain - Solutions on RSK](https://developers.rsk.co/solutions/oraclemoneyonchain/)
 
 ## News
 
