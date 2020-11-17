@@ -253,6 +253,7 @@ A "potpourri" of resources about Decentralized Finance.
 ## Open Finance
 
 - [RIF Expert Panel: Open Finance vs. DeFi](https://www.youtube.com/watch?v=CnuXfQAxdQc&feature=youtu.be)
+- [Building The Internet Of Value | Live With RSK | Money On Chain | Sovryn](https://www.youtube.com/watch?v=AN3Z1VWjHik&feature=youtu.be)
 
 ## Bancor
 
