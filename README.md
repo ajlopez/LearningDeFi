@@ -396,7 +396,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [The Dawn of Programmable Cashflows](https://medium.com/superfluid-blog/the-dawn-of-programmable-cashflows-2d50edae05cb)
 - [DeFi Degens Hit Hard by Eminence Exploit Will Be Partially Compensated](https://www.coindesk.com/eminence-exploit-defi-compensated)
 - [Degens: peer to peer sports betting exchange that uses the popular cryptocurrencies ETH and DAI](https://degens.com/)
-
+- [Tree -- DeFi engine for charity funding](https://whalerdao.org/projects/tree/)
 
 ## Oracles
 
