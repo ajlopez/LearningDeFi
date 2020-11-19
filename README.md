@@ -56,6 +56,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How to earn passive income by lending Bitcoin, Ethereum and stablecoins](https://medium.com/coinmonks/how-to-earn-passive-income-by-lending-bitcoin-ethereum-and-stablecoins-bc69072417a8)
 - [RIF Expert Panel: Open Finance vs. DeFi](https://www.youtube.com/watch?v=CnuXfQAxdQc&feature=youtu.be)
 - [How Interoperability is Becoming the Hottest Topic in DeFi](https://u.today/how-interoperability-is-becoming-the-hottest-topic-in-defi)
+- [Announcing the launch of ‘DeFi Database’](https://medium.com/@andyjbryant/announcing-the-launch-of-defi-database-3b9a09ee08d2)
 
 ## Information
 
