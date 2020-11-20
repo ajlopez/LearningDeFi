@@ -118,6 +118,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Five DeFi Projects To Harness The Value Of Your Bitcoin](https://cryptodaily.co.uk/2020/10/five-defi-projects-to-harness-the-value-of-your-bitcoin)
 - [Forget Ethereum, DeFi Is Being Built on Bitcoin](https://www.coindesk.com/bitcoin-defi-a-response)
 - [Top Three DeFi Projects Building On Bitcoin](https://ihodl.com/analytics/2020-11-02/top-three-defi-projects-building-bitcoin/)
+- [How RSK Is Bringing DeFi to Bitcoin](https://bitcoinist.com/how-rsk-is-bringing-defi-to-bitcoin/)
 
 ## Ethereum
 
