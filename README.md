@@ -238,6 +238,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Entrevista Manuel Ferrari, Cofundador y COO de Money On Chain por Óscar Domínguez](https://www.youtube.com/watch?v=mhCRUDk7VB0&feature=youtu.be)
 - [RSK-based DeFi protocol launches innovative decentralized exchange concept](https://cointelegraph.com/news/rsk-based-defi-protocol-launches-innovative-decentralized-exchange-concept)
 - [Money on Chain Launches New Bitcoin Layer 2-based Decentralized Token Exchange](https://finance.yahoo.com/news/money-chain-launches-bitcoin-layer-150000108.html)
+- [Decentralized Token Exchange](https://moneyonchain.com/es/tex-bitcoin-exchange-descentralizado/)
 
 ## Sovryn
 
