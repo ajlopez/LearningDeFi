@@ -303,6 +303,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Compound begins first day of trading as the most valuable token in DeFi](https://messari.io/article/compound-begins-first-day-of-trading-as-the-most-valuable-token-in-defi)
 - [Compound is up more than 50% since the YAMs launch](https://messari.io/chart/compound-1A265249)
 - [Compound Open Price Feed](https://compound.finance/governance/proposals/19)
+- [Someone got liquidated for $49m on compound today](https://twitter.com/arbingsam/status/1331922588193484800)
 
 ## Uniswap
 
