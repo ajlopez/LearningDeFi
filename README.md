@@ -414,6 +414,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Bondly and Chainlink Work Together to Build a New Digital Economy](https://bondlyfinance.medium.com/bondly-and-chainlink-work-together-to-build-a-new-digital-economy-ecd41c682b02)
 - [Oracle Money on Chain - Solutions on RSK](https://developers.rsk.co/solutions/oraclemoneyonchain/)
 - [ValueDeFi Integrating Chainlink Price Feeds to Ensure Maximum Security for Relaunch of MultiStables Vault](https://valuedefi.medium.com/valuedefi-integrating-chainlink-price-feeds-to-ensure-maximum-security-for-relaunch-of-ae807d03311f)
+- [Coinbase and the Oracle](https://rekt.ghost.io/coinbase-the-oracle/)
 
 ## News
 
