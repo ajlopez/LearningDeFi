@@ -415,6 +415,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Oracle Money on Chain - Solutions on RSK](https://developers.rsk.co/solutions/oraclemoneyonchain/)
 - [ValueDeFi Integrating Chainlink Price Feeds to Ensure Maximum Security for Relaunch of MultiStables Vault](https://valuedefi.medium.com/valuedefi-integrating-chainlink-price-feeds-to-ensure-maximum-security-for-relaunch-of-ae807d03311f)
 - [Coinbase and the Oracle](https://rekt.ghost.io/coinbase-the-oracle/)
+- [Chainlink Proof of Reserve: Bringing Transparency to DeFi Collateral](https://blog.chain.link/chainlink-proof-of-reserve-bringing-transparency-to-defi-collateral/)
 
 ## News
 
