@@ -4,6 +4,8 @@ A "potpourri" of resources about Decentralized Finance.
 
 ## General
 
+- [The DeFi Stack](https://multicoin.capital/2020/11/24/the-defi-stack/)
+- [Crypto Mega Theses](https://multicoin.capital/2019/04/24/multicoin-investment-thesis/)
 - [Accelerating The Adoption Of DeFi](https://medium.com/anthemis-insights/accelerating-the-adoption-of-defi-68510493051b)
 - [What are DeFi’s biggest technical challenges?](https://twitter.com/jamie247/status/1153190847892152320)
 - [Crypto Lending the Missing Ingredient](https://medium.com/swlh/crypto-lending-the-missing-ingredient-4862d54cdf53)
