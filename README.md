@@ -406,6 +406,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Degens Hit Hard by Eminence Exploit Will Be Partially Compensated](https://www.coindesk.com/eminence-exploit-defi-compensated)
 - [Degens: peer to peer sports betting exchange that uses the popular cryptocurrencies ETH and DAI](https://degens.com/)
 - [Tree -- DeFi engine for charity funding](https://whalerdao.org/projects/tree/)
+- [yearn.finance x Hegic: Options](https://medium.com/iearn/yearn-finance-x-hegic-binary-options-351dcad96d01)
 
 ## Oracles
 
