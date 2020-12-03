@@ -241,6 +241,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [RSK-based DeFi protocol launches innovative decentralized exchange concept](https://cointelegraph.com/news/rsk-based-defi-protocol-launches-innovative-decentralized-exchange-concept)
 - [Money on Chain Launches New Bitcoin Layer 2-based Decentralized Token Exchange](https://finance.yahoo.com/news/money-chain-launches-bitcoin-layer-150000108.html)
 - [Decentralized Token Exchange](https://moneyonchain.com/es/tex-bitcoin-exchange-descentralizado/)
+- [TEX: A Decentralized Swapping Protocol Secured by Bitcoin is Now Live](https://btcmanager.com/tex-decentralized-swapping-protocol-secured-bitcoin-live/)
 
 ## Sovryn
 
