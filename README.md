@@ -407,6 +407,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Degens: peer to peer sports betting exchange that uses the popular cryptocurrencies ETH and DAI](https://degens.com/)
 - [Tree -- DeFi engine for charity funding](https://whalerdao.org/projects/tree/)
 - [yearn.finance x Hegic: Options](https://medium.com/iearn/yearn-finance-x-hegic-binary-options-351dcad96d01)
+- [DeFi project Aave unlocks collateral with version 2 release](https://cointelegraph.com/news/defi-project-aave-unlocks-collateral-with-version-2-release)
 
 ## Oracles
 
