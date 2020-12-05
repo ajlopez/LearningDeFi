@@ -409,6 +409,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [yearn.finance x Hegic: Options](https://medium.com/iearn/yearn-finance-x-hegic-binary-options-351dcad96d01)
 - [DeFi project Aave unlocks collateral with version 2 release](https://cointelegraph.com/news/defi-project-aave-unlocks-collateral-with-version-2-release)
 - [How to Integrate the Curve.Fi Protocol Into Your DeFi Protocol](https://medium.com/better-programming/how-to-integrate-the-curve-fi-protocol-into-your-defi-protocol-e1d4c43f716d)
+- [Speed Up Your DeFi Queries Using Multicall](https://medium.com/better-programming/speed-up-your-defi-queries-using-multicall-d4cf652d8ab6)
 
 ## Oracles
 
@@ -422,6 +423,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [ValueDeFi Integrating Chainlink Price Feeds to Ensure Maximum Security for Relaunch of MultiStables Vault](https://valuedefi.medium.com/valuedefi-integrating-chainlink-price-feeds-to-ensure-maximum-security-for-relaunch-of-ae807d03311f)
 - [Coinbase and the Oracle](https://rekt.ghost.io/coinbase-the-oracle/)
 - [Chainlink Proof of Reserve: Bringing Transparency to DeFi Collateral](https://blog.chain.link/chainlink-proof-of-reserve-bringing-transparency-to-defi-collateral/)
+- [Deterring Bribery Attacks on Decentralized Oracle Networks](https://medium.com/witnet/deterring-bribery-attacks-on-decentralized-oracle-networks-5bcf87d2cb22)
 
 ## News
 
