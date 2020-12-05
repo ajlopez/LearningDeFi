@@ -408,6 +408,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Tree -- DeFi engine for charity funding](https://whalerdao.org/projects/tree/)
 - [yearn.finance x Hegic: Options](https://medium.com/iearn/yearn-finance-x-hegic-binary-options-351dcad96d01)
 - [DeFi project Aave unlocks collateral with version 2 release](https://cointelegraph.com/news/defi-project-aave-unlocks-collateral-with-version-2-release)
+- [How to Integrate the Curve.Fi Protocol Into Your DeFi Protocol](https://medium.com/better-programming/how-to-integrate-the-curve-fi-protocol-into-your-defi-protocol-e1d4c43f716d)
 
 ## Oracles
 
