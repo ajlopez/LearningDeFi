@@ -274,6 +274,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [Bancor’s Bug Exposes Dangerously Common Practice in Ethereum DeFi](https://cointelegraph.com/news/bancors-bug-exposes-dangerously-common-practice-in-ethereum-defi)
 - [Bancor (BNT) to Introduce Protected Pools in DeFi](https://www.altcoinbuzz.io/cryptocurrency-news/product-release/bancor-bnt-to-introduce-protected-pools-in-defi/)
 
+## Bonding Curves
+
+- [Introducing Continuous Organizations](https://medium.com/hackernoon/introducing-continuous-organizations-22ad9d1f63b7)
+
 ## Synthetic
 
 - [Synthetix protocol](https://www.synthetix.io/)
