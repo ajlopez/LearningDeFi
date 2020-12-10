@@ -416,6 +416,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi project Aave unlocks collateral with version 2 release](https://cointelegraph.com/news/defi-project-aave-unlocks-collateral-with-version-2-release)
 - [How to Integrate the Curve.Fi Protocol Into Your DeFi Protocol](https://medium.com/better-programming/how-to-integrate-the-curve-fi-protocol-into-your-defi-protocol-e1d4c43f716d)
 - [Speed Up Your DeFi Queries Using Multicall](https://medium.com/better-programming/speed-up-your-defi-queries-using-multicall-d4cf652d8ab6)
+- [Staking Function of AAVE](https://www.hpt.com/announcement/hq)
 
 ## Oracles
 
