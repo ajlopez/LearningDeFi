@@ -417,6 +417,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How to Integrate the Curve.Fi Protocol Into Your DeFi Protocol](https://medium.com/better-programming/how-to-integrate-the-curve-fi-protocol-into-your-defi-protocol-e1d4c43f716d)
 - [Speed Up Your DeFi Queries Using Multicall](https://medium.com/better-programming/speed-up-your-defi-queries-using-multicall-d4cf652d8ab6)
 - [Staking Function of AAVE](https://www.hpt.com/announcement/hq)
+- [Proposal for a different and new Aave Money Market: The RSK Market](https://governance.aave.com/t/proposal-for-a-different-and-new-aave-money-market-the-rsk-market/1743)
 
 ## Oracles
 
