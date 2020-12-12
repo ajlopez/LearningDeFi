@@ -418,6 +418,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Speed Up Your DeFi Queries Using Multicall](https://medium.com/better-programming/speed-up-your-defi-queries-using-multicall-d4cf652d8ab6)
 - [Staking Function of AAVE](https://www.hpt.com/announcement/hq)
 - [Proposal for a different and new Aave Money Market: The RSK Market](https://governance.aave.com/t/proposal-for-a-different-and-new-aave-money-market-the-rsk-market/1743)
+- [yEarn V2 desde adentro, para todos los niveles](https://defilatam.substack.com/p/yearn-v2-desde-adentro-para-todos)
 
 ## Oracles
 
