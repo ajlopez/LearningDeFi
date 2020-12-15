@@ -256,6 +256,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Sovryn launches complete suite for Bitcoin DeFi on RSK](https://cointelegraph.com/news/sovryn-launches-complete-suite-for-bitcoin-defi-on-rsk)
 - [Sovryn Raises $2.1M and Launches Bitcoin-Native DeFi Platform on RSK](https://finance.yahoo.com/news/sovryn-raises-2-1m-launches-150000614.html)
 - [DeFi on Bitcoin Gets a Boost as Sovryn Launches on RSK Sidechain](https://www.nasdaq.com/articles/defi-on-bitcoin-gets-a-boost-as-sovryn-launches-on-rsk-sidechain-2020-12-15)
+- [How Sovryn Offers Non-Custodial DeFi to Bitcoin Holders](https://hackernoon.com/how-sovryn-offers-non-custodial-defi-to-bitcoin-holders-7de34bw)
 
 ## RIF on Chain
 
