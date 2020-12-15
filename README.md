@@ -86,6 +86,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Diving into DeFi: a Beginner’s Guide](https://blog.wings.ai/diving-into-defi-a-beginners-guide-1b0253855e52)
 - [A Beginner’s Guide to Decentralized Finance (DeFi)](https://blog.coinbase.com/a-beginners-guide-to-decentralized-finance-defi-574c68ff43c4)
 - [The Complete Beginner's Guide to Decentralized Finance (DeFi)](https://www.binance.vision/blockchain/the-complete-beginners-guide-to-decentralized-finance-defi)
+- [DeFi: Todo sobre las finanzas descentralizadas y sus aplicaciones](https://www.criptonoticias.com/defi-todo-sobre-finanzas-descentralizadas-aplicaciones/)
 - [Decentralized Finance Explained](https://yos.io/2019/12/08/decentralized-finance-explained/)
 - [What is DeFi?](https://medium.com/@safetythird/what-is-defi-2cee0dceeeab)
 - [DeFi Tutorials](https://defitutorials.substack.com)
