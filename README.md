@@ -253,7 +253,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [How Sovryn’s Bitcoin Trading Platform Stacks Against CeFi](https://medium.com/@ingamar/how-sovryns-bitcoin-trading-platform-stacks-against-cefi-8fd8e6ccc7d8)
 - [Webinar Series: Sovryn - A decentralized protocol for Bitcoin lending and margin trading](https://www.youtube.com/watch?v=26tpMslkro0&feature=youtu.be)
 - [A new project built on the Bitcoin sidechain RSK is gunning to advance decentralized finance (DeFi) on Bitcoin’s ecosystem](https://www.coindesk.com/defi-on-bitcoin-boost-sovryn-launches-rsk-sidechain)
-
+- [Sovryn launches complete suite for Bitcoin DeFi on RSK](https://cointelegraph.com/news/sovryn-launches-complete-suite-for-bitcoin-defi-on-rsk)
+- [Sovryn Raises $2.1M and Launches Bitcoin-Native DeFi Platform on RSK](https://finance.yahoo.com/news/sovryn-raises-2-1m-launches-150000614.html)
 
 ## RIF on Chain
 
