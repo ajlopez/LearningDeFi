@@ -122,6 +122,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Top Three DeFi Projects Building On Bitcoin](https://ihodl.com/analytics/2020-11-02/top-three-defi-projects-building-bitcoin/)
 - [How RSK Is Bringing DeFi to Bitcoin](https://bitcoinist.com/how-rsk-is-bringing-defi-to-bitcoin/)
 - [The butterfly effect: Why DeFi will force BTC to break its 21M supply ceiling](https://cointelegraph.com/news/the-butterfly-effect-why-defi-will-force-btc-to-break-its-21m-supply-ceiling)
+- [Defi On Bitcoin: Decentralized Exchanges & Stablecoins on top of Bitcoin´s Network](https://blockgeeks.com/guides/defi-on-bitcoin/)
 
 ## Ethereum
 
