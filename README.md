@@ -248,6 +248,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [TEX: A Decentralized Swapping Protocol Secured by Bitcoin is Now Live](https://btcmanager.com/tex-decentralized-swapping-protocol-secured-bitcoin-live/)
 - [Money on Chain, Bitcoin-based DeFi, Launches Liquidity Mining Initiative](https://u.today/money-on-chain-bitcoin-based-defi-launches-liquidity-mining-initiative)
 - [Money on Chain Liquidity Mining](https://moneyonchain.com/liquiditymining/)
+- [Why be a BPro early adopter?](https://moneyonchain.com/blog/why-be-a-bpro-early-adopter/)
 
 ## Sovryn
 
