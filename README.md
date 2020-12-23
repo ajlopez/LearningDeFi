@@ -430,6 +430,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Staking Function of AAVE](https://www.hpt.com/announcement/hq)
 - [Proposal for a different and new Aave Money Market: The RSK Market](https://governance.aave.com/t/proposal-for-a-different-and-new-aave-money-market-the-rsk-market/1743)
 - [yEarn V2 desde adentro, para todos los niveles](https://defilatam.substack.com/p/yearn-v2-desde-adentro-para-todos)
+- [Yearn Protocol](https://github.com/iearn-finance/yearn-protocol)
 
 ## Oracles
 
@@ -444,6 +445,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Coinbase and the Oracle](https://rekt.ghost.io/coinbase-the-oracle/)
 - [Chainlink Proof of Reserve: Bringing Transparency to DeFi Collateral](https://blog.chain.link/chainlink-proof-of-reserve-bringing-transparency-to-defi-collateral/)
 - [Deterring Bribery Attacks on Decentralized Oracle Networks](https://medium.com/witnet/deterring-bribery-attacks-on-decentralized-oracle-networks-5bcf87d2cb22)
+- [How Perpetual Protocol Uses Chainlink to Bring a Perpetual Contract to Every Asset](https://perpetualprotocol.medium.com/how-perpetual-protocol-uses-chainlink-to-bring-a-perpetual-contract-to-every-asset-564ba5ac773e)
 
 ## News
 
