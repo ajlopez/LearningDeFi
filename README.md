@@ -106,6 +106,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [What Is DeFi?](https://www.coindesk.com/what-is-defi)
 - [New Binance-Backed DeFi Site Lets You Earn Yield on Bitcoin, Other Non-Ethereum Assets](https://www.coindesk.com/kava-labs-harvest-defi-yield-farming-usdx-hard)
 - [Ultimate DeFi Protocols Guide](https://medium.com/@sheinix/ultimate-defi-protocols-guide-a90ccb483b29)
+- [SoK: Lending Pools in Decentralized Finance](https://arxiv.org/pdf/2012.13230.pdf)
 
 ## Bitcoin
 
