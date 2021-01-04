@@ -447,6 +447,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Chainlink Proof of Reserve: Bringing Transparency to DeFi Collateral](https://blog.chain.link/chainlink-proof-of-reserve-bringing-transparency-to-defi-collateral/)
 - [Deterring Bribery Attacks on Decentralized Oracle Networks](https://medium.com/witnet/deterring-bribery-attacks-on-decentralized-oracle-networks-5bcf87d2cb22)
 - [How Perpetual Protocol Uses Chainlink to Bring a Perpetual Contract to Every Asset](https://perpetualprotocol.medium.com/how-perpetual-protocol-uses-chainlink-to-bring-a-perpetual-contract-to-every-asset-564ba5ac773e)
+- [Keep3rV1Oracle is an on-chain oracle for UniswapV2 pairs](https://docs.uniquote.finance/)
 
 ## News
 
