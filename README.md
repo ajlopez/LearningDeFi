@@ -433,6 +433,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Proposal for a different and new Aave Money Market: The RSK Market](https://governance.aave.com/t/proposal-for-a-different-and-new-aave-money-market-the-rsk-market/1743)
 - [yEarn V2 desde adentro, para todos los niveles](https://defilatam.substack.com/p/yearn-v2-desde-adentro-para-todos)
 - [Yearn Protocol](https://github.com/iearn-finance/yearn-protocol)
+- [Loopring to Launch AMM Liquidity Mining on Layer 2](https://medium.com/loopring-protocol/loopring-to-launch-amm-liquidity-mining-on-layer-2-6cabbcf4801c)
 
 ## Oracles
 
