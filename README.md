@@ -273,6 +273,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [RIF on Chain Launch](https://medium.com/moneyonchain/rif-on-chain-launch-35c1c14219ef)
 - [RIF on Chain](https://rif.moneyonchain.com/)
 
+## RSK-based
+
+- [How To Use RSKSwap Smart Contracts To Automate Trading](https://hackernoon.com/how-to-use-rskswap-smart-contracts-to-automate-trading-qi3a31rc)
+
 ## Open Finance
 
 - [RIF Expert Panel: Open Finance vs. DeFi](https://www.youtube.com/watch?v=CnuXfQAxdQc&feature=youtu.be)
