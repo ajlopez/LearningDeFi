@@ -6,6 +6,7 @@ A "potpourri" of resources about Decentralized Finance.
 
 - [The DeFi Stack](https://multicoin.capital/2020/11/24/the-defi-stack/)
 - [Crypto Mega Theses](https://multicoin.capital/2019/04/24/multicoin-investment-thesis/)
+- [DeFi-ning DeFi: Challenges & Pathway](https://arxiv.org/pdf/2101.05589.pdf)
 - [Accelerating The Adoption Of DeFi](https://medium.com/anthemis-insights/accelerating-the-adoption-of-defi-68510493051b)
 - [What are DeFi’s biggest technical challenges?](https://twitter.com/jamie247/status/1153190847892152320)
 - [Crypto Lending the Missing Ingredient](https://medium.com/swlh/crypto-lending-the-missing-ingredient-4862d54cdf53)
@@ -263,6 +264,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi on Bitcoin Gets a Boost as Sovryn Launches on RSK Sidechain](https://www.nasdaq.com/articles/defi-on-bitcoin-gets-a-boost-as-sovryn-launches-on-rsk-sidechain-2020-12-15)
 - [How Sovryn Offers Non-Custodial DeFi to Bitcoin Holders](https://hackernoon.com/how-sovryn-offers-non-custodial-defi-to-bitcoin-holders-7de34bw)
 - [Sovryn Episode 0.1 - Escape the FiatLords!](https://www.youtube.com/watch?v=z1iKPDXKjUo&feature=emb_logo)
+- [Sovryn Black Paper](https://sovryn.app/blog/the-sovryn-black-paper-documents-vision-for-bitcoin-native-fullstack-operating-system.html)
 
 ## RIF on Chain
 
