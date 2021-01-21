@@ -252,6 +252,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Money on Chain, Bitcoin-based DeFi, Launches Liquidity Mining Initiative](https://u.today/money-on-chain-bitcoin-based-defi-launches-liquidity-mining-initiative)
 - [Money on Chain Liquidity Mining](https://moneyonchain.com/liquiditymining/)
 - [Why be a BPro early adopter?](https://moneyonchain.com/blog/why-be-a-bpro-early-adopter/)
+- [DEFI en BITCOIN | BPRO Token y MOC Token](https://www.youtube.com/watch?v=s3T966_pMn0&feature=youtu.be)
 
 ## Sovryn
 
