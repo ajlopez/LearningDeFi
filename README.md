@@ -441,6 +441,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [yEarn V2 desde adentro, para todos los niveles](https://defilatam.substack.com/p/yearn-v2-desde-adentro-para-todos)
 - [Yearn Protocol](https://github.com/iearn-finance/yearn-protocol)
 - [Loopring to Launch AMM Liquidity Mining on Layer 2](https://medium.com/loopring-protocol/loopring-to-launch-amm-liquidity-mining-on-layer-2-6cabbcf4801c)
+- [DeFi Pooling](https://medium.com/starkware/defi-pooling-1332ddebff21)
 
 ## Oracles
 
