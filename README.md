@@ -266,6 +266,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How Sovryn Offers Non-Custodial DeFi to Bitcoin Holders](https://hackernoon.com/how-sovryn-offers-non-custodial-defi-to-bitcoin-holders-7de34bw)
 - [Sovryn Episode 0.1 - Escape the FiatLords!](https://www.youtube.com/watch?v=z1iKPDXKjUo&feature=emb_logo)
 - [Sovryn Black Paper](https://sovryn.app/blog/the-sovryn-black-paper-documents-vision-for-bitcoin-native-fullstack-operating-system.html)
+- [The Sovryn Genesis Sale: Extending the Bitocracy to Early Sovryn Users](https://sovryn.app/blog/the-sovryn-genesis-sale-extending-the-bitocracy-to-early-sovryn-users.html)
 
 ## RIF on Chain
 
