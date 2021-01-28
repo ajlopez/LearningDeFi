@@ -60,6 +60,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [RIF Expert Panel: Open Finance vs. DeFi](https://www.youtube.com/watch?v=CnuXfQAxdQc&feature=youtu.be)
 - [How Interoperability is Becoming the Hottest Topic in DeFi](https://u.today/how-interoperability-is-becoming-the-hottest-topic-in-defi)
 - [Announcing the launch of ‘DeFi Database’](https://medium.com/@andyjbryant/announcing-the-launch-of-defi-database-3b9a09ee08d2)
+- [Collateralized Debt Obligations Make Their Way Into DeFi Lending](https://www.coindesk.com/collateralized-debt-obligations-cdos-defi-lending)
 
 ## Information
 
@@ -280,6 +281,7 @@ A "potpourri" of resources about Decentralized Finance.
 ## RSK
 
 - [How To Use RSKSwap Smart Contracts To Automate Trading](https://hackernoon.com/how-to-use-rskswap-smart-contracts-to-automate-trading-qi3a31rc)
+- [How RSK Blockchain is making waves with DeFi on Bitcoin](https://owanateamachree.medium.com/how-rsk-blockchain-is-making-waves-with-defi-on-bitcoin-340edaca89d)
 
 ## Open Finance
 
