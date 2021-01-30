@@ -130,6 +130,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Defi On Bitcoin: Decentralized Exchanges & Stablecoins on top of Bitcoin´s Network](https://blockgeeks.com/guides/defi-on-bitcoin/)
 - [Finance Redefined: The $20,000 Bitcoin special, Dec. 9–16](https://cointelegraph.com/news/finance-redefined-the-20-000-bitcoin-special-dec-9-16)
 - [DeFi for Bitcoin: A Cheaper, More scalable Future for DeFi?](https://blog.rsk.co/noticia/defi-for-bitcoin-a-cheaper-more-scalable-future-for-defi/)
+- [DeFi Decentralized Exchanges: An Overview](https://hackernoon.com/defi-decentralized-exchanges-an-overview-45u34wg)
 
 ## Ethereum
 
