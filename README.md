@@ -466,6 +466,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Deterring Bribery Attacks on Decentralized Oracle Networks](https://medium.com/witnet/deterring-bribery-attacks-on-decentralized-oracle-networks-5bcf87d2cb22)
 - [How Perpetual Protocol Uses Chainlink to Bring a Perpetual Contract to Every Asset](https://perpetualprotocol.medium.com/how-perpetual-protocol-uses-chainlink-to-bring-a-perpetual-contract-to-every-asset-564ba5ac773e)
 - [Keep3rV1Oracle is an on-chain oracle for UniswapV2 pairs](https://docs.uniquote.finance/)
+- [WePiggy Lending Protocol Integrates Chainlink Price Feeds on Ethereum Mainnet](https://wepiggy-com.medium.com/wepiggy-lending-protocol-integrates-chainlink-price-feeds-on-ethereum-mainnet-310400eeaa94)
 
 ## News
 
