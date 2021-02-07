@@ -495,6 +495,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [CBDCs & StableCoins: Eliminating Volatiliy in a Centralized or Decentralized Crypto World](https://themerkle.com/cbdcs-stablecoins-eliminating-volatiliy-in-a-centralized-or-decentralized-crypto-world/)
 - [DeFi Lender bZx Loses $8M in Third Attack This Year](https://www.coindesk.com/defi-lender-bzx-third-attack)
 - [syUSD – A stablecoin wrapper over yUSD](https://syusd.cash/about.html)
+- [Algorithmic Stablecoins: A Beginner's Guide](https://hackernoon.com/algorithmic-stablecoins-a-beginners-guide-pmh320t)
 
 ## Automated Market Makers
 
