@@ -258,6 +258,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DEFI en BITCOIN | BPRO Token y MOC Token](https://www.youtube.com/watch?v=s3T966_pMn0&feature=youtu.be)
 - [The Cornerstone of Bitcoin DeFi](https://smartbitcoininvestor.com/the-cornerstone-of-bitcoin-defi/)
 - [MoC Stats](https://moneyonchain.com/es/stats/)
+- [What’s the difference between buy/sell and mint/redeem?](https://moneyonchain.com/blog/whats-the-difference-between-buy-sell-and-mint-redeem/)
 
 ## Sovryn
 
