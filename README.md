@@ -453,6 +453,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Pooling](https://medium.com/starkware/defi-pooling-1332ddebff21)
 - [Introducing Balancer V2: Generalized AMMs](https://medium.com/balancer-protocol/balancer-v2-generalizing-amms-16343c4563ff)
 - [Chainlink, Aave, Messari and others launch GoodFi crypto alliance](https://cointelegraph.com/news/chainlink-aave-messari-and-others-launch-goodfi-crypto-alliance)
+- [Reflexer Labs Raises $4M to Build Out ETH-Backed Stable Asset, RAI](https://www.coindesk.com/reflexer-labs-raises-4-4m-to-build-out-eth-backed-stable-asset-rai)
 
 ## Oracles
 
