@@ -472,6 +472,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [How Perpetual Protocol Uses Chainlink to Bring a Perpetual Contract to Every Asset](https://perpetualprotocol.medium.com/how-perpetual-protocol-uses-chainlink-to-bring-a-perpetual-contract-to-every-asset-564ba5ac773e)
 - [Keep3rV1Oracle is an on-chain oracle for UniswapV2 pairs](https://docs.uniquote.finance/)
 - [WePiggy Lending Protocol Integrates Chainlink Price Feeds on Ethereum Mainnet](https://wepiggy-com.medium.com/wepiggy-lending-protocol-integrates-chainlink-price-feeds-on-ethereum-mainnet-310400eeaa94)
+- [Inside Vesper: Modularity](https://medium.com/vesperfinance/inside-vesper-modularity-48e64c810760)
+- [Inside Vesper: Multi-Pool](https://medium.com/vesperfinance/inside-vesper-multi-pool-3ea7f7325d39)
 
 ## News
 
