@@ -456,6 +456,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Chainlink, Aave, Messari and others launch GoodFi crypto alliance](https://cointelegraph.com/news/chainlink-aave-messari-and-others-launch-goodfi-crypto-alliance)
 - [Reflexer Labs Raises $4M to Build Out ETH-Backed Stable Asset, RAI](https://www.coindesk.com/reflexer-labs-raises-4-4m-to-build-out-eth-backed-stable-asset-rai)
 - [Love & coordination at the frontier of governance: How Yearn minted $300 million](https://cointelegraph.com/magazine/2021/02/15/love-coordination-at-the-frontier-of-governance-how-yearn-minted-300-million)
+- [rLending in RSK](https://test.rlending.app/)
+- [rLending Protocol](https://github.com/riflending/rlending-protocol)
 
 ## Oracles
 
