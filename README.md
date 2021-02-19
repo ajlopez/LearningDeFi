@@ -458,6 +458,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Love & coordination at the frontier of governance: How Yearn minted $300 million](https://cointelegraph.com/magazine/2021/02/15/love-coordination-at-the-frontier-of-governance-how-yearn-minted-300-million)
 - [rLending in RSK](https://test.rlending.app/)
 - [rLending Protocol](https://github.com/riflending/rlending-protocol)
+- [DeFi aggregator growth 'set to dwarf 2020’s volume'](https://cointelegraph.com/news/defi-aggregator-growth-set-to-dwarf-2020-s-volume)
+- [Introducing DeFi Simulation](https://defi.instadapp.io/)
 
 ## Oracles
 
