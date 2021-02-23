@@ -62,6 +62,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Announcing the launch of ‘DeFi Database’](https://medium.com/@andyjbryant/announcing-the-launch-of-defi-database-3b9a09ee08d2)
 - [Collateralized Debt Obligations Make Their Way Into DeFi Lending](https://www.coindesk.com/collateralized-debt-obligations-cdos-defi-lending)
 - [Ponzinomics: la economía piramidal en las DeFi de Ethereum](https://www.criptonoticias.com/opinion/ponzinomics-economia-piramidal-defi-ethereum/)
+- [Defi Is About (Freedom of) Choice](https://hackernoon.com/defi-is-about-freedom-of-choice-ghk33ot)
 
 ## Information
 
@@ -261,6 +262,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [The Cornerstone of Bitcoin DeFi](https://smartbitcoininvestor.com/the-cornerstone-of-bitcoin-defi/)
 - [MoC Stats](https://moneyonchain.com/es/stats/)
 - [What’s the difference between buy/sell and mint/redeem?](https://moneyonchain.com/blog/whats-the-difference-between-buy-sell-and-mint-redeem/)
+- [How to use Liquality to swap BTC for rBTC?](https://forum.moneyonchain.com/t/how-to-use-liquality-to-swap-btc-for-rbtc/167)
 
 ## Sovryn
 
