@@ -63,6 +63,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Collateralized Debt Obligations Make Their Way Into DeFi Lending](https://www.coindesk.com/collateralized-debt-obligations-cdos-defi-lending)
 - [Ponzinomics: la economía piramidal en las DeFi de Ethereum](https://www.criptonoticias.com/opinion/ponzinomics-economia-piramidal-defi-ethereum/)
 - [Defi Is About (Freedom of) Choice](https://hackernoon.com/defi-is-about-freedom-of-choice-ghk33ot)
+- [Announcing the DeFi Alliance Fund](https://defialliance.co/announcing-the-defi-alliance-fund/)
 
 ## Information
 
