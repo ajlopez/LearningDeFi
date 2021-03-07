@@ -463,6 +463,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [rLending Protocol](https://github.com/riflending/rlending-protocol)
 - [DeFi aggregator growth 'set to dwarf 2020’s volume'](https://cointelegraph.com/news/defi-aggregator-growth-set-to-dwarf-2020-s-volume)
 - [Introducing DeFi Simulation](https://defi.instadapp.io/)
+- [GoodGhosting: A DeFi pool which rewards regular savings](https://goodghosting.com/#/)
 
 ## Oracles
 
