@@ -483,6 +483,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [WePiggy Lending Protocol Integrates Chainlink Price Feeds on Ethereum Mainnet](https://wepiggy-com.medium.com/wepiggy-lending-protocol-integrates-chainlink-price-feeds-on-ethereum-mainnet-310400eeaa94)
 - [Inside Vesper: Modularity](https://medium.com/vesperfinance/inside-vesper-modularity-48e64c810760)
 - [Inside Vesper: Multi-Pool](https://medium.com/vesperfinance/inside-vesper-multi-pool-3ea7f7325d39)
+- [How Chainlink Supports Any Off-Chain Data Resource and Computation](https://blog.chain.link/how-chainlink-supports-any-off-chain-data-resource-and-computation/)
 
 ## News
 
