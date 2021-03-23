@@ -360,6 +360,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [A Deep Dive into Liquidity Pools](https://blog.zerion.io/liquidity-pools-8ac8cf8cf230)
 - [Uniswap: A Good Deal for Liquidity Providers?](https://pintail.medium.com/uniswap-a-good-deal-for-liquidity-providers-104c0b6816f2) with sample of adding liquidity
 - [Understanding Uniswap Returns](https://pintail.medium.com/understanding-uniswap-returns-cc593f3499ef)
+- [Overview of Uniswap v3](https://twitter.com/Uniswap/status/1374407380520239109)
+- [El feature mas sobresaliente de Uniswap V3](https://twitter.com/Mariandipietra/status/1374431863184314376)
 
 ## Projects
 
