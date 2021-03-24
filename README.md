@@ -488,6 +488,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Inside Vesper: Modularity](https://medium.com/vesperfinance/inside-vesper-modularity-48e64c810760)
 - [Inside Vesper: Multi-Pool](https://medium.com/vesperfinance/inside-vesper-multi-pool-3ea7f7325d39)
 - [How Chainlink Supports Any Off-Chain Data Resource and Computation](https://blog.chain.link/how-chainlink-supports-any-off-chain-data-resource-and-computation/)
+- [Filecoin and Chainlink Integration to Bring Advanced Decentralized Storage Solutions to Web 3.0 Developers](https://filecoin.io/blog/posts/filecoin-and-chainlink-integration-to-bring-advanced-decentralized-storage-solutions-to-web-3.0-developers/)
 
 ## News
 
