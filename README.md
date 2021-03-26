@@ -280,6 +280,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Sovryn Episode 0.1 - Escape the FiatLords!](https://www.youtube.com/watch?v=z1iKPDXKjUo&feature=emb_logo)
 - [Sovryn Black Paper](https://sovryn.app/blog/the-sovryn-black-paper-documents-vision-for-bitcoin-native-fullstack-operating-system.html)
 - [The Sovryn Genesis Sale: Extending the Bitocracy to Early Sovryn Users](https://sovryn.app/blog/the-sovryn-genesis-sale-extending-the-bitocracy-to-early-sovryn-users.html)
+- [What do Bitcoiners think of Sovryn, is it worth looking at?](https://twitter.com/PeterMcCormack/status/1375149197914161153)
 
 ## RIF on Chain
 
