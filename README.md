@@ -76,6 +76,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [Loan Scan](https://loanscan.io/)
 - [Why DeFi Pulse’s Key Metric Is So Simple It’s Confusing](https://www.coindesk.com/defi-pulse-decentralized-finance-data-site-tvl)
 - [DeFi Yield](https://defiyield.info/)
+- [DefiSafety](https://defisafety.com/)
+- [DEX Ranking](https://debank.com/ranking/dex?chart_date=1M&chart_mode=amount)
 
 ## Funding
 
@@ -470,7 +472,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Introducing DeFi Simulation](https://defi.instadapp.io/)
 - [GoodGhosting: A DeFi pool which rewards regular savings](https://goodghosting.com/#/)
 - [Introducing Kashi Lending & Margin Trading on SushiSwap’s BentoBox](https://medium.com/sushiswap-org/introducing-kashi-lending-margin-trading-on-sushiswaps-bentobox-eb91286f6910)
-- [DEX Ranking](https://debank.com/ranking/dex?chart_date=1M&chart_mode=amount)
 
 ## Oracles
 
