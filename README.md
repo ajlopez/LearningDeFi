@@ -78,6 +78,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Yield](https://defiyield.info/)
 - [DefiSafety](https://defisafety.com/)
 - [DEX Ranking](https://debank.com/ranking/dex?chart_date=1M&chart_mode=amount)
+- [DeFi LATAM](https://defilatam.com/)
 
 ## Funding
 
