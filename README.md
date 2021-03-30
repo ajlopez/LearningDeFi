@@ -118,6 +118,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi liquidity pools, explained](https://cointelegraph.com/explained/defi-liquidity-pools-explained)
 - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [DeFi para principiantes](https://twitter.com/definovato/status/1372993123484323848)
+- [DeFi 101: Tokens, Tools, and Trading](https://poloniex.com/learn/defi)
 
 ## Bitcoin
 
