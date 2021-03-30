@@ -270,6 +270,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [What’s the difference between buy/sell and mint/redeem?](https://moneyonchain.com/blog/whats-the-difference-between-buy-sell-and-mint-redeem/)
 - [How to use Liquality to swap BTC for rBTC?](https://forum.moneyonchain.com/t/how-to-use-liquality-to-swap-btc-for-rbtc/167)
 - [BitPro Token: Bitcoin on Steroids](https://smartbitcoininvestor.com/bitcoin-on-steroids/)
+- [TEX, the Decentralized Token Exchange](https://smartbitcoininvestor.com/tex-the-decentralized-token-exchange/)
 
 ## Sovryn
 
