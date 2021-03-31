@@ -528,6 +528,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [DeFi Lender bZx Loses $8M in Third Attack This Year](https://www.coindesk.com/defi-lender-bzx-third-attack)
 - [syUSD – A stablecoin wrapper over yUSD](https://syusd.cash/about.html)
 - [Algorithmic Stablecoins: A Beginner's Guide](https://hackernoon.com/algorithmic-stablecoins-a-beginners-guide-pmh320t)
+- [Can Decentralized Stablecoins Stabilize?](https://www.coindesk.com/can-decentralized-stablecoins-stabilize)
 
 ## Automated Market Makers
 
