@@ -21,7 +21,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Best Books for Crypto Traders](https://medium.com/shapeshift-stories/best-books-for-crypto-traders-a4127a6fbc45)
 - [DeFi Accounting: A compliant and tax-ready tracking DeFi Activity](https://medium.com/orwl-avocats/defi-accounting-a-compliant-and-tax-ready-tracking-defi-activity-31d93ef60d8e)
 - [#KyberDeFi Hackathon: Meet the Winners](https://blog.kyber.network/kyberdefi-hackathon-meet-the-winners-bea5bc9ec983)
-- [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/defi-3-2020-borderless-state-of-defi)
 - [On Tokens and Liquidity](https://medium.com/@ajit.tripathi/on-tokens-and-liquidity-f74cc5f05d52)
 - [Batched Bonding Curves](https://medium.com/@billyrennekamp/batched-bonding-curves-ce69a57d8ae4)
 - [How Decentralized is DeFi? A Framework for Classifying Lending Protocols](https://hackernoon.com/how-decentralized-is-defi-a-framework-for-classifying-lending-protocols-90981f2c007f)
@@ -32,7 +31,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [The impact DeFi will have on the world is unimaginable](https://www.valuewalk.com/2020/02/defi-decentralized-finance/)
 - [Ethereum is an Emergent Structure](https://medium.com/quiknode/ethereum-events-monitoring-using-eventeum-f81695d92e05)
 - [Market Report: 2019 DeFi Year in Review](https://defirate.com/market-report-2019/)
-- [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/2020-borderless-state-of-defi)
 - [2019 Was The Year of DeFi (and Why 2020 Will be Too)](https://consensys.net/blog/news/2019-was-the-year-of-defi-and-why-2020-will-be-too/)
 - [Mapping Decentralized Finance (DeFi)](https://outlierventures.io/wp-content/uploads/2019/06/Mapping-Decentralised-Finance-DeFi-report.pdf)
 - [March 12: The Day Crypto Market Structure Broke (Part 1)](https://multicoin.capital/2020/03/17/march-12-the-day-crypto-market-structure-broke/)
@@ -112,7 +110,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [How Lending Pool Interest Rates actually work](https://medium.com/hydro-protocol/how-lending-pool-interest-rates-actually-work-375794e71716)
 - [What the Fi is DeFi?](https://www.crowdcast.io/e/defi-discussions/10)
 - [What Is DeFi?](https://www.coindesk.com/what-is-defi)
-- [New Binance-Backed DeFi Site Lets You Earn Yield on Bitcoin, Other Non-Ethereum Assets](https://www.coindesk.com/kava-labs-harvest-defi-yield-farming-usdx-hard)
 - [Ultimate DeFi Protocols Guide](https://medium.com/@sheinix/ultimate-defi-protocols-guide-a90ccb483b29)
 - [SoK: Lending Pools in Decentralized Finance](https://arxiv.org/pdf/2012.13230.pdf)
 - [DeFi liquidity pools, explained](https://cointelegraph.com/explained/defi-liquidity-pools-explained)
@@ -437,7 +434,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Growing DeFi with the help of professional market makers: 0x’s new Request for Quote system](https://blog.0xproject.com/growing-defi-with-the-help-of-professional-market-makers-0xs-new-request-for-quote-system-8d5fb08594bf)
 - [BarnBridge Fluctuation Derivatives Protocol](https://github.com/BarnBridge/BarnBridge-Whitepaper)
 - [Volumen de trading en la DEX Uniswap supera a Coinbase Pro](https://decrypt.co/es/40215/volumen-de-trading-en-la-dex-uniswap-supera-a-coinbase-pro)
-- [Binance launches Ethereum-compatible blockchain to pursue DeFi](https://cointelegraph.com/news/binance-launches-ethereum-compatible-blockchain-to-pursue-defi)
 - [SushiSwap Serves Uniswap LPs Through Vampire Mining](https://defirate.com/sushiswap-vampire-mining/)
 - [Automated Liquidity Protocol on RSK](https://rskswap.com/)
 - [New Crypto Derivatives Let You Bet on (or Against) Tether’s Solvency](https://www.coindesk.com/credit-default-swaps-tether-opium)
@@ -451,7 +447,6 @@ A "potpourri" of resources about Decentralized Finance.
 - [Yearn Finance Resources](https://twitter.com/iearnfinance/status/1296722575222022144)
 - [COVER Protocol](https://medium.com/@yieldfarminginsure/cover-protocol-e202808aa4ef)
 - [The NFT Game That Makes Cents for Filipinos During COVID](https://www.coindesk.com/nft-game-filipinos-covid)
-- [Introducing Pool Savings: Miners Can Receive Up To 30% in Interest](https://www.binance.com/en/support/announcement/3d97d8c444e64909a6d6991fa27de1c8)
 - [StakeHound Bringing Staking and DeFi together](https://stakehound.com/)
 - [The Dawn of Programmable Cashflows](https://medium.com/superfluid-blog/the-dawn-of-programmable-cashflows-2d50edae05cb)
 - [DeFi Degens Hit Hard by Eminence Exploit Will Be Partially Compensated](https://www.coindesk.com/eminence-exploit-defi-compensated)
@@ -478,7 +473,16 @@ A "potpourri" of resources about Decentralized Finance.
 - [GoodGhosting: A DeFi pool which rewards regular savings](https://goodghosting.com/#/)
 - [Introducing Kashi Lending & Margin Trading on SushiSwap’s BentoBox](https://medium.com/sushiswap-org/introducing-kashi-lending-margin-trading-on-sushiswaps-bentobox-eb91286f6910)
 - [PancakeSwap (CAKE) aims to take a slice out of Uniswap’s DeFi dominance](https://cointelegraph.com/news/pancakeswap-cake-aims-to-take-a-slice-out-of-uniswap-s-defi-dominance)
+
+## Binance
+
+- [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/defi-3-2020-borderless-state-of-defi)
+- [New Binance-Backed DeFi Site Lets You Earn Yield on Bitcoin, Other Non-Ethereum Assets](https://www.coindesk.com/kava-labs-harvest-defi-yield-farming-usdx-hard)
+- [Binance launches Ethereum-compatible blockchain to pursue DeFi](https://cointelegraph.com/news/binance-launches-ethereum-compatible-blockchain-to-pursue-defi)
+- [Introducing Pool Savings: Miners Can Receive Up To 30% in Interest](https://www.binance.com/en/support/announcement/3d97d8c444e64909a6d6991fa27de1c8)
 - [Ubix Ethereum Binance Bridge](https://ubix.network/bridge/)
+- [DAI in Binance](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3)
+
 
 ## Oracles
 
