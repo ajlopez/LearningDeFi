@@ -271,6 +271,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How to use Liquality to swap BTC for rBTC?](https://forum.moneyonchain.com/t/how-to-use-liquality-to-swap-btc-for-rbtc/167)
 - [BitPro Token: Bitcoin on Steroids](https://smartbitcoininvestor.com/bitcoin-on-steroids/)
 - [TEX, the Decentralized Token Exchange](https://smartbitcoininvestor.com/tex-the-decentralized-token-exchange/)
+- [Interview: Banking On Bitcoin With Max Carjuza](https://www.nasdaq.com/articles/interview%3A-banking-on-bitcoin-with-max-carjuzaa-2021-04-01)
 
 ## Sovryn
 
@@ -286,6 +287,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Sovryn Black Paper](https://sovryn.app/blog/the-sovryn-black-paper-documents-vision-for-bitcoin-native-fullstack-operating-system.html)
 - [The Sovryn Genesis Sale: Extending the Bitocracy to Early Sovryn Users](https://sovryn.app/blog/the-sovryn-genesis-sale-extending-the-bitocracy-to-early-sovryn-users.html)
 - [What do Bitcoiners think of Sovryn, is it worth looking at?](https://twitter.com/PeterMcCormack/status/1375149197914161153)
+- [Sovryn Trading - New Ways to Profit](https://www.youtube.com/watch?v=l-xAKvK8dHU)
 
 ## RIF on Chain
 
