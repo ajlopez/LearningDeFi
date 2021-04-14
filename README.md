@@ -371,6 +371,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Overview of Uniswap v3](https://twitter.com/Uniswap/status/1374407380520239109)
 - [El feature mas sobresaliente de Uniswap V3](https://twitter.com/Mariandipietra/status/1374431863184314376)
 - [Buy & Sell tokens on Uniswap with NodeJS / Javascript](https://www.youtube.com/watch?v=QgBweHjhh1g)
+- [History of Uniswap](https://uniswap.org/blog/uniswap-history/)
 
 ## Projects
 
