@@ -116,6 +116,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Decentralized Finance: On Blockchain- and Smart Contract-Based Financial Markets](https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets)
 - [DeFi para principiantes](https://twitter.com/definovato/status/1372993123484323848)
 - [DeFi 101: Tokens, Tools, and Trading](https://poloniex.com/learn/defi)
+- [Decentralized Options Trading Protocols #101](https://hackernoon.com/decentralized-options-trading-protocols-101-251333ic)
 
 ## Bitcoin
 
