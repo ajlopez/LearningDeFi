@@ -479,6 +479,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [GoodGhosting: A DeFi pool which rewards regular savings](https://goodghosting.com/#/)
 - [Introducing Kashi Lending & Margin Trading on SushiSwap’s BentoBox](https://medium.com/sushiswap-org/introducing-kashi-lending-margin-trading-on-sushiswaps-bentobox-eb91286f6910)
 - [PancakeSwap (CAKE) aims to take a slice out of Uniswap’s DeFi dominance](https://cointelegraph.com/news/pancakeswap-cake-aims-to-take-a-slice-out-of-uniswap-s-defi-dominance)
+- [Liquity](https://www.liquity.org/)
+- [Liquity Goes Live on Ethereum Mainnet](https://medium.com/liquity/liquity-goes-live-on-ethereum-mainnet-203d295d2fc6)
 
 ## Binance
 
