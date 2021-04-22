@@ -481,6 +481,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [PancakeSwap (CAKE) aims to take a slice out of Uniswap’s DeFi dominance](https://cointelegraph.com/news/pancakeswap-cake-aims-to-take-a-slice-out-of-uniswap-s-defi-dominance)
 - [Liquity](https://www.liquity.org/)
 - [Liquity Goes Live on Ethereum Mainnet](https://medium.com/liquity/liquity-goes-live-on-ethereum-mainnet-203d295d2fc6)
+- [Conozca Tropykus.Finance, el proyecto DeFi con impacto social basado en Bitcoin](https://www.diariobitcoin.com/notas-de-prensa/conozca-tropykus-finance-el-proyecto-defi-con-impacto-social-basado-en-bitcoin/)
 
 ## Binance
 
