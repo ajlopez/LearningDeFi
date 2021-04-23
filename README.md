@@ -483,6 +483,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Liquity](https://www.liquity.org/)
 - [Liquity Goes Live on Ethereum Mainnet](https://medium.com/liquity/liquity-goes-live-on-ethereum-mainnet-203d295d2fc6)
 - [Conozca Tropykus.Finance, el proyecto DeFi con impacto social basado en Bitcoin](https://www.diariobitcoin.com/notas-de-prensa/conozca-tropykus-finance-el-proyecto-defi-con-impacto-social-basado-en-bitcoin/)
+- [The layer2.finance v0.1 Mainnet Launches: Democratize DeFi, Simple and Zero Fees](https://blog.celer.network/2021/04/22/the-layer2-finance-v0-1-mainnet-launches-democratize-defi-simple-and-zero-fees/)
 
 ## Binance
 
