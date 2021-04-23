@@ -273,6 +273,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [Interview: Banking On Bitcoin With Max Carjuza](https://www.nasdaq.com/articles/interview%3A-banking-on-bitcoin-with-max-carjuzaa-2021-04-01)
 - [How to Use TEX](https://moneyonchain.com/how-to-use-tex/)
 - [TEX at Github](https://github.com/money-on-chain/sc-moc-decentralized-exchange)
+- [Stablecoin Protocol improvements](https://moneyonchain.com/blog/stablecoin-protocol-improvements/)
 
 ## Sovryn
 
