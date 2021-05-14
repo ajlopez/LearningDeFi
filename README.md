@@ -485,6 +485,10 @@ A "potpourri" of resources about Decentralized Finance.
 - [Conozca Tropykus.Finance, el proyecto DeFi con impacto social basado en Bitcoin](https://www.diariobitcoin.com/notas-de-prensa/conozca-tropykus-finance-el-proyecto-defi-con-impacto-social-basado-en-bitcoin/)
 - [The layer2.finance v0.1 Mainnet Launches: Democratize DeFi, Simple and Zero Fees](https://blog.celer.network/2021/04/22/the-layer2-finance-v0-1-mainnet-launches-democratize-defi-simple-and-zero-fees/)
 
+## PancakeSwap
+
+- [PancakeSwap Pools](https://pancakeswap.finance/pools)
+
 ## Binance
 
 - [DeFi #3 - 2020: The Borderless State of DeFi](https://research.binance.com/analysis/defi-3-2020-borderless-state-of-defi)
