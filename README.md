@@ -275,6 +275,8 @@ A "potpourri" of resources about Decentralized Finance.
 - [TEX at Github](https://github.com/money-on-chain/sc-moc-decentralized-exchange)
 - [Stablecoin Protocol improvements](https://moneyonchain.com/blog/stablecoin-protocol-improvements/)
 - [How to claim MoC Tokens from Liquidity Mining](https://wiki.moneyonchain.com/getting-started/how-to-get-tokens/how-to-claim-moc-tokens-from-liquidity-mining)
+- [The BPro Token](https://twitter.com/manuferraritano/status/1397588610552147980)
+- [The BitPRO (BPRO), a token to earn income for Bitcoin Holders with free leverage](https://moneyonchain.com/blog/bpro-token-income-for-bitcoin-holders-free-leverage/)
 
 ## Sovryn
 
