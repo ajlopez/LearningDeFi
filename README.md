@@ -377,6 +377,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [El feature mas sobresaliente de Uniswap V3](https://twitter.com/Mariandipietra/status/1374431863184314376)
 - [Buy & Sell tokens on Uniswap with NodeJS / Javascript](https://www.youtube.com/watch?v=QgBweHjhh1g)
 - [History of Uniswap](https://uniswap.org/blog/uniswap-history/)
+- [Uniswap v3 flips v2 on volume — and both versions flip Bitcoin on fee revenue](https://cointelegraph.com/news/uniswap-v3-flips-v2-on-volume-and-both-versions-flip-bitcoin-on-fee-revenue)
 
 ## Projects
 
