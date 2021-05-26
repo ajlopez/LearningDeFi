@@ -274,6 +274,7 @@ A "potpourri" of resources about Decentralized Finance.
 - [How to Use TEX](https://moneyonchain.com/how-to-use-tex/)
 - [TEX at Github](https://github.com/money-on-chain/sc-moc-decentralized-exchange)
 - [Stablecoin Protocol improvements](https://moneyonchain.com/blog/stablecoin-protocol-improvements/)
+- [How to claim MoC Tokens from Liquidity Mining](https://wiki.moneyonchain.com/getting-started/how-to-get-tokens/how-to-claim-moc-tokens-from-liquidity-mining)
 
 ## Sovryn
 
